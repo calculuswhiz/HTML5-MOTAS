@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>MOTAS</title>
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script type="text/javascript">
+	</script>
+	<style type="text/css">
+		body
+		{
+			background-color: black;
+			color: white;
+			font-family: sans-serif;
+		}
+
+		iframe
+		{
+			border: none;
+		}
+	</style>
+</head>
+<body>
+	<!-- Need Iframes for the following:
+		Inventory/HUD
+		Game
+		Cursor
+	 -->
+	<iframe src="mystery1_HTML5 Canvas.html" id="game-frame" width="700" height="500"></iframe>
+	<br />
+	Inventory: <span id="active-object"></span>
+	<div id="inventory">
+	</div>
+	<p id="game-text"></p>
+	<p id="cursor-info">
+		<p id="cursor-text"></p>
+		<p id="cursor-state"></p>
+	</p>
+</body>
+</html>
