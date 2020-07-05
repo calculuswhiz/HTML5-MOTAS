@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"intro_HTML5 Canvas_atlas_1", frames: [[1561,0,153,62],[1153,0,406,94],[0,0,1151,72]]}
+		{name:"intro_HTML5 Canvas_atlas_1", frames: [[0,1545,153,62],[0,1609,147,62],[0,0,1151,737],[0,1471,1151,72],[0,739,1150,730]]}
 ];
 
 
@@ -26,23 +26,37 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_20 = function() {
+(lib.CachedBmp_15 = function() {
 	this.initialize(ss["intro_HTML5 Canvas_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_19 = function() {
+(lib.CachedBmp_14 = function() {
 	this.initialize(ss["intro_HTML5 Canvas_atlas_1"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_18 = function() {
+(lib.CachedBmp_13 = function() {
 	this.initialize(ss["intro_HTML5 Canvas_atlas_1"]);
 	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_12 = function() {
+	this.initialize(ss["intro_HTML5 Canvas_atlas_1"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_11 = function() {
+	this.initialize(ss["intro_HTML5 Canvas_atlas_1"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
 
@@ -270,20 +284,22 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_19();
-	this.instance.setTransform(102.55,0,0.5,0.5);
-
-	this.text = new cjs.Text("JAN", "bold 38px 'Georgia'", "#CCCCCC");
+	this.text = new cjs.Text("ALBARTUS", "italic 38px 'Georgia'", "#666666");
 	this.text.lineHeight = 43;
 	this.text.parent = this;
-	this.text.setTransform(2,2,1,0.9999);
+	this.text.setTransform(104.55,2);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text},{t:this.instance}]}).wait(1));
+	this.text_1 = new cjs.Text("JAN", "bold 38px 'Georgia'", "#CCCCCC");
+	this.text_1.lineHeight = 43;
+	this.text_1.parent = this;
+	this.text_1.setTransform(2,2,1,0.9999);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_1},{t:this.text}]}).wait(1));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,305.6,47.2);
+p.nominalBounds = new cjs.Rectangle(0,0,305.7,47.2);
 
 
 (lib.Symbol22 = function(mode,startPosition,loop,reversed) {
@@ -298,7 +314,7 @@ if (reversed == null) { reversed = false; }
 	cjs.MovieClip.apply(this,[props]);
 
 	// Layer_1
-	this.instance = new lib.CachedBmp_20();
+	this.instance = new lib.CachedBmp_15();
 	this.instance.setTransform(-28.7,-16.4,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
@@ -429,9 +445,7 @@ if (reversed == null) { reversed = false; }
 		this.stop();
 	}
 	this.frame_407 = function() {
-		// Replace with Navigate
-		alert('Replace with html navigation.');
-		// loadMovie("mystery1.swf","_root/back");
+		location.href = './mystery1_HTML5 Canvas.html';
 		this.stop();
 	}
 
@@ -462,29 +476,36 @@ if (reversed == null) { reversed = false; }
 	this.bigPlayBtn.setTransform(320,240);
 	new cjs.ButtonHelper(this.bigPlayBtn, 0, 1, 2, false, new lib.Symbol5(), 3);
 
-	this.text = new cjs.Text("Since the beginning of time and space, the universe keeps evolving into a very complex system of interacting elements, from solar systems to micro organisms.\nWe, the observers of time and space, have witnessed every aspect of the universe from every possible angle. For us, time and space has no mysteries, no end and no beginning....", "32px 'Times New Roman'", "#FFCC00");
+	this.instance = new lib.CachedBmp_11();
+	this.instance.setTransform(43.45,76.2,0.5,0.5);
+
+	this.text = new cjs.Text("Chapter 1 - Complex Theories", "32px 'Times New Roman'", "#FFCC00");
+	this.text.textAlign = "center";
 	this.text.lineHeight = 41;
 	this.text.lineWidth = 571;
 	this.text.parent = this;
-	this.text.setTransform(45.45,78.2);
+	this.text.setTransform(330.9,28.85);
 
-	this.text_1 = new cjs.Text("Chapter 1 - Complex Theories", "32px 'Times New Roman'", "#FFCC00");
+	this.text_1 = new cjs.Text("Chapter 1 - Complex Theories", "28px 'Times New Roman'", "#FFCC00");
 	this.text_1.textAlign = "center";
-	this.text_1.lineHeight = 41;
-	this.text_1.lineWidth = 571;
+	this.text_1.lineHeight = 36;
+	this.text_1.lineWidth = 578;
 	this.text_1.parent = this;
-	this.text_1.setTransform(330.9,28.85);
+	this.text_1.setTransform(323.8,28.85);
 
-	this.instance = new lib.CachedBmp_18();
-	this.instance.setTransform(43.45,26.85,0.5,0.5);
+	this.instance_1 = new lib.CachedBmp_13();
+	this.instance_1.setTransform(43.45,63.8,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.bigPlayBtn}]}).to({state:[]},304).to({state:[{t:this.text_1,p:{x:330.9,font:"32px 'Times New Roman'",lineHeight:40.7,lineWidth:571}},{t:this.text,p:{x:45.45,y:78.2,text:"Since the beginning of time and space, the universe keeps evolving into a very complex system of interacting elements, from solar systems to micro organisms.\nWe, the observers of time and space, have witnessed every aspect of the universe from every possible angle. For us, time and space has no mysteries, no end and no beginning....",font:"32px 'Times New Roman'",lineHeight:40.7,lineWidth:571}}]},1).to({state:[{t:this.text_1,p:{x:323.8,font:"28px 'Times New Roman'",lineHeight:35.85,lineWidth:578}},{t:this.text,p:{x:34.95,y:64.7,text:"It was not always like this. Once we were a race of beings roaming the universe on search for answers and knowledge, but only found more questions and misery.\nEons have passed before the first member of our people realized that there was a deeper structured process behind the common reality we were able to see and live. But to observe this alternate reality was only possible if the observer had no memory of the common reality.",font:"28px 'Times New Roman'",lineHeight:35.85,lineWidth:578}}]},22).to({state:[{t:this.instance},{t:this.text,p:{x:45.45,y:65.8,text:"The theory was; once a person was raised and lived in a certain environment, he or she could no longer see this alternate reality because of the doctrine of their own memories and experiences.\nYou are one of few humans able to experience this parallel universe first hand.  We hope to get a good report from you as you agreed to do, although we understand you cannot remember the agreement because you allowed us to wipe your memory.",font:"29px 'Times New Roman'",lineHeight:36.95,lineWidth:572}}]},22).to({state:[]},23).wait(36));
+	this.instance_2 = new lib.CachedBmp_12();
+	this.instance_2.setTransform(43.45,26.85,0.5,0.5);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.bigPlayBtn}]}).to({state:[]},304).to({state:[{t:this.text,p:{x:330.9,y:28.85,text:"Chapter 1 - Complex Theories",font:"32px 'Times New Roman'",textAlign:"center",lineHeight:40.7,lineWidth:571}},{t:this.instance}]},1).to({state:[{t:this.text_1},{t:this.text,p:{x:34.95,y:64.7,text:"It was not always like this. Once we were a race of beings roaming the universe on search for answers and knowledge, but only found more questions and misery.\nEons have passed before the first member of our people realized that there was a deeper structured process behind the common reality we were able to see and live. But to observe this alternate reality was only possible if the observer had no memory of the common reality.",font:"28px 'Times New Roman'",textAlign:"",lineHeight:35.85,lineWidth:578}}]},22).to({state:[{t:this.instance_2},{t:this.instance_1}]},22).to({state:[]},23).wait(36));
 
 	// Layer_6
-	this.instance_1 = new lib.Symbol16("synched",0);
-	this.instance_1.setTransform(329.95,231.45);
-	this.instance_1.alpha = 0;
-	this.instance_1._off = true;
+	this.instance_3 = new lib.Symbol16("synched",0);
+	this.instance_3.setTransform(329.95,231.45);
+	this.instance_3.alpha = 0;
+	this.instance_3._off = true;
 
 	this.text_2 = new cjs.Text("Don't worry, as the time comes we will remind you of our agreement....", "32px 'Times New Roman'", "#FFCC00");
 	this.text_2.lineHeight = 35;
@@ -499,56 +520,54 @@ if (reversed == null) { reversed = false; }
 	this.text_3.parent = this;
 	this.text_3.setTransform(335.1,28.85);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_1}]},229).to({state:[{t:this.instance_1}]},5).to({state:[{t:this.instance_1}]},52).to({state:[{t:this.instance_1}]},5).to({state:[]},14).to({state:[{t:this.text_3},{t:this.text_2}]},67).wait(36));
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(229).to({_off:false},0).to({alpha:1},5).wait(52).to({alpha:0.8281},0).to({alpha:0},5).to({_off:true},14).wait(103));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_3}]},229).to({state:[{t:this.instance_3}]},5).to({state:[{t:this.instance_3}]},52).to({state:[{t:this.instance_3}]},5).to({state:[]},14).to({state:[{t:this.text_3},{t:this.text_2}]},67).wait(36));
+	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(229).to({_off:false},0).to({alpha:1},5).wait(52).to({alpha:0.8281},0).to({alpha:0},5).to({_off:true},14).wait(103));
 
 	// Layer_7
-	this.instance_2 = new lib.Symbol3("synched",0);
-	this.instance_2.setTransform(321.75,227.9);
-	this.instance_2.alpha = 0;
-
-	this.instance_3 = new lib.JanAlbartus("synched",0);
-	this.instance_3.setTransform(327.05,234.3,1,1,0,0,0,152.8,23.6);
-	this.instance_3._off = true;
-
-	this.text_4 = new cjs.Text("DONE", "24px 'Arial'", "#FFCC00");
-	this.text_4.lineHeight = 27;
-	this.text_4.parent = this;
-	this.text_4.setTransform(21.15,13.55);
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_2}]}).to({state:[{t:this.instance_2}]},19).to({state:[{t:this.instance_2}]},67).to({state:[{t:this.instance_2}]},18).to({state:[]},1).to({state:[{t:this.instance_3}]},114).to({state:[{t:this.instance_3}]},11).to({state:[{t:this.instance_3}]},61).to({state:[{t:this.instance_3}]},13).to({state:[]},1).to({state:[{t:this.text_4}]},77).to({state:[]},1).wait(25));
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({alpha:1},19).wait(67).to({alpha:0.9492},0).to({alpha:0},18).to({_off:true},1).wait(303));
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(219).to({_off:false},0).wait(11).to({startPosition:0},0).wait(61).to({startPosition:0},0).wait(13).to({startPosition:0},0).to({_off:true},1).wait(103));
-
-	// Layer_8
-	this.instance_4 = new lib.Symbol2("synched",0);
-	this.instance_4.setTransform(327.5,221.8);
+	this.instance_4 = new lib.Symbol3("synched",0);
+	this.instance_4.setTransform(321.75,227.9);
 	this.instance_4.alpha = 0;
 
-	this.instance_5 = new lib.Symbol11();
-	this.instance_5.setTransform(322.1,219.6);
-	this.instance_5.alpha = 0;
+	this.instance_5 = new lib.JanAlbartus("synched",0);
+	this.instance_5.setTransform(327.05,234.3,1,1,0,0,0,152.8,23.6);
 	this.instance_5._off = true;
 
-	this.instance_6 = new lib.Symbol12("synched",0);
-	this.instance_6.setTransform(220.4,251.45,20.7455,20.7455);
-	this.instance_6.alpha = 0;
-	this.instance_6._off = true;
+	this.instance_6 = new lib.CachedBmp_14();
+	this.instance_6.setTransform(19.15,11.55,0.5,0.5);
 
-	this.instance_7 = new lib.Symbol22();
-	this.instance_7.setTransform(47,28);
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_4}]}).to({state:[{t:this.instance_4}]},19).to({state:[{t:this.instance_4}]},67).to({state:[{t:this.instance_4}]},18).to({state:[]},1).to({state:[{t:this.instance_5}]},114).to({state:[{t:this.instance_5}]},11).to({state:[{t:this.instance_5}]},61).to({state:[{t:this.instance_5}]},13).to({state:[]},1).to({state:[{t:this.instance_6}]},77).to({state:[]},1).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({alpha:1},19).wait(67).to({alpha:0.9492},0).to({alpha:0},18).to({_off:true},1).wait(303));
+	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(219).to({_off:false},0).wait(11).to({startPosition:0},0).wait(61).to({startPosition:0},0).wait(13).to({startPosition:0},0).to({_off:true},1).wait(103));
+
+	// Layer_8
+	this.instance_7 = new lib.Symbol2("synched",0);
+	this.instance_7.setTransform(327.5,221.8);
+	this.instance_7.alpha = 0;
+
+	this.instance_8 = new lib.Symbol11();
+	this.instance_8.setTransform(322.1,219.6);
+	this.instance_8.alpha = 0;
+	this.instance_8._off = true;
+
+	this.instance_9 = new lib.Symbol12("synched",0);
+	this.instance_9.setTransform(220.4,251.45,20.7455,20.7455);
+	this.instance_9.alpha = 0;
+	this.instance_9._off = true;
+
+	this.instance_10 = new lib.Symbol22();
+	this.instance_10.setTransform(47,28);
 
 	this.more = new lib.Symbol22();
 	this.more.name = "more";
 	this.more.setTransform(47,28);
 
-	this.instance_8 = new lib.Symbol20("synched",0);
-	this.instance_8.setTransform(40.25,0);
+	this.instance_11 = new lib.Symbol20("synched",0);
+	this.instance_11.setTransform(40.25,0);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_4}]}).to({state:[{t:this.instance_4}]},19).to({state:[{t:this.instance_4}]},67).to({state:[{t:this.instance_4}]},18).to({state:[{t:this.instance_5}]},1).to({state:[{t:this.instance_5}]},12).to({state:[{t:this.instance_5}]},89).to({state:[{t:this.instance_5}]},12).to({state:[{t:this.instance_6}]},1).to({state:[{t:this.instance_6}]},11).to({state:[{t:this.instance_6}]},61).to({state:[{t:this.instance_6}]},13).to({state:[]},1).to({state:[{t:this.instance_7}]},10).to({state:[]},1).to({state:[{t:this.more}]},20).to({state:[]},1).to({state:[{t:this.more}]},22).to({state:[]},1).to({state:[{t:this.instance_8}]},22).to({state:[]},1).wait(25));
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({alpha:1},19).wait(67).to({alpha:0.9492},0).to({alpha:0},18).to({_off:true},1).wait(303));
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(105).to({_off:false},0).to({alpha:1},12).wait(89).to({alpha:0.9219},0).to({alpha:0},12).to({_off:true},1).wait(189));
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(219).to({_off:false},0).to({alpha:1},11).wait(61).to({scaleX:20.7451,scaleY:20.7451,x:220.9,y:251.9,alpha:0.9297},0).to({scaleX:20.7455,scaleY:20.7455,x:220.4,y:251.45,alpha:0},13).to({_off:true},1).wait(103));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_7}]}).to({state:[{t:this.instance_7}]},19).to({state:[{t:this.instance_7}]},67).to({state:[{t:this.instance_7}]},18).to({state:[{t:this.instance_8}]},1).to({state:[{t:this.instance_8}]},12).to({state:[{t:this.instance_8}]},89).to({state:[{t:this.instance_8}]},12).to({state:[{t:this.instance_9}]},1).to({state:[{t:this.instance_9}]},11).to({state:[{t:this.instance_9}]},61).to({state:[{t:this.instance_9}]},13).to({state:[]},1).to({state:[{t:this.instance_10}]},10).to({state:[]},1).to({state:[{t:this.more}]},20).to({state:[]},1).to({state:[{t:this.more}]},22).to({state:[]},1).to({state:[{t:this.instance_11}]},22).to({state:[]},1).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({alpha:1},19).wait(67).to({alpha:0.9492},0).to({alpha:0},18).to({_off:true},1).wait(303));
+	this.timeline.addTween(cjs.Tween.get(this.instance_8).wait(105).to({_off:false},0).to({alpha:1},12).wait(89).to({alpha:0.9219},0).to({alpha:0},12).to({_off:true},1).wait(189));
+	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(219).to({_off:false},0).to({alpha:1},11).wait(61).to({scaleX:20.7451,scaleY:20.7451,x:220.9,y:251.9,alpha:0.9297},0).to({scaleX:20.7455,scaleY:20.7455,x:220.4,y:251.45,alpha:0},13).to({_off:true},1).wait(103));
 
 	// Layer_9
 	this.shape = new cjs.Shape();

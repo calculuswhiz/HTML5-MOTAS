@@ -1,5 +1,5 @@
 // Access given to the game iframe, not main html src.
-let MOTAS = (function ()
+var MOTAS = (function ()
 {
 	let _level = null;
 	this.level = () => _level;
@@ -48,6 +48,11 @@ let MOTAS = (function ()
 		{
 			parent.$('#cursor-state').text('Cursor State:' + state);
 			console.log('Cursor State: ' + state);
+		},
+		setBoth: function (text, state)
+		{
+			MOTAS.cursor.setText(text);
+			MOTAS.cursor.setState(state);
 		}
 	};
 
@@ -57,8 +62,13 @@ let MOTAS = (function ()
 		console.log(text);
 	};
 
+	let flavorTextTracker = new Set();
 	this.setFlavorText = function (object, tooltip, gameText)
 	{
+		if (!flavorTextTracker.has(object))
+			flavorTextTracker.add(object);
+		else
+			return;
 		object.on('rollover', () => {MOTAS.cursor.setText(tooltip)});
 		object.on('rollout', () => {MOTAS.cursor.setText()});
 
@@ -68,7 +78,21 @@ let MOTAS = (function ()
 			object.on('click', gameText);
 	};
 
+	let quadStateTracker = new Set();
+	this.setQuadState = function (object, rollover, click, rollout, mousedown)
+	{
+		if (!quadStateTracker.has(object))
+			quadStateTracker.add(object);
+		else
+			return;
+		object.on('rollover', rollover || (()=>{}));
+		object.on('click', click || (()=>{}));
+		object.on('rollout', rollout || (()=>{}));
+		object.on('mousedown', mousedown || (()=>{}));
+	};
+
 	let _activeObject = null;
+	let _activeSlot = null;
 	function generateInvHandler(itemNo)
 	{
 		return function (evt) 
@@ -78,51 +102,62 @@ let MOTAS = (function ()
 			else
 				MOTAS.inventory.select(itemNo);
 			parent.$('#active-object').text(_activeObject);
+			parent._tmpActive = 
+			{
+				activeObject: _activeObject,
+				itemNo: itemNo
+			};
 		};
 	}
+	// Inventory management is handled at the top level here. This means we can save space in the slot.
+	// TODO: remember to set the canvases to .25 alpha
 	this.inventory = 
 	{
 		add: function (slot, invObj)
 		{
 			MOTAS.inventory[slot] = invObj;
-			MOTAS.inventory.dump();
+			MOTAS.inventory.unselect();
 		},
 		remove: function (slot)
 		{
 			MOTAS.inventory[slot] = null;
-			MOTAS.inventory.dump();
 			MOTAS.inventory.unselect();
-			_activeObject = null;
 		},
 		dump: function ()
 		{
-			parent.$('#inventory').empty();
-			for (let i = 0; i < 20; i++)
+			// There are a total of 8 inventory spaces
+			for (let i = 1; i <= 8; i++)
 			{
-				if (MOTAS.inventory[i])
-				{
-					parent.$('#inventory').append(
-						parent.$('<button>')
-							.on('click', generateInvHandler(i))
-							.text(MOTAS.inventory[i])
-					);
-				}
+				let $inventory = parent.$('#inventory');
+				let itemName = MOTAS.inventory[i];
+				let invRoot = parent.$('#obj' + i)[0]
+					.contentWindow
+					.exportRoot;
+				// This just displays the item.
+				invRoot.gotoAndStop(itemName ? itemName : 0);
+				if (i !== _activeSlot)
+					invRoot.alpha = 1;
 			}
 		},
 		select: function (num)
 		{
 			_activeObject = MOTAS.inventory[num];
+			_activeSlot = num;
+			MOTAS.inventory.dump();
 		},
-		unselect: function (num)
+		unselect: function ()
 		{
 			_activeObject = null;
-			parent.$('#active-object').text('');
+			_activeSlot = null;
+			MOTAS.inventory.dump();
 		},
-		get activeObject() { return _activeObject; }
+		get activeObject() { return _activeObject; },
+		get activeSlot() { return _activeSlot; }
 	};
 
 	// Allocate objects for levels:
 	this.lv1 = {};
+	this.lv2 = {};
 
 	return this;
 })();

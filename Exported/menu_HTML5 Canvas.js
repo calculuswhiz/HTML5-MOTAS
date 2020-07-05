@@ -24,8 +24,8 @@ lib.ssMetadata = [];
 
 
 
-(lib.bitmap1 = function() {
-	this.initialize(img.bitmap1);
+(lib.Bitmap1 = function() {
+	this.initialize(img.Bitmap1);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,640,480);// helper functions:
 
@@ -469,15 +469,15 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(2));
 
 	// Layer_7
-	this.shape_12 = new cjs.Shape();
-	this.shape_12.graphics.bf(img.bitmap1, null, new cjs.Matrix2D(1,0,0,1,-320,-240.1)).s().p("Egx/AlhMAAAhLBMBj/AAAMAAABLBg");
+	this.instance_4 = new lib.Bitmap1();
+	this.instance_4.setTransform(-320,-240);
 
-	this.timeline.addTween(cjs.Tween.get(this.shape_12).wait(2));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(2));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-320,-240.1,640,480.2);
+p.nominalBounds = new cjs.Rectangle(-320,-240,640,480);
 
 
 (lib.Symbol44 = function(mode,startPosition,loop,reversed) {
@@ -1140,16 +1140,36 @@ if (reversed == null) { reversed = false; }
 	props.reversed = reversed;
 	cjs.MovieClip.apply(this,[props]);
 
-	this.actionFrames = [0];
+	this.actionFrames = [0,1];
 	// timeline functions:
 	this.frame_0 = function() {
-		// loadMovieNum("menucredits.swf",1,"GET");
 		this.stop();
+		
+		// Button code
+		this.newGameBtn.on('click', () => {location.href = './intro_HTML5 Canvas.html'});
+		this.continueBtn.on('click', () => ()); // mysterynull.swf
 		this.bonusBtn.on('click', () => this.gotoAndStop(1));
+	}
+	this.frame_1 = function() {
+		this.creditsBtn.on('click', () => {location.href = './menucredits_HTML5 Canvas.html'});
+		this.simulated3dBtn.on('click', ()=>()); // makingof1.swf
+		this.ddaArtventureBtn.on('click', () => 
+		{ 
+			location.href = 'http://www.albartus.com/experiments/preview.htm?dda_adventure4';
+		}); // popworks
+		this.welgeleghenBtn.on('click', () => 
+		{
+			location.href = 'http://www.albartus.com/experiments/preview.htm?welgeleghen';
+		}
+		this.loganBtn.on('click', () => ()); // logan.swf
+		this.techBtn.on('click', () => ()); // tech.swf
+		this.adventuresBtn.on('click', () => ()); // adventures.swf
+		this.linksBtn.on('click', () => ()); // links.swf
+		this.ddaEngineBtn.on('click', () => ()); // dda.swf, setText('DDA ArtVenture Demo screen. 3D graphics (C) by: Jan Tulp')
 	}
 
 	// actions tween:
-	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(2));
+	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1).call(this.frame_1).wait(1));
 
 	// Layer_2
 	this.shape = new cjs.Shape();
@@ -1238,13 +1258,14 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_19},{t:this.shape_18},{t:this.shape_17},{t:this.shape_16},{t:this.shape_15},{t:this.shape_14},{t:this.shape_13},{t:this.shape_12},{t:this.shape_11},{t:this.shape_10},{t:this.shape_9},{t:this.shape_8},{t:this.shape_7}]},1).wait(1));
 
 	// Layer_4
-	this.instance = new lib.Symbol44();
-	this.instance.setTransform(539.1,423.15,0.2818,0.2361,180);
-	this.instance.alpha = 0.5;
-	this.instance._off = true;
-	new cjs.ButtonHelper(this.instance, 0, 1, 2, false, new lib.Symbol44(), 3);
+	this.ddaEngineBtn = new lib.Symbol44();
+	this.ddaEngineBtn.name = "ddaEngineBtn";
+	this.ddaEngineBtn.setTransform(539.1,423.15,0.2818,0.2361,180);
+	this.ddaEngineBtn.alpha = 0.5;
+	this.ddaEngineBtn._off = true;
+	new cjs.ButtonHelper(this.ddaEngineBtn, 0, 1, 2, false, new lib.Symbol44(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1).to({_off:false},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.ddaEngineBtn).wait(1).to({_off:false},0).wait(1));
 
 	// Layer_5
 	this.shape_20 = new cjs.Shape();
@@ -1270,13 +1291,14 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_24},{t:this.shape_23},{t:this.shape_22},{t:this.shape_21},{t:this.shape_20}]},1).wait(1));
 
 	// Layer_6
-	this.instance_1 = new lib.Symbol42();
-	this.instance_1.setTransform(259.2,423.7,0.2818,0.2361,180);
-	this.instance_1.alpha = 0.5;
-	this.instance_1._off = true;
-	new cjs.ButtonHelper(this.instance_1, 0, 1, 2, false, new lib.Symbol42(), 3);
+	this.linksBtn = new lib.Symbol42();
+	this.linksBtn.name = "linksBtn";
+	this.linksBtn.setTransform(259.2,423.7,0.2818,0.2361,180);
+	this.linksBtn.alpha = 0.5;
+	this.linksBtn._off = true;
+	new cjs.ButtonHelper(this.linksBtn, 0, 1, 2, false, new lib.Symbol42(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(1).to({_off:false},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.linksBtn).wait(1).to({_off:false},0).wait(1));
 
 	// Layer_7
 	this.shape_25 = new cjs.Shape();
@@ -1645,13 +1667,14 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_114},{t:this.shape_113},{t:this.shape_112},{t:this.shape_111},{t:this.shape_110},{t:this.shape_109},{t:this.shape_108},{t:this.shape_107},{t:this.shape_106},{t:this.shape_105},{t:this.shape_104},{t:this.shape_103},{t:this.shape_102},{t:this.shape_101},{t:this.shape_100}]},1).wait(1));
 
 	// Layer_9
-	this.instance_2 = new lib.Symbol39();
-	this.instance_2.setTransform(259.2,391.15,0.2818,0.2361,180);
-	this.instance_2.alpha = 0.5;
-	this.instance_2._off = true;
-	new cjs.ButtonHelper(this.instance_2, 0, 1, 2, false, new lib.Symbol39(), 3);
+	this.adventuresBtn = new lib.Symbol39();
+	this.adventuresBtn.name = "adventuresBtn";
+	this.adventuresBtn.setTransform(259.2,391.15,0.2818,0.2361,180);
+	this.adventuresBtn.alpha = 0.5;
+	this.adventuresBtn._off = true;
+	new cjs.ButtonHelper(this.adventuresBtn, 0, 1, 2, false, new lib.Symbol39(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).wait(1).to({_off:false},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.adventuresBtn).wait(1).to({_off:false},0).wait(1));
 
 	// Layer_10
 	this.shape_115 = new cjs.Shape();
@@ -1709,13 +1732,14 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_127},{t:this.shape_126},{t:this.shape_125},{t:this.shape_124},{t:this.shape_123},{t:this.shape_122},{t:this.shape_121},{t:this.shape_120},{t:this.shape_119},{t:this.shape_118},{t:this.shape_117},{t:this.shape_116},{t:this.shape_115}]},1).wait(1));
 
 	// Layer_11
-	this.instance_3 = new lib.Symbol37();
-	this.instance_3.setTransform(399.2,391.15,0.2818,0.2361,180);
-	this.instance_3.alpha = 0.5;
-	this.instance_3._off = true;
-	new cjs.ButtonHelper(this.instance_3, 0, 1, 2, false, new lib.Symbol37(), 3);
+	this.techBtn = new lib.Symbol37();
+	this.techBtn.name = "techBtn";
+	this.techBtn.setTransform(399.2,391.15,0.2818,0.2361,180);
+	this.techBtn.alpha = 0.5;
+	this.techBtn._off = true;
+	new cjs.ButtonHelper(this.techBtn, 0, 1, 2, false, new lib.Symbol37(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(1).to({_off:false},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.techBtn).wait(1).to({_off:false},0).wait(1));
 
 	// Layer_12
 	this.shape_128 = new cjs.Shape();
@@ -1836,13 +1860,14 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_155},{t:this.shape_154},{t:this.shape_153},{t:this.shape_152},{t:this.shape_151},{t:this.shape_150},{t:this.shape_149},{t:this.shape_148},{t:this.shape_147},{t:this.shape_146}]},1).wait(1));
 
 	// Layer_14
-	this.instance_4 = new lib.Symbol34();
-	this.instance_4.setTransform(260,357.65,0.2818,0.2361,180);
-	this.instance_4.alpha = 0.5;
-	this.instance_4._off = true;
-	new cjs.ButtonHelper(this.instance_4, 0, 1, 2, false, new lib.Symbol34(), 3);
+	this.loganBtn = new lib.Symbol34();
+	this.loganBtn.name = "loganBtn";
+	this.loganBtn.setTransform(260,357.65,0.2818,0.2361,180);
+	this.loganBtn.alpha = 0.5;
+	this.loganBtn._off = true;
+	new cjs.ButtonHelper(this.loganBtn, 0, 1, 2, false, new lib.Symbol34(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(1).to({_off:false},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.loganBtn).wait(1).to({_off:false},0).wait(1));
 
 	// Layer_15
 	this.shape_156 = new cjs.Shape();
@@ -2026,13 +2051,14 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_198},{t:this.shape_197},{t:this.shape_196},{t:this.shape_195},{t:this.shape_194},{t:this.shape_193},{t:this.shape_192},{t:this.shape_191},{t:this.shape_190},{t:this.shape_189},{t:this.shape_188}]},1).wait(1));
 
 	// Layer_18
-	this.instance_5 = new lib.Symbol30();
-	this.instance_5.setTransform(540,357.65,0.2818,0.2361,180);
-	this.instance_5.alpha = 0.5;
-	this.instance_5._off = true;
-	new cjs.ButtonHelper(this.instance_5, 0, 1, 2, false, new lib.Symbol30(), 3);
+	this.welgeleghenBtn = new lib.Symbol30();
+	this.welgeleghenBtn.name = "welgeleghenBtn";
+	this.welgeleghenBtn.setTransform(540,357.65,0.2818,0.2361,180);
+	this.welgeleghenBtn.alpha = 0.5;
+	this.welgeleghenBtn._off = true;
+	new cjs.ButtonHelper(this.welgeleghenBtn, 0, 1, 2, false, new lib.Symbol30(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).wait(1).to({_off:false},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.welgeleghenBtn).wait(1).to({_off:false},0).wait(1));
 
 	// Layer_19
 	this.shape_199 = new cjs.Shape();
@@ -2090,13 +2116,14 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_211},{t:this.shape_210},{t:this.shape_209},{t:this.shape_208},{t:this.shape_207},{t:this.shape_206},{t:this.shape_205},{t:this.shape_204},{t:this.shape_203},{t:this.shape_202},{t:this.shape_201},{t:this.shape_200},{t:this.shape_199}]},1).wait(1));
 
 	// Layer_20
-	this.instance_6 = new lib.Symbol28();
-	this.instance_6.setTransform(539.1,390.65,0.2818,0.2361,180);
-	this.instance_6.alpha = 0.5;
-	this.instance_6._off = true;
-	new cjs.ButtonHelper(this.instance_6, 0, 1, 2, false, new lib.Symbol28(), 3);
+	this.ddaArtventure = new lib.Symbol28();
+	this.ddaArtventure.name = "ddaArtventure";
+	this.ddaArtventure.setTransform(539.1,390.65,0.2818,0.2361,180);
+	this.ddaArtventure.alpha = 0.5;
+	this.ddaArtventure._off = true;
+	new cjs.ButtonHelper(this.ddaArtventure, 0, 1, 2, false, new lib.Symbol28(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).wait(1).to({_off:false},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.ddaArtventure).wait(1).to({_off:false},0).wait(1));
 
 	// Layer_21
 	this.shape_212 = new cjs.Shape();
@@ -2146,13 +2173,14 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.shape_222},{t:this.shape_221},{t:this.shape_220},{t:this.shape_219},{t:this.shape_218},{t:this.shape_217},{t:this.shape_216},{t:this.shape_215},{t:this.shape_214},{t:this.shape_213},{t:this.shape_212}]},1).wait(1));
 
 	// Layer_22
-	this.instance_7 = new lib.Symbol26();
-	this.instance_7.setTransform(400,357.65,0.2818,0.2361,180);
-	this.instance_7.alpha = 0.5;
-	this.instance_7._off = true;
-	new cjs.ButtonHelper(this.instance_7, 0, 1, 2, false, new lib.Symbol26(), 3);
+	this.simulated3dBtn = new lib.Symbol26();
+	this.simulated3dBtn.name = "simulated3dBtn";
+	this.simulated3dBtn.setTransform(400,357.65,0.2818,0.2361,180);
+	this.simulated3dBtn.alpha = 0.5;
+	this.simulated3dBtn._off = true;
+	new cjs.ButtonHelper(this.simulated3dBtn, 0, 1, 2, false, new lib.Symbol26(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).wait(1).to({_off:false},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.simulated3dBtn).wait(1).to({_off:false},0).wait(1));
 
 	// Layer_23
 	this.shape_223 = new cjs.Shape();
@@ -2244,12 +2272,13 @@ if (reversed == null) { reversed = false; }
 	this.bonusBtn.alpha = 0.5;
 	new cjs.ButtonHelper(this.bonusBtn, 0, 1, 2, false, new lib.Symbol21(), 3);
 
-	this.instance_8 = new lib.Symbol24();
-	this.instance_8.setTransform(540.35,86.55,0.2818,0.2818,180);
-	this.instance_8.alpha = 0.5;
-	new cjs.ButtonHelper(this.instance_8, 0, 1, 2, false, new lib.Symbol24(), 3);
+	this.creditsBtn = new lib.Symbol24();
+	this.creditsBtn.name = "creditsBtn";
+	this.creditsBtn.setTransform(540.35,86.55,0.2818,0.2818,180);
+	this.creditsBtn.alpha = 0.5;
+	new cjs.ButtonHelper(this.creditsBtn, 0, 1, 2, false, new lib.Symbol24(), 3);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.bonusBtn}]}).to({state:[{t:this.instance_8}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.bonusBtn}]}).to({state:[{t:this.creditsBtn}]},1).wait(1));
 
 	// Layer_25
 	this.shape_243 = new cjs.Shape();
@@ -2287,31 +2316,33 @@ if (reversed == null) { reversed = false; }
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.shape_250},{t:this.shape_249},{t:this.shape_248},{t:this.shape_247},{t:this.shape_246},{t:this.shape_245},{t:this.shape_244},{t:this.shape_243}]}).wait(2));
 
 	// Layer_26
-	this.instance_9 = new lib.Symbol19();
-	this.instance_9.setTransform(246.5,86.55,0.2818,0.2818,180);
-	this.instance_9.alpha = 0.5;
-	new cjs.ButtonHelper(this.instance_9, 0, 1, 2, false, new lib.Symbol19(), 3);
+	this.continueBtn = new lib.Symbol19();
+	this.continueBtn.name = "continueBtn";
+	this.continueBtn.setTransform(246.5,86.55,0.2818,0.2818,180);
+	this.continueBtn.alpha = 0.5;
+	new cjs.ButtonHelper(this.continueBtn, 0, 1, 2, false, new lib.Symbol19(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_9).wait(2));
+	this.timeline.addTween(cjs.Tween.get(this.continueBtn).wait(2));
 
 	// Layer_27
-	this.instance_10 = new lib.Symbol18();
-	this.instance_10.setTransform(97.2,86.55,0.2818,0.2818,180);
-	this.instance_10.alpha = 0.5;
-	new cjs.ButtonHelper(this.instance_10, 0, 1, 2, false, new lib.Symbol18(), 3);
+	this.newGameBtn = new lib.Symbol18();
+	this.newGameBtn.name = "newGameBtn";
+	this.newGameBtn.setTransform(97.2,86.55,0.2818,0.2818,180);
+	this.newGameBtn.alpha = 0.5;
+	new cjs.ButtonHelper(this.newGameBtn, 0, 1, 2, false, new lib.Symbol18(), 3);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_10).wait(2));
+	this.timeline.addTween(cjs.Tween.get(this.newGameBtn).wait(2));
 
 	// Layer_28
-	this.instance_11 = new lib.Symbol11();
-	this.instance_11.setTransform(320,240.1);
+	this.instance = new lib.Symbol11();
+	this.instance.setTransform(320,240.1);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_11).wait(2));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(2));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(320,240,320,240.2);
+p.nominalBounds = new cjs.Rectangle(320,240.1,320,240.00000000000003);
 // library properties:
 lib.properties = {
 	id: 'A755EE6D64DBA947BC115E5F49B69831',
@@ -2321,7 +2352,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/bitmap1.jpg", id:"bitmap1"}
+		{src:"images/Bitmap1.png", id:"Bitmap1"}
 	],
 	preloads: []
 };
