@@ -2,60 +2,17 @@
 <html>
 <head>
 	<meta charset="utf-8" />
+	<meta http-equiv="cache-control" content="no-cache" />
 	<title>MOTAS</title>
 	<!-- Some scripts -->
 	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-	<script src="./MOTAS_API.js"></script>
+	<script src="./js/LanguageLoader.js"></script>
+	<script src="./js/MOTAS_API.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(evt) 
 		{
-			const invSlots = 8;
-			let invReadyCount = invSlots;
-			// Set up inventory iframes
-			let $inventory = $('#inventory');
-			for (let i = 1; i <= invSlots; i++)
-			{
-				$inventory.append(
-					$('<iframe>')
-						.attr(
-						{
-							// access with frameElement
-							id: 'obj' + i,
-							src: 'objects_HTML5 Canvas.html',
-							width: 70,
-							height: 70
-						})
-						.addClass('inventory-frame')
-						.on('load', () => 
-						{
-							invReadyCount--;
-							if (invReadyCount === 0)
-							{
-								$('#game-frame')
-									.attr('src', 'mystery2_HTML5 Canvas.html');
-							}
-						})
-				);
-			}
-
-			// Set up cursor:
-			// let $cursorText = $('#cursor-text').css('position', 'fixed');
-			// [...$('iframe')].forEach((frame) => 
-			// {
-			// 	$(frame.contentDocument.body).on('mousemove', (evt) => 
-			// 	{
-			// 		console.log(evt.pageY, evt.pageX);
-			// 		$cursorText.css(
-			// 		{
-			// 			top: evt.pageY,
-			// 			left: evt.pageX
-			// 		});
-			// 	});
-			// });
-			// $('body').on('mousemove', (evt) => 
-			// {
-				
-			// });
+			$('#inventory-frame').attr('src', 'NewInventory.html');
+			$('#game-frame').attr('src', 'mystery1.html');
 		});
 	</script>
 	<style type="text/css">
@@ -70,6 +27,11 @@
 		{
 			border: none;
 		}
+
+		#game-text
+		{
+			font-weight: bold;
+		}
 	</style>
 </head>
 <body>
@@ -78,10 +40,10 @@
 		Game
 		Cursor
 	 -->
-	<div id="inventory"></div>
+	<iframe id="inventory-frame" width="680" height="150" ></iframe>
 	<iframe id="game-frame" width="700" height="500"></iframe>
 	<br />
-	<p id="game-text"></p>
+	Game text: <p id="game-text"></p>
 	<p id="cursor-text"></p>
 	<p id="cursor-state"></p>
 </body>
