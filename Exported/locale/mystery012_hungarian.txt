@@ -1,0 +1,141 @@
+﻿mytxt0=Text by: Jan Albartus Translation by: dohosa
+&lang=hungarian&version=1.0
+&mytxt1=NÖVÉNY
+&mytxt2=Szép növény.
+&mytxt3=Oh ne, már megint egy lézerrel védett rész. Vajon, hogy lehet ezt feloldani?
+&mytxt4=Az alagsor. Az a gyanúm, hogy a kijárat valahol lent lesz.
+&mytxt5=
+The Mystery Of Time And Space
+
+Written by N.A.J. Nagol
+
+IBSN: 20-3466650-32
+
+
+
+
+
+(c) 2048-2052
+Published by Brain Candy Ltd.
+&mytxt6=
+00- TÁRGYMUTATÓ
+
+01 - Bevezetés
+02 – A fizika törvényei
+03 – Természet jelenségei Eistein szerint
+04 – Természet jelenségei Howking szerint
+05 – Univerzum versus Holoverzum
+06 – Dimenziók, párhuzamos univerzumok.
+07 - Időutazás
+&mytxt7=05 - Univerzum versus Holoverzum
+
+Egyik legbizarrabb elmélet azt feltételezi, hogy többszörös Univerzumok léteznek egy átfogó Holoverzumban.
+
+Az Univerzum egy önmagában zárt világ a Holoverzumon belül, mely képtelen kapcsolatba lépni másik Univerzumokkal.
+
+Az Univerzum megszámlálhatatlan sok galaxisból áll, melyek önmagukban
+&mytxt8=végtelen sok csillag és még több bolygóból állnak.
+
+Volt, amikor az ember még azt hitte, hogy a Föld a világ közepe. Az emberek bizonyítottan tévedtek. A párhuzamos univerzumoknak nincs határa, de határtalan nagy tér áll rendelkezésre. Mégis a párhuzamos univerzumok minden részecskéje között a tér tágul.
+&mytxt9=06 - Dimenziók, párhuzamos univerzumok
+
+Mi is az alternatív dimenzió? Mai kutatások szerint a dimenziókban az alternatív univerzumok egymással egy időben léteznek saját magukkal.
+Ezért ezek az úgymond dimenziók valójában visszatükröződései vagy visszhangja 
+egy távoli univerzumnak, úgy, mint ahogy a rádióállomásnak is lehet számos visszhangja. 
+&mytxt10=07 - Időutazás
+
+Az idő kereke folyton forog. Az idő teszi a dolgokat megtörténté. Idő nélkül nem létezne tér, mert az idő és a tér összefüggenek. Ezért minden időutazási kísérlet változást idézne elő az anyagban. Még egy nyugvó test is mozgásba hozza a környezetében az anyagot. 
+
+Még akkor is ha le lehet lassítani a (helyi) időt, az időt sosem lehet megállítani.
+
+&mytxt11=Az idő részben a térben mozgó anyagból áll. Az anyag maga hullámok másik hullámokkal való interferenciája, mint ahogy a fény hatol át a vízen.
+
+Beavatkozás a „múlttal” létrehozhat több alternatív jelent. De beavatkozás egy alternatív múltba nem fog visszahatni az utazó jelenére de még több alternatív valóságot hoz létre.
+
+&mytxt12=Ez a könyv mindenidők legjobb eladású könyve ebben a témában. A szerző megismerteti a csodálatos világát az alternatív dimenzióknak, időutazásnak és a Holoverzumnak. 
+
+Szerzői díjat nyert: "Idősiklás", "Idő és élet", "Idegen beavatkozás", "Az idegen kapcsolat", "Hivatalos Protokol Idegennel való Találkozáshoz" és "MOTAS"
+&mytxt13=BY: N.A.J. NAGOL
+&mytxt14=RÁNC
+&mytxt15=Had simítsam ki ezt a szőnyeget.
+&mytxt16=LÁMPA
+&mytxt17=Találtam egy kicsi kulcsot a lámpába rejtve ahol senki sem találta volna meg.
+&mytxt18=Nézd, ez a lámpa forgatható. 
+&mytxt19=Ez egy mennyezeti lámpa magasan a szobában. 
+&mytxt20=Betekertem egy másik villanykörtét a lámpába.
+&mytxt21=Változtatom a lámpa helyzetét.
+&mytxt22=Hmmm, nem kapcsolódik be a fénye.
+&mytxt23=Bekapcsoltam a lámpát és a fénye valami jeleket fedett fel a sötét falon.
+&mytxt24=Kikapcsoltam a lámpát, hátha valahol szükség lesz még több áramra. 
+&mytxt25=Ha átmegyek erre az oldalra, akkor mindig visszérhetek az új ablak becsukásával.
+&mytxt26=Elég legyen, a székek unalmasak!
+&mytxt27=Népszerű és olcsó art deconak néz ki.
+&mytxt28=Had toljam csak félre…
+&mytxt29=Nem fogom visszatolni.
+&mytxt30=KÖNYV
+&mytxt31="Kreatív álom" írta: Patricia Garfield. Ez valami esti mese?
+&mytxt32=Egy doboz. Valószínűleg tele mindenféle érdekes cuccal és én ellenállok, hogy belenézzek.
+&mytxt33=Had toljam el az utamból..
+&mytxt34=Kíváncsi vagyok, hogy mi lehet a dobozban, de bizonyára ugyanolyan régi szemetet találnék.
+&mytxt35=Talán, ha eltolnám ezt a hihetetlenül nehéz fa bútordarabot, segítene nekem.
+&mytxt36=Nehéznek tűnik. Biztos nehéz is. Sajnálom azt, akinek meg kell mozdítania.
+&mytxt37=Valahogy ez nem annyira hasznos darab. Terjedelmes és nincs helyem tárolni sem.
+&mytxt38=Nem gondoltam volna, hogy ilyen könnyű lesz. Biztos a sok edzés miatt, amit itt végeztem eddig. 
+&mytxt39=Azt hiszem ebben a ládában tárolják a párnákat és a többi ágyneműt.
+&mytxt40=Szép, de súlyos és terjedelmes. Ne feledd, hogy mekkora helyet foglal el ebben a szobában.
+&mytxt41=Oh, semmi használható.
+&mytxt42=Szép bútor darab.
+&mytxt43=Ezt a szobát zseblámpa világítja be. Milyen szellemes!
+&mytxt44=KANAPÉ
+&mytxt45=Háromfős hallgatóság nézhetne TV-t ebben a szobában. Nem csoda, hogy a szobát elrejtették.
+&mytxt46=Csak egy nehéz fa komód amin a TV áll.
+&mytxt47=TV
+&mytxt48=Bármerre is járok, mindig van kábel TV. 
+&mytxt49=Nézd csak, mi van a szekrény mögött.
+&mytxt50=Jó módszer haszontalan tárgyak tárolására.
+&mytxt51=Egy csomó cucc és dobozok. Találtam egy villanykörtét, ami még jól jöhet.
+&mytxt52=Érdemes ezeket a holmikat rejtegetni?  Hmmm...
+&mytxt53=POLCOK
+&mytxt54=Nem tudom megmozdítani anélkül, hogy apró darabokra vágna szét.
+&mytxt55=Hű, egy üdítő automata. Sajna nincsen másik márkájú kólájuk.
+&mytxt56=ÉRME BEDOBÓ
+&mytxt57=Vettem magamnak egy üdítőt. Remélem hasznát veszem.
+&mytxt58=Megpróbálom megpiszkálni az érme bedobót, de nem sok sikerrel …
+&mytxt59=Még egy italt sem kaphatok itt ingyen?
+&mytxt60=Nem érem el. Szerencsére nem törtem el semmimet, amikor leestem ide.
+&mytxt61=De nem bírom kivárni, amíg átjutok.
+&mytxt62=Ez a képernyő mutatja a folyosót a lézer kapukkal.
+&mytxt63=Úgy tűnik a középső lézer kaput sikerült kiiktatni.
+&mytxt64=Oké, vegyük le a fedelet és nézzünk bele.
+&mytxt65=Bele szeretnék nézni, de nem tudom kinyitni a puszta kezemmel.
+&mytxt66=Hűha, azt hiszem, elvágtam a kezelő pult áramellátását
+&mytxt67=PIROS VEZETÉK
+&mytxt68=Hűha, azt hiszem, a rossz vezetéket vágtam el. 
+&mytxt69=KÉK VEZETÉK
+&mytxt70=Ezaz, látom, hogy a  középső kapu kikapcsol
+&mytxt71=ZÖLD VEZETÉK
+&mytxt72=Nézd találtam egy nagyobb kulcsot … és még egy csavarhúzót.
+&mytxt73=Hé, ez egy álfal!
+&mytxt74=Hmm, valami elállja az utat, és nem tudok feljutni. 
+&mytxt75=Valami elzárja az utat a másik oldalról.
+&mytxt76=Találtam egy csípőfogót.
+&mytxt77=Legalább &mytxt78=lépésbe telt, amíg megfejtettem a feladványt.
+&mytxt79=Emeleti szint. Ezen a szinten érkeztem ide. És mi van azzal a "zöld fallal"?
+&mytxt80=Zöld Fal
+&mytxt81=Átjáró
+&mytxt82=Lézer Kapu
+&mytxt83=Elmozdított Fal
+&mytxt84=Kezelő Pult nyitva
+&mytxt85=Rejtett átjáró felfedve
+&mytxt86=Kapu kikapcsolva
+&mytxt87=ÉBRESZTŐ ÓRA
+&mytxt88=Szívesen beállítanám az ébresztőt, de kétlem, hogy bárki meghallaná. Nincs kit felébreszteni.
+&mytxt89=ÁGY
+&mytxt90=Nézzük csak meg, hogy mi van az ágy alatt..
+&mytxt91=Szép ágy...
+&mytxt92=Kényelmesnek tűnik az ágy, bár nem vagyok még álmos.
+&mytxt93=SZŐNYEG
+&mytxt94=Sajna nem repít ki innen.
+&mytxt95=Megpróbálom eltolni a széket…
+&mytxt96=De nem tudom elég messze tolni.
+&mytxt97=Visszatolom a széket az eredeti pozícióba.

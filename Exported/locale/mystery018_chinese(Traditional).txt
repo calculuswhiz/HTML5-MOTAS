@@ -1,0 +1,21 @@
+﻿mytxt0=原文﹕Jan Albartus，翻譯﹕葉瀚文 (Han-Wen Yeh)
+&lang=chineseTraditional&version=1.1
+&mytxt1=最好還是不要去，可能會碰到自己。
+&mytxt2=最好還是不要碰，不然可能會產生矛盾。
+&mytxt3=我光用手打不開...
+&mytxt4=咦？這個這個螺絲起子原本不在這裡。我把它拿走好了。
+&mytxt5=哇！我來了！趕快躲在裡面！天阿...全身都沾到油漆！
+&mytxt6=哇列...是個UFO！
+&mytxt7=UFO
+&mytxt8=MOTAS機器
+&mytxt9=MOTAS機器使用它最後的能源把我帶到這裡...
+&mytxt10=小心翼翼的把時空轉換器放著。
+&mytxt11=是個神秘的一種槽。
+&mytxt12=嗯...MOTAS機器好像還是沒電。
+&mytxt13=咦？MOTAS機器又有些能源了！
+&mytxt14=啊！把極性顛倒了，而且MOTAS機器又有些能源了。
+&mytxt15=又是個MOTAS機器的密碼。我使用MOTAS機器最後的能源來把我帶走...
+&mytxt16=哇！時間在倒退呢！！！
+&mytxt17=一個關閉的面板。
+&mytxt18=我使用我最大的力量把它推開。
+&mytxt19=公告上寫著﹕「墜落時的須知」及一些數字﹕&REM=

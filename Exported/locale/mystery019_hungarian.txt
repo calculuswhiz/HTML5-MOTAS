@@ -1,0 +1,19 @@
+﻿mytxt0=Text by: Jan Albartus Translation by: dohosa
+&lang=hungarian&version=1.0
+&mytxt1=MAG
+&mytxt2=Elvetettem a magot.
+&mytxt3=Visszavettem a magot. 
+&mytxt4=Találtam egy magot, egy napon majd fa nő belőle. 
+&mytxt5=Négyzetpontos grafika és csak 16 színnel? Még a monitor is a múltból való.
+&mytxt6=Mi ez? Egy biztonsági monitor? Ennyit tudnak, manapság kihozni belőle?
+&mytxt7=Oh, milyen különös, jobb grafika, széles képernyő. A jövő elérkezett!
+&mytxt8=MOTAS SZERKEZET
+&mytxt9=Egy ültető cserép. 
+&mytxt10=Nem tehetem ide itt és most. Még leesnék…
+&mytxt11=Oh, hát nem mászhatok csak úgy erre a fára..
+&mytxt12=Ott egy átjáró, de nem érek fel. 
+&mytxt13=A történelmi könyvek a múltat fedik fel és a zárat az alábbi kóddal:&REM=
+&mytxt14=KÖNYVEK
+&mytxt15=Kijáratnak tűnik, de még nem most. 
+&mytxt16=Gázcsöves világítás, ismertebb nevén Neon.
+&mytxt17=LÉTRA

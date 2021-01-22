@@ -1,0 +1,17 @@
+﻿mytxt0=Text by: Jan Albartus Translation by: dohosa
+&lang=hungarian&version=1.0
+&mytxt1=Átállítottam a monitor képét.
+&mytxt2=MONITOR
+&mytxt3=A monitor képek időrendben vannak.
+&mytxt4=Hmm furcsa, az ajtó be van zárva…már megint.
+&mytxt5=Az ajtót valami 'időzár' zárta le. 
+&mytxt6=Kicsavarom a csavarokat és leveszem a fedelet. Itt a probléma! Egy sérült vezeték.
+&mytxt7=Egy erősen a falhoz csavarozott fedél.
+&mytxt8=Mi van ezzel a hellyel? Úgy tűnik nincs áram. .
+&mytxt9=Gyerekek, ezt SOHA ne próbáljátok ki otthon, ez veszélyes!
+&mytxt10=Nem értem, a hidat lerombolták.
+&mytxt11=Ez érdekes, az ajtóhoz vezető átjáró beomlott. 
+&mytxt12=GOLYÓ
+&mytxt13=Hé, ez egy rejtett gomb. Valami kapu jön le.
+&mytxt14=A járdának nem sok értelme van egy ilyen elhagyott világban. 
+&mytxt15=Az út megy tovább. Kell egy fuvar.

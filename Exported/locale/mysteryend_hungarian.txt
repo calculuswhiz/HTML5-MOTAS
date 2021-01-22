@@ -1,0 +1,48 @@
+﻿mytxt0=Text by: Jan Albartus, translation: mortyr
+&mytxt1=FEKETE TINTA
+&mytxt2=Belemártottam a tollat a sötét tintába. Az egyszer fényes toll
+most matt sötét.
+&mytxt3=Egyszermár belemártottam a tollat a tintába. Készen áll
+amennyire csak lehet.
+&mytxt4=A kis üvegcsében fekete tinta van. Talán tudom később
+használni.
+&mytxt5=FOLYTATJUK
+&mytxt6=GYERTYA
+&mytxt7=Áh, nézd.. Milyen aranyos kis gyertya.
+&mytxt8=FESTMÉNY EGY HÍDRÓL
+&mytxt9=A művészet szép dekoratív darabja lóg a falon, relaxáló
+atmoszférát árasztva.
+&mytxt10=ASZTAL FIÓK
+&mytxt11=Kihúztam a fiókot.
+&mytxt12=Betoltam a fiókot.
+&mytxt13=A FIÓKBAN
+&mytxt14=Most üres.
+&mytxt15=Oké, itt van valami, amit használhatok, találtam egy TOLLAT!
+&mytxt16=A VÉGSŐ JEL
+&mytxt17=Nos, úgylátszik az én kis kalandom végetér, most...
+&mytxt18=ÜDVÖZÖLLEK! REMÉLEM KELLEMESEN UTAZTÁL.
+&mytxt19=ÜDVÖZÖL
+&mytxt20="Jónapot uram"
+&mytxt21=ÜDVÖZÖLLEK ISMERETLEN. LÁTOM FELKÜZDÖTTED MAGAD A
+MISZTÉRIUMON.TÉGY EGY NAGYON MEGÉRDEMELT PIHENÉST..
+&mytxt22=KÉRDEZZ NEVET
+&mytxt23="Miért kezdtek furcsa idegennek hívni?"
+&mytxt24=BESZÉLŐ. AZT HISZEM EZ A NEVEM. HANGOSBESZÉLŐ VAGYOK LÁTOD?
+HANGOSAN BESZÉLEK!
+&mytxt25=MIT CSINÁLSZ ITT?
+&mytxt26="Mi a frászt csinálsz itt?"
+&mytxt27=EL KELL MONDANOM HOGY MÉG TÖBB MISZTÉRIUM FOG JÖNNI. A
+KÜLDETÉSED FOLYTATÓDIK.
+&mytxt28=#VISZLÁT
+&mytxt29=Oké, később még találkozunk.
+&mytxt30=VENDÉGKÖNYV
+&mytxt31="Nos, Nagyon szépen köszönöm!" mondja.
+&mytxt32=VENDÉGKÖNY ALÁÍRÁSA
+&mytxt33=Kipróbálom a tollat, de nem működik!? Megkaparom a papírt ha
+így állunk.
+&mytxt34=Most már készen állok hogy, aláírjam a vendégkönyvet.
+&mytxt35=Szükségem van valamire hogy, aláírjam a vendégkönyvet.
+&mytxt36=
+&mytxt37=
+&mytxt38=
+&mytxt39= 

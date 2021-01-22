@@ -1,0 +1,21 @@
+﻿mytxt0=Text by: Jan Albartus, Translation by: DomIII
+&lang=german&version=1.1
+&mytxt1=Ich kann da nicht reingehen. Ich kann nicht riskieren, mich selbst zu treffen.
+&mytxt2=Ich werde es besser nicht anfassen. Es würde ein Paradoxon verursachen.
+&mytxt3=Ich kann es nicht mit meinen bloßen Händen aufbrechen.
+&mytxt4=Hey, dieser Schraubenziehr war vorher nicht hier. Ich werde ihn besser mitnehmen.
+&mytxt5=Ich komme...Ich werde mich schnell drinnen verstecken. AArgh, jetzt bin ich mit Farbe beschmutzt.
+&mytxt6=Oh mein, es ist ein UFO.
+&mytxt7=UFO
+&mytxt8=MOTAS Gerät
+&mytxt9=Das MOTAS Gerät benutzte seine letzte Kraft um mich hierher zu bringen...
+&mytxt10=Ich lege das MOTAS Gerät vorsichtig hinein.
+&mytxt11=Es scheint eine weitere mysteriöse Einschubstelle zu sein.
+&mytxt12=Hmm das Gerät scheint immer noch nicht aufgeladen zu sein.
+&mytxt13=Hey, das Gerät ist wieder geladen.
+&mytxt14=Ah, Ich habe die Polarität umgekehrt und das MOTAS Gerät aufgeladen.
+&mytxt15=Ein weiterer MOTAS Gerät Code...Ich habe die letzte Kraft zum Transport benutzt...
+&mytxt16=WOW! Die Zeit läuft rückwärts!!!
+&mytxt17=Eine Art verschlossene Schalttafel.
+&mytxt18=Mit meiner unglaublichen Stärke habe ich es zur Seite geschoben.
+&mytxt19=Der Hinweis lautet: 'Wichtige Information durch UFO Crash zerstört', und die Zahlen:&REM=

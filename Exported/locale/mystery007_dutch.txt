@@ -1,0 +1,91 @@
+﻿mytxt0=Text by: Jan Albartus
+&mytxt1=SCHILDERIJ
+&mytxt2=LIJST
+&mytxt3=Het is een wiel, nouja, een schilderij van een wiel of een wiel op een schilderij?
+&mytxt4=Een lege lijst.
+&mytxt5=AFVALBAK
+&mytxt6=Niets!? De eigenaar is zeer schoon of zeer dood.
+&mytxt7=VERWARMING
+&mytxt8=Auw.. "To hot to handle".
+&mytxt9=Ah, dit heeft meer power dan een zaklantaarn. Het weegt ook meer, ik laat het staan.
+&mytxt10=DIAGRAM
+&mytxt11=Rood, Groen, Blauw. De kleuren ertussen geven mengkleuren aan van de aangrenzende kleuren.
+&mytxt12=Ik zocht maar vond niets.
+&mytxt13=De TL buizen zorgen voor een felle belichting van dit gedeelte van het gebouw.
+&mytxt14=OVERTREK PAPIER
+&mytxt15=Ik schrijf een brief en bestel een rood wiel en onderteken als Max van beveiliging.
+&mytxt16=Ik kan er bijna doorheen kijken.
+&mytxt17=EEN BRIEF
+&mytxt18=Ik plaats het lege vel papier op de brief.
+&mytxt19=Hmmm Een brief aan een zekere dokter Druïde.
+&mytxt20=Nee, het kan niet waar zijn. Ik zal toch geen ontsnapte kloon zijn. Dit moet een grap zijn.
+&mytxt21=         Dear Dr. Druid,        I am happy to inform you we have      successfully created our first adult     clone as you ordered.     There is only one small problem.....    he escaped from his locked room. It  seems this specimen  is much more intelli- gent than we assumed. It's only a matterof time before we have him back in his room.                                          Max from Security
+&mytxt22=Het blauwe wiel lijkt te passen. De lift is geactiveerd.
+&mytxt23=Het lijkt alsof je hier iets op aan kunt sluiten.
+&mytxt24=Deze breekbaar uitziende lift lijkt gemaakt van een hard type glas, zeer chique.
+&mytxt25=Houd je vast, Ik heb geen idee haarnaar dit leid. Omhoog schat ik...
+&mytxt26=Ik denk dat de lift een of andere energie nodig heeft...
+&mytxt27=NAAR BOVEN
+&mytxt28=Ik verzet me om de stoel door het raam te smijten. Hmm, Geen goed idee!
+&mytxt29=Heel mooi, dat moet een fortuin gekost hebben schat ik.
+&mytxt30=Ik ga weer met de lift naar beneden...
+&mytxt31=NAAR BENEDEN
+&mytxt32=Een blauwe tank....
+&mytxt33=Een groene tank....
+&mytxt34=Een rode tank....
+&mytxt35=Ik vond een groen wiel in deze lade.
+&mytxt36=LADE
+&mytxt37=Ah, gelukkig is er een ladder beneden geplaatst.
+&mytxt38=Op het eerste gezicht leek het leeg....
+&mytxt39=Tja, het is echt een schilderij..
+&mytxt40=Is dit een schilderij van een wiel of een wiel op een schilderij?
+&mytxt41=GROTE DOOS
+&mytxt42=Weer een grote doos. Het is leeg.
+&mytxt43=LADDER
+&mytxt44=Een ladder. Handig om omhoog en naar beneden te klimmen.
+&mytxt45=ROOSTER
+&mytxt46=Ik vraag me af waar deze roosters voor dienen.
+&mytxt47=BUIS
+&mytxt48=Veel buizen lopen door deze ruimtes.
+&mytxt49=Het rode wiel past op deze aansluiting. Het heeft waarschijnlijk de rode deur geopend.
+&mytxt50=Het groene wiel past precies. Wat zou dit voor effect hebben?
+&mytxt51=OUT BOX
+&mytxt52=Ik heb de brief gepost, hopelijk krijg ik een antwoord.
+&mytxt53=INFO: Vul alstublieft uw bestellingformulier in en vergeet het niet te ondertekenen!
+&mytxt54=IN BOX
+&mytxt55=Wat een verassing, Ik heb iets per post ontvangen. Het is een rood wiel, net wat ik nodig heb.
+&mytxt56=Hmm de Mail-Snail Inbox. Op dit moment is het leeg.
+&mytxt57=Ik open de lade.
+&mytxt58=Ah, kijk. Dit is een geweldig meubelstuk!
+&mytxt59=WAT??? Zit ik op een vliegend ruimteschip? Niet te geloven.. Misschien is het een illusie.
+&mytxt60=IN DE LADE
+&mytxt61=Het is leeg nu.
+&mytxt62=In deze lade heb ik iets gevonden dat ik wel kan gebruiken
+&mytxt63=Ik heb een dun vel papier gevonden. Ik kan er bijna doorheen kijken.
+&mytxt64=VEL PAPIER
+&mytxt65=Op slot. Maar ik vond een floppy disk op het kastje.
+&mytxt66=Laten we eens kijken naar dit paneel.
+&mytxt67=PANEEL
+&mytxt68=A transparante cabine Hmmm, Het ziet er uit als een tele-transporter.
+&mytxt69=TELE-TRANSPORTER
+&mytxt70=GEEL
+&mytxt71=CYAAN
+&mytxt72=PAARS
+&mytxt73=KLEIN WIEL
+&mytxt74=Oké, nu moet ik de kleur cyaan mixen.
+&mytxt75=Nu is het paars geworden.
+&mytxt76=Oké, het lijkt erop dat de mix succesvol was.
+&mytxt77=DISKDRIVES
+&mytxt78=Oké ik heb de programma floppy disk in de drive gedaan.
+&mytxt79=Een aantal floppy drives.
+&mytxt80=Een soort grote vloeistof mix computer. Hij lijkt uit te staan.
+&mytxt81=Een soort grote vloeistof mix computer. En het staat klaar voor gebruik.
+&mytxt82=Ik sluit de lade.
+&mytxt83=Deze muur zit vol met buizen. De buizen transporteren verschillende kleuren vloeistof denk ik.
+&mytxt84=Dit apparaat wordt waarschijnlijk gebruikt voor het zenden en ontvangen van kleine pakjes..
+&mytxt85=TRANSPORT RAILS
+&mytxt86=Dit deel van het gebouw heeft een intern transport systeem, jammer dat ik er niet in pas.
+&mytxt87=Het blauwe wiel op het schilderij blijkt echt te zijn.
+&mytxt88=
+&mytxt89=
+_root.myTranslation.mytxt

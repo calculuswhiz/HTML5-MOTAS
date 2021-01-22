@@ -1,0 +1,61 @@
+﻿mytxt0=Text by: Jan Albartus
+&mytxt1=Ongelooflijk, ik vond een muntstuk in deze oude schatkist.
+&mytxt2=HANDLEIDING
+&mytxt3=Een handleiding ligt op bet bureau..
+&mytxt4=BURO
+&mytxt5=Het is een zwaar houten bureau.
+&mytxt6=Hmm, deze massief stenen zuil ziet er oud uit. Ik vraag me af waar het vandaan komt.
+&mytxt7=PLANT
+&mytxt8=Een plant. Ruikt heerlijk.
+&mytxt9=KLOK
+&mytxt10=Het is een klok. Het wijst de tijd aan...
+&mytxt11=Een hoop spul en dozen...
+&mytxt12=Helaas niets op deze planken.
+&mytxt13=Niets dat ik kon gebruiken..
+&mytxt14=Ik vraag me af hoe oud deze klok wel niet moet zijn...
+&mytxt15=COMMODORE VLAG
+&mytxt16=Ik geloof dat het een logo is van die Commodore computer van daarnet...
+&mytxt17=Dit ziet er uit als populair en goedkope art-deco.
+&mytxt18=Tja, het vertelt me hoe lang ik al hier binnen ronddwaal.
+&mytxt19=Het genereert hitte.
+&mytxt20=AFVAL BAK
+&mytxt21=Ik kijk maar er zit alleen troep in. Dit vermoedde ik al.
+&mytxt22=SPIN
+&mytxt23=Dit kleine spinnetje is een springertje.
+&mytxt24=De kleine spin springt terug op de lamp.
+&mytxt25=Het sprong op de top van de koelkast. Hopelijk ziet niemand dat.
+&mytxt26=Whoesh, en terug naar de lamp gaat hij, het rare beestje.
+&mytxt27=Hoewel het amusant is, helpt de spin me niet verder om hieruit te komen.
+&mytxt28=Het arme beestje. Helemaal over de toeren en bang.
+&mytxt29=Waar wil jij naar toe springen vandaag.
+&mytxt30=Oh, ik vergat dat spinnen eng horen te zijn, is't niet??
+&mytxt31=KRIJT
+&mytxt32=Dit stuk krijt zal zeer nuttig blijken... hoop ik.
+&mytxt33=Ik maak een paar tekeningen op het schoolbord.
+&mytxt34=Ik veeg het schoolbord schoon met mijn handen.
+&mytxt35=He, ik vond een kleine sleutel en een schroevendraaier in een van de dozen.
+&mytxt36=Een stevig meubelstuk....
+&mytxt37=Oké, ik doe de witte bal in de linker pocket, wat nu..
+&mytxt38=Oh mooi, een leuk spel. Jammer lijkt het niet compleet..
+&mytxt39=Ik heb de top van de keu opgeruwd met het krijt dat ik had gevonden.
+&mytxt40=Een biljart keu. De top heeft iets nodig.
+&mytxt41=Ik deed het.
+&mytxt42=Kijk, de blauwe bal heeft deze vastzittende sleutel los gestoten.
+&mytxt43=Ik werp een muntstuk in... En kijk, ik heb weer drie credits...
+&mytxt44=Het lijkt erop dat ik wat geld moet inwerpen...
+&mytxt45=De bal komt in beweging. Eens kijken hoe dit gaat...
+&mytxt46=Hm, de witte bal lijkt te missen...
+&mytxt47=Oké, ik moet dit probleem vanuit een andere perspectief benaderen...
+&mytxt48=Ai... Totale misser. De top van de keu is niet ruw genoeg om te spelen...
+&mytxt49=Yeah, het is me gelukt om de tafel leeg te spelen. En iets wat vastzat is opgedoken...
+&mytxt50=REK
+&mytxt51=SCHOOLBORD
+&mytxt52=HandleidingGefeliciteerd met het besluit uzelf te laten klonen in een van onze gerenommeerde kloon faciliteiten.Onthoud dat deze procedure uw intellect kloont in plaats van uw lichaam.Uw intellectuele intelligentie zal leven in een van onze bekende D-DataBanken.Uw kloon zal door ons opgeslagen worden voor research en zal in een virtuele slaap doorbrengen tijdens de opgeslagen periode.
+&mytxt53=PROBLEMENEens in de zoveel tijd ontwaakt een virtuele kloon in onze D-DataBank. Hoewel het geen directe bedreiging vormt voor onze D-Data servers, zullen deze losse files gewist moeten worden van de data.Het is wel eens gebeurt dat lucide klonen externe data benaderen op onze workstations. De lucide klonen gedragen zich willekeurig en niet logish maar komen desondanks steeds verder.
+&mytxt54=OH ECHT? ONLOGISH?HET IS HIER NET ZO'N LOGISHENACHTMERRIE ALS DIE TEXT ADVENTURES.EN BEN IK EEN TRANS DIMENSIONALE BEZOEKER,OF BEN IK ALLEEN EEN LUCIDE DROMENDE KLOON,OPGESLOTEN IN EEN GIGANTISH GROTE MACHINE,OPGEBORGEN VOOR LATER GEBRUIK..?
+&mytxt55=
+&mytxt56=
+&mytxt57=
+&mytxt58=
+&mytxt59=
+_root.myTranslation.mytxt

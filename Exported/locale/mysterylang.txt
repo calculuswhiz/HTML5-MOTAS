@@ -1,0 +1,2 @@
+﻿myLanguagesArray=chinese(Simplified),chinese(Traditional),dutch,english,french,german,hungarian,italian,japanese,norwegian,polish,portuguese(Brazil),serbian,spanish,swedish&REM=
+&myTaalArray=chinese(Simplified),漢語,Nederlands,English,French,Deutsch,Hungarian,Italiano,日本語,Norwegian,Polish,Portugués(El Brasil),Serbian,Español,swedish&REM=

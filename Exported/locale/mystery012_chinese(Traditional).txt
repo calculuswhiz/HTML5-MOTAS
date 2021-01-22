@@ -1,0 +1,98 @@
+﻿mytxt0=原文 : Jan Albartus   翻譯 : Jai Chan
+&mytxt1=盆栽
+&mytxt2=不錯的盆栽。
+&mytxt3=不好了，又一個以激光保護的地方，怎樣關了這個?
+&mytxt4=地庫，我懷疑那裡有出口。
+&mytxt5=The Mystery Of Time And SpaceWritten by N.A.J. NagolIBSN: 20-3466650-32(c) 2048-2052Published by Brain Candy Ltd.
+&mytxt6=00- CHAPTER INDEX01 - Introduction02 - The laws of Physics03 - Nature according to Einstein04 - Nature according to Hawking05 - Universe versus Holoverse06 - Dimensions, Universes apart07 - Time travel
+&mytxt7=05 - Universe versus HoloverseOne of the most fantastic concepts seems to be the possible existence of multiple universes inside a bigger holoverse.A Universe is a self containing system inside the Holoverse unable to interact with other Universes.A Universe is build up of countless galaxies who themselves exist out
+&mytxt8=endless amounts of stars with even more planets.Once men thought the earth to be the center of the universe. Men was proven wrong and then right again. The Multiverse is border less but does not have an infinite amount of space. Yet, space expands between every part of the Multiverse.
+&mytxt9=06 - Dimensions, Universes ApartWhat is an alternate dimension? Recent studies indicate dimensions being alternate universes coexisting within our own.That's because those so called dimensions are actually reflections or echo's of distant universes, just as a radio station can have several echo's.
+&mytxt10=07 - TimetravelWe travel through time all the time. Time makes things happen. Without time there would be no space as space and time are interconnected. As such every attempt of time travel will result in movement of matter. Even a body in rest moves matter around.While it is possible to slow (local) time down, it can't be stopped.
+&mytxt11=Time is partly created by matter moving through space. Matter itself is created from waves interfering with other waves like the light breaks in water.Interfering with the 'past' will create multiple alternate presents. But interfering with an alternate past will not change the traveler's present but does create more alternate realities.
+&mytxt12=This book was and still is one of the best selling books in it's field. The author brings you to the wonderful world of alternate dimensions, time travel and the Holoverse.From the award winning author of: "Time Sliding", "Time and Life", "Alien Intervention", "The Alien Connection", "Official Protocol For First Alien Contact" and "MOTAS"
+&mytxt13=BY: N.A.J. NAGOL
+&mytxt14=皺摺
+&mytxt15=我來弄平這地毯。
+&mytxt16=燈
+&mytxt17=我找到藏在燈內的鑰匙，應該是不想有人找到吧。
+&mytxt18=看，這燈能搖晃。
+&mytxt19=是盞燈，高高掛在天花上。
+&mytxt20=我裝上另一個燈泡。
+&mytxt21=我移動燈的位置。
+&mytxt22=嗯，燈沒有開。
+&mytxt23=我開了燈，看來牆上寫了些東西。
+&mytxt24=我又關了燈，只是怕萬一其他地方需要能源。
+&mytxt25=如果我瀏覽這網站，可以隨時關了新視窗回來。
+&mytxt26=適可而止吧，椅子也夠悶了。
+&mytxt27=看來是通俗又便宜的藝術裝飾。
+&mytxt28=把這推開......
+&mytxt29=我不會又推回原位。
+&mytxt30=書
+&mytxt31=《新奇的夢》作者柏崔西亞•加非，是睡前讀物嗎?
+&mytxt32=盒子。相信滿載著數之不盡的有趣東西，但我不願去看...... 
+&mytxt33=推開它吧，別擋路。
+&mytxt34=這盒子載了什麼?應該都是之前找到的一大堆廢物。
+&mytxt35=或許我將這沈重得難以置信的木製傢俱拉出來會有點幫助。
+&mytxt36=看來很重，實際上都應該很重，真替要移開它的那人難過。
+&mytxt37=這不是個多有用的物件，很寵大又沒有位置藏東西。
+&mytxt38=原來這東西很輕，相信是我在這地方做得太多健身運動。
+&mytxt39=我猜這箱子用來放被子和其他床上用品。
+&mytxt40=不錯但很重，又很巨型，別忘記它也佔不少空間。
+&mytxt41=天啊!通通都沒用。
+&mytxt42=很紮實的傢俱......
+&mytxt43=這房間以蠟燭來照明，真可愛!
+&mytxt44=長沙發
+&mytxt45=原來可以三個人一起看電視，難怪要藏起這房間。
+&mytxt46=只是個用來放電視的木櫃。
+&mytxt47=電視
+&mytxt48=不管走到那裡，看來都有有線電視。
+&mytxt49=看這櫃後面有什麼!
+&mytxt50=用來放沒用的東西是不錯。
+&mytxt51=很多雜物和盒子，而且我找到個可能有用的燈泡。
+&mytxt52=這些東西有需要藏起來嗎?這......
+&mytxt53=架子
+&mytxt54=我不能毫髮無傷的通過那裡。
+&mytxt55=哇，是汽水販賣機，可惜沒有另一個牌子。
+&mytxt56=投幣口
+&mytxt57=買了一罐汽水，希望有用吧......
+&mytxt58=看看有沒有硬幣卡在投幣口......看來不太好運。
+&mytxt59=在這裡喝汽水也要錢嗎?
+&mytxt60=碰不到，幸好剛才掉下來時沒有弄壞什麼。
+&mytxt61=除非通過了，否則不能再等。
+&mytxt62=這是激光閘走廊的畫面。
+&mytxt63=看來第二道激光閘消失了。
+&mytxt64=好吧，拆開這看看內裡。
+&mytxt65=我想看看裡面，但赤手空拳開不了。
+&mytxt66=噢......看來剪了這機器的能源線。
+&mytxt67=紅線
+&mytxt68=噢......看來剪錯了。
+&mytxt69=藍線
+&mytxt70=對，我看到第二道激光閘消失了。
+&mytxt71=綠線
+&mytxt72=看，找到條大鑰匙......和另一個螺絲起子。
+&mytxt73=喂，這牆是假的。
+&mytxt74=嗯，有東西擋住了上不去。
+&mytxt75=另一面有東西擋著路。
+&mytxt76=找到把電線剪。
+&mytxt77=好像花了我
+&mytxt78=很久終於解決這謎題。
+&mytxt79=頂層。就是我進來的那層，那什麼是「青牆」?
+&mytxt80=青牆
+&mytxt81=通道
+&mytxt82=激光閘
+&mytxt83=牆動了
+&mytxt84=控制台開了
+&mytxt85=顯示秘密通道
+&mytxt86=激光閘消失了
+&mytxt87=警鐘
+&mytxt88=我想弄響這警鐘，但應該沒有人會聽見，一個人也沒有。
+&mytxt89=床
+&mytxt90=看看床底下有什麼
+&mytxt91=不錯的床......
+&mytxt92=這床看來很舒適，但我不睏......
+&mytxt93=地毯
+&mytxt94=可惜不是飛氈。
+&mytxt95=我嘗試移開這椅子......
+&mytxt96=但開來移得不夠遠。
+&mytxt97=將椅子移回原來的位置......

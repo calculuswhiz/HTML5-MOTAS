@@ -1,0 +1,22 @@
+﻿mytxt0=Text by: Jan Albartus Translation by: dohosa
+&lang=hungarian&version=1.0
+&mytxt1=Nem mehetek be ide. Félő, hogy önmagammal találkoznék.
+&mytxt2=&mytxt2=Jobb, ha nem nyúlok hozzá. Idő paradoxot hozna létre.
+&mytxt3=Nem tudom puszta kézzel kinyitni. 
+&mytxt4=Hé, ez a csavarhúzó nem volt itt ezelőtt. Jobb lesz, ha magammal viszem.
+&mytxt5=Jövök már. Gyorsan bebújok ide. Jaj, sajog minden porcikám. 
+&mytxt6=Oh anyám! Ez egy UFO.
+&mytxt7=UFO
+&mytxt8=IC KÁRTYA
+&mytxt9=Az UFO elromolhatott? Hmm, nem tudom levenni a fedelét.
+&mytxt10=Az UFO-nak hiányzik a fedele és még két alkatrész.
+&mytxt11=Találtam egy kis Tér Idő Manipulátor Szerkezet (MOTAS)
+&mytxt12=MOTAS SZERKEZET
+&mytxt13=Találtam egy elektronikai alkatrészt.
+&mytxt14=Kifeszítettem az ajtót.
+&mytxt15=Végre találtam még egy elektronikai alkatrészt. 
+&mytxt16=Oké, beillesztettem a helyére.
+&mytxt17=WHOOAH, magától elrepült…
+&mytxt18=Valami papír fecni. Jé, egy MOTAS szerkezet kódot tartalmaz. 
+&mytxt19=Hibás célpont.
+&mytxt20=Hibás irányzék.

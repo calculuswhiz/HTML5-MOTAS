@@ -1,0 +1,374 @@
+﻿mytxt0=Text: Jan Albartus, Translation: WebCM
+&motasmenuCREDITS=O GRZE
+&motasmenuNEW_GAME=NOWA GRA
+&motasmenuCONTINUE=KONTYNUUJ GRĘ
+&motasmenuLANGUAGE=WYBIERZ JĘZYK
+&motasmenuBONUS_MATERIAL=DODATKOWE MATERIAŁY
+
+&motasmenuEXIT_GAME=ZAKOŃCZ BIEŻĄCĄ GRĘ
+&motasmenuMUSIC_OFF=WYŁĄCZ MUZYKĘ
+&motasmenuMUSIC_ON=WŁĄCZ MUZYKĘ
+&motasmenuSOUND_OFF=WYŁĄCZ EFEKTY DŹWIĘKOWE
+&motasmenuSOUND_ON=WŁĄCZ EFEKTY DŹWIĘKOWE
+
+&motasmenuGRAPHIC_QUALITY=ZMIEŃ JAKOŚĆ GRAFIKI
+&motasmenuTEXT_POSITION=ZMIEŃ POZYCJĘ TEKSTU
+&motasmenuOPENHELP=OTWÓRZ EKRAN POMOCY
+&motasmenuCLOSEHELP=ZAMKNIJ POMOC
+&motasmenuCLOSE_MENU=UKRYJ MENU
+&motasmenuLEVEL_NUMBER=NUMER BIEŻĄCEGO POZIOMU
+&motasmenuCURSOR_STYLE=ZMIEŃ KURSOR MYSZY
+
+&motasmenuSHOWMENU=POKAŻ MENU
+&motasmenuENTERPASSWORD=WPROWADŹ HASŁO
+&motasmenuENTERLEVEL=WPROWADŹ NUMER POZIOMU
+&motasmenuENTERNAME=WPROWADŹ NAZWĘ UŻYTKOWNIKA
+&motasmenuSAVEGAME=ZAPISZ GRĘ
+&motasmenuLOADGAME=WCZYTAJ GRĘ
+&motasmenuDISKMENU=MENU DYSKU
+
+&motashelp=The Mystery Of Time And Space (C) Jan Albartus
+
+Klikaj za pomocą myszy obiekty w pokoju, aby znaleźć przedmioty, które pomocą ci wydostać się z pokoju, w którym jesteś zamknięty. Czytaj opisy i podpowiedzi uważnie.
+
+UWAGA: Gra uzależnia. Może wymagać gruntownego myślenia od gracza. Zostałeś ostrzeżony!
+&meanwhile=w międzyczasie...
+&mysteryoftimeandspace=Mystery Of Time And Space
+
+&mytxt1=KLUCZ
+&mytxt2=Zobaczmy, gdzie mógłbym użyć tego klucza...
+&mytxt3=ODŁÓŻ
+&mytxt4=Włożyłem klucz spowrotem do kieszeni.
+&mytxt5=PLAKAT
+&mytxt6=Hmmm, jak mogę użyć tego plakatu?
+&mytxt7=ŚRUBOKRĘT
+&mytxt8=Co mogę zrobić śrubokrętem?
+&mytxt9=Użyję go później.
+&mytxt10=CIENKA ŚRUBKA
+&mytxt11=Co zrobić z tą śrubką?
+&mytxt12=Spróbuję przykręcić to później. Na razie schowam przedmiot do kieszeni. Bardzo ostrożnie...
+&mytxt13=Co mogę otworzyć tym kluczem?
+&mytxt14=Zapomniałem, gdzie chciałem użyć tego klucza, który otwiera drzwi do tego pokoju.
+&mytxt15=ZŁOTY KLUCZ
+&mytxt16=DŁUGOPIS
+&mytxt17=Mógłbym użyć tego długopisu...
+&mytxt18=Nic nie szkodzi...
+&mytxt19=DŁUGOPIS Z ATRAMENTEM
+&mytxt20=OSTRA SZPILKA
+&mytxt21=Gdzie mogę pobawić się ostrą szpilką...
+&mytxt22=PUDEŁKO NA DYSKIETKI
+&mytxt23=Co mogę zrobić pustym pudełkiem jak to...
+&mytxt24=Otworzyłem pudełko przy pomocy szpilki. Teraz mam dyskietkę i puste opakowanie.
+&mytxt25=Nie mogę tego otworzyć. W środku znajduje się dyskietka.
+&mytxt26=DYSKIETKA
+&mytxt27=Co powinienem zrobić z tą dyskietką?
+&mytxt28=KAMIENNY KAFELEK
+&mytxt29=Co powinienem zrobić z tym kafelkiem?
+&mytxt30=Wiesz, że to jest ciężkie. Nie mogę nieść tego cały czas ze sobą.
+&mytxt31=Co powinienem zrobić z tymi bzdurami?
+&mytxt32=Gdzie mogę go położyć? Ciężko jest nosić ten kafelek dookoła.
+&mytxt33=GŁOWA W PUDEŁKU
+&mytxt34=Gdzie mogę go użyć? Wiem, że podąża za liniami...
+&mytxt35=DUŻY TRÓJKĄT
+&mytxt36=Gdzie mogę tego użyć...
+&mytxt37=MAŁY TRÓJKĄT
+&mytxt38=Zobaczmy, gdzie to może pasować...
+&mytxt39=OBIEKT
+&mytxt40=Gdzie można tego użyć...?
+&mytxt41=INNY OBIEKT
+&mytxt42=TRÓJKĄTNY OBJECT
+&mytxt43=Ten trójkątny obiekt wygląda jak zespawana układanka.
+&mytxt44=Spróbuję zbadać ten trójkąt później...
+&mytxt45=KAWAŁEK DREWNA
+&mytxt46=Co mogę zrobić z tym kawałkiem suchego drewna?
+&mytxt47=Nie, nie jest mi miło widzieć cię. Właśnie niosę duży kawalek węgla w spodniach dookoła.
+&mytxt48=PŁONĄCE DREWNO
+&mytxt49=Gdzie pozbyć się go? Jest zbyt gorący, aby go trzymać w ręce.
+&mytxt50=Pozwól mi znalaleźć jego miejsce docelowe zanim zapalę się od niego.
+&mytxt51=ŻARÓWKA
+&mytxt52=Gdzie przyda się trochę światła?
+&mytxt53=Boję się, że jestem pozostawiony w ciemności tutaj...
+&mytxt54=BATERIA
+&mytxt55=To urządzenie potrzebuje energii.
+&mytxt56=Hmmm...
+&mytxt57=REFLEKTOR
+&mytxt58=Świetnie, to jest podręczne i przenośne źródło światła. Może być użyteczne...
+&mytxt59=KOŁO
+&mytxt60=Mam nadzieję, że wiem, co robię z tym kołem, ponieważ może być niebezpieczne...
+&mytxt61=OK, ale raczej nie niósłbym tego koła zbyt długo. Jest dość ciężkie.
+&mytxt62=KARTKA PAPIERU
+&mytxt63=Ta kartka papieru jest zbtyt cienka. Możesz prawie widzieć przez nią.
+&mytxt64=Mam nadzieję, że nie rozkruszę tego.
+&mytxt65=LIST
+&mytxt66=Mam nadzieję, że zapasowa część może być zamówiona z tym listem, lecz gdzie go wysłać?
+&mytxt67=FIGURA SZACHOWA
+&mytxt68=OK, teraz tylko muszę dowiedzieć się, co z tym zrobić...
+&mytxt69=Nie jestem mistrzem w szachach. Gdybym tylko znalazł miejsce, w którym można położyć konika.
+&mytxt70=SIŁOMIERZ ZEGAROWY
+&mytxt71=Zbyt ciężki, by go nosić dookoła... Porzućmy go gdzieś.
+&mytxt72=To jest zbyt ciężkie. Tak, muszę znaleźć sposób na użycie tego balastu...
+&mytxt73=KARTA
+&mytxt74=Karta zabezpieczająca... Zakładam, że może okazać się użyteczna!
+&mytxt75=Jak przyjemnie mieć pieniądze...
+&mytxt76=MONETA
+&mytxt77=Czuję się dziś jak rozrzutnik.
+&mytxt78=Moneta zachowana jest jak moneta zarobiona...
+&mytxt79=BILA
+&mytxt80=O tak, muszę idealnie trafić w tą piłkę.
+&mytxt81=Może innym razem...
+&mytxt82=KREDA
+&mytxt83=Z czym jeszcze powinienem użyć tego kija...
+&mytxt84=Domyślam się, że użyję tego później.
+&mytxt85=NOŻYCE DO CIĘCIA DRUTU
+&mytxt86=Coś prosi się, aby go uciąć...
+&mytxt87=Zawsze wygodnie to mieć.
+&mytxt88=PUSZKA
+&mytxt89=Wybór każdego pokolenia...
+&mytxt90=Zawsze świetne.
+&mytxt91=Inny klucz...
+&mytxt92=Zapomniałem, gdzie mam użyć tego klucza.
+&mytxt93=WIADRO
+&mytxt94=To jest stare wiadro zawierające trochę dziur.
+&mytxt95=Kiedy dowiem się, co z tym zrobić...
+&mytxt96=WIADRO Z WODĄ
+&mytxt97=Wiadro jest wypełnione wodą. Zdaje się, że plaster na razie trzyma.
+&mytxt98=Zbyt ciężkie, aby nosić go dookoła. Także mokre.
+
+&mytxt99=PLASTER
+&mytxt100=Rolka wodoodpornego plastra - dokładnie to, czego potrzebuję.
+&mytxt101=Użyję tego plastra, gdy dowiem się, gdzie.
+&mytxt102=KRZESŁO
+&mytxt103=DRZWI
+&mytxt104=OBRZ
+&mytxt105=SOFA
+&mytxt106=GABLOTA
+&mytxt107=SZAFKA
+&mytxt108=KLAWISZ
+&mytxt109=KONTAKT
+&mytxt110=STÓŁ
+&mytxt111=LAMPA
+&mytxt112=SZAFA
+&mytxt113=INNY POKÓJ
+
+&mytxt114=ŁOPADA
+&mytxt115=Zastanawiam się, gdzie mogę ją wykorzystać.
+&mytxt116=LINA
+&mytxt117=SIEKIERA
+
+&mytxt10000=29&mytxt10001=To jest mocne krzesło, ale nie mam czasu na odpoczynek.
+&mytxt10002=Wygodne krzesło.
+&mytxt10003=Dobrze, jeżeli miałbym czas spocząć, prawdopodobnie spróbowałbym.
+&mytxt10004=Miło zobaczyć, że możesz usiaść, gdy potrzebujesz.
+&mytxt10005=Ktokolwiek myślał o stylu tego krzesła, jest on geniuszem.
+&mytxt10006=Nie mam czasu, aby usiąść.
+&mytxt10007=To krzesło zdaje się być stare. Nic specjalnego.
+&mytxt10008=Gdziekolwiek widzę krzesło, myślę, że mogę go potrzebować.
+&mytxt10009=Co?
+&mytxt10010=Nie mogę i nie będę brał krzeseł ze sobą.
+&mytxt10011=Odpocząłem przez sekundę. Jestem zupełnie wzmocniony.
+&mytxt10012=...
+&mytxt10013=Coś jest z obsesją na krzesła w każdym razie.
+&mytxt10014=Krzesła - czy ludzie wciąz używają ich dzisiaj?
+&mytxt10015=Krzesło. Mimo wszystko nie wygląda na bardzo wygodne.
+&mytxt10016=Być może potrzebuję odpocząć później, ale nie teraz...
+&mytxt10017=Krzesło. Tanie. Mocne. Porządne.
+&mytxt10018=Miło, że projektanci tego miejsca pomyśleli o wyposażeniu.
+&mytxt10019=Heh, naprawdę oczekujesz ode mnie, abym zrobił coś pożytecznego z krzesłem?
+&mytxt10020=To jest krzesło.
+&mytxt10021=Och, jest wystarczająco wygodne, aby siedzieć na nim godzinami - NIE.
+&mytxt10022=To tylko krzesło.
+&mytxt10023=Nie ma czasu, aby usiąść i nic nie robić.
+&mytxt10024=W inne dni lubiłbym usiąść sobie, ale nie teraz.
+&mytxt10025=Jeśli zobaczyłeś 1 krzesło, naprawdę zobaczyłeś je wszystkie.
+&mytxt10026=Jak miło. Mimo tego nie jestem tym zainteresowany.
+&mytxt10027=Myślę, że zobaczyłem ich wystarczającą ilość.
+&mytxt10028=Kolejne krzesło. Nic specjalnego. Nie jestem też podniecony nim.
+&mytxt10029=Nie usiądę w tej chwili.
+&mytxt10030=Tak jak myślałem. Nie mam czasu, aby usiąść.
+
+
+
+&mytxt12000=35&mytxt12001=Nic specjalnego. Boję się.
+&mytxt12002=Myślałem, że zobaczę coś. Nic...
+&mytxt12003=Może szukam nie tu, gdzie trzeba, ale tutaj nie ma nic interesującego.
+&mytxt12004=Moje poszukiwania były daremne. Nic nie znalazłem.
+&mytxt12005=Dopóki nie jestem ślepy, zdaje się, że nie ma tu nic interesującego.
+&mytxt12006=Nie widzę tu nic interesującego.
+&mytxt12007=Moje poszukiwania nie podrasowały nic interesującego lub czegokolwiek użytecznego.
+&mytxt12008=Po ponownym rozglądnięciu się nie znalazłem niczego, co mogłem przeoczyć.
+&mytxt12009=To stare i nieciekawe miejsce nie kryje nic interesującego.
+&mytxt12010=Zastanawiam się, czy kiedykolwiek coś tu znajdę.
+&mytxt12011=Szukam potrzebnych rzeczy. Dlaczego ich tu nie ma?
+&mytxt12012=Niestety, moje wysiłki były bezowocne. Dobrze domyśliłeś się - nic nie znalazłem.
+&mytxt12013=W większości przypadków moje poszukiwania są daremne - tak jak teraz.
+&mytxt12014=Oprócz niepotrzebnych rzeczy nie ma nic interesującego.
+&mytxt12015=Ufam, że moje następne poszukiwania będą bardziej satysfakcjonujące.
+&mytxt12016=Nic nie znalazłem, ale przynajmniej trochę poćwiczyłem.
+&mytxt12017=Nic, njente, noppes, nada, null, zip, nihil, nothing.
+&mytxt12018=Hmm, mógłbym przysiąc, że znajdę tutaj ukryte przejście.
+&mytxt12019=Gdzie jest przedmiot -what’s-it-called-, którego tak potrzebuję?
+&mytxt12020=Taki mój los. Po poszukiwaniach przyszedłem z niczym.
+&mytxt12021=Hmmm, tylko pełno zbędnych rzeczy, które mi tutaj nie pomogą.
+&mytxt12022=Przeszukałem to miejsce. Nic nie znalazłem - nawet wskazówki, gdzie jestem.
+&mytxt12023=Tu nic nie ma. Nic nie znalazłem, nawet przedmiotu, którego mogę potrzebować.
+&mytxt12024=Nic nie znalazłem, nawet objaśnienia przebiegu akcji.
+&mytxt12025=Nic nie znalazłem, nawet tajemniczej zagadki bądź innej ciekawej rzeczy.
+&mytxt12026=Nic nie znalazłem, nawet większej wskazówki.
+&mytxt12027=Nic nie znalazłem, nawet śmiesznego artefaktu.
+&mytxt12028=Nic nie znalazłem, nawet pary okularów.
+&mytxt12029=Nic nie znalazłem, nawet wskazówki do Mystery of Time and Space.
+&mytxt12030=Nic nie znalazłem, nawet zgubionego portfela lub sakiewki pieniędzy, choć i tak nie potrzebowałbym ich.
+&mytxt12031=Już zbadałem to miejsce, pamiętam. Teraz tylko sprawdzam, czy nie przeoczyłem czegoś ważnego.
+&mytxt12032=Moje poszukiwania nie odkryły nic ważnego.
+&mytxt12033=Moje oczy próbują przeniknąć ciemność. Moje ręce wymachują dookoła. Bez skutku.
+&mytxt12034=Hmmm, nie powinienem mieszać się do tego.
+&mytxt12035=Naprawdę byłoby świetnie, gdy znalazłbym coś od razu.
+&mytxt12036=Być może domyśliłeś się - tu naprawdę nie ma nic interesującego.
+
+
+&mytxt14000=36&mytxt14001=Uzywam niewiarygodnej siły, aby to otworzyć, ale wciąż nie jestem w stanie tego zrobić.
+&mytxt14002=Może użycie klucza lub innego przedmiotu mogłoby pomóc, choć nie jestem pewny.
+&mytxt14003=O grozo, zamknięte! Gdzie jest łom, kiedy potrzebujesz choć jednego.
+&mytxt14004=Strzał, drzwi są zamknięte. Chciałbym mieć klucz.
+&mytxt14005=Mogłem domyślić się - zamknięte.
+&mytxt14006=Zamknięte. Zabawne, to nie jest dla mnie niespodzianką.
+&mytxt14007=Zamknięte? Może coś ważnego jest w środku.
+&mytxt14008=Hmmm, będę kiedyś w stanie otworzyć te drzwi?
+&mytxt14009=O nie, kolejne są zamknięte. Pytam siebie, co tu jest do ukrycia.
+&mytxt14010=Nie mogę zajrzeć do środka w ten sposób, ponieważ drzwi są zamknięte.
+&mytxt14011=Zamknięte, zamknięte i zamknięte. Nie mogę ich otworzyć.
+&mytxt14012=Zastnawiam się, czy mogę znaleźć klucz, aby otworzyć drzwi. Ewentualnie bazookę.
+&mytxt14013=Może powinienem pomyśleć nad tym. Nie jestem wstanie otworzyć drzwi gołymi rękami.
+&mytxt14014=Chęć zaglądnięcia do środka jest silniejsza gdy nie możesz tego zrobić wcale.
+&mytxt14015=Może powinienem znaleźć coś, co pozwoli mi otworzyć drzwi.
+&mytxt14016=Muszę zajrzeć do środka, lecz to jest niemożliwe, gdyż nie mogę otworzyć drzwi.
+&mytxt14017=Nie jestem w stanie otworzyć drzwi. Pewnie potrzebuję klucza. Być może są zamknięte na zawsze.
+&mytxt14018=Zamknięte.
+&mytxt14019=O grozo, zamknięte.
+&mytxt14020=Po uważnym namyśle, odkryłem, że drzwi są zamknięte.
+&mytxt14021=Nie mogę tego otworzyć.
+&mytxt14022=Hmm, dlaczego to jest zamknięte?
+&mytxt14023=Cokolwiek próbuję zrobić, nie mogę tego otworzyć. Zamknięte!
+&mytxt14024=Nie. Zamknięte.
+&mytxt14025=Tak jak oczekiwałem, drzwi są ściśle zamknięte.
+&mytxt14026=Jak?
+&mytxt14027=Ech, bez pożytku. Nie otworzą się.
+&mytxt14028=Muszą być zamknięte.
+&mytxt14029=...
+&mytxt14030=Próbuję najlepiej, ale niewystarczająco. Są zamknięte.
+&mytxt14031=Myślałem, że zobaczyłem ruch, ale niestety - wciąż zamknięte.
+&mytxt14032=Drapię, krzyczę, kopię, ale wciąż są zamknięte.
+&mytxt14033=Co?? Zamknięte!!
+&mytxt14034=Próbuję je otworzyć, ale niestety nie mogę.
+&mytxt14035=Jak zagadkowe, są zamknięte.
+&mytxt14036=Podobne przedmioty zawsze skłaniają mnie do zastanowienia się, co jest zamknięte.
+&mytxt14037=Zamknięte.
+
+
+// use useless object to open door
+&mytxt15000=14&mytxt15001=Zdaje się, że ta czynność jest bezowocna.
+&mytxt15002=Przedmiot... Bez skutku... Jak oczekiwałem.
+&mytxt15003=To musi być złe miejsce, gdzie mógłbym użyć tego przedmiotu.
+&mytxt15004=Nie działa.
+&mytxt15005=O nie, prawie uszkodziłem ten obiekt, używając go w nieopowiednim miejscu.
+&mytxt15006=Muszę uświadomić sobie, że robię złe czynności tutaj.
+&mytxt15007=Nie trzeba mówić, że uzycie tego przedmiotu tutaj nie przynisie żadnych skutków.
+&mytxt15008=Dobrze, cieszę się, jeżeli to oznaczało, aby pracować razem.
+&mytxt15009=Nie to nie jest do przyjęcia, aby użyć tego tutaj.
+&mytxt15010=Możemy spróbować czegoś innego? To nie przynosi rezultatu.
+&mytxt15011=Rozwiewam nadzieję, ale naprawdę to nie przynosi skutku.
+&mytxt15012=Nie jestem pewny czy mogę użyć tego przedmiotu tutaj.
+&mytxt15013=Nic nie dzieje się.
+&mytxt15014=Inne czynności od podrapania drzwi są bezowocne.
+&mytxt15015=Hmm, nie jestem pewny, czy to jest odpowiednia rzecz.
+
+//unlocked something like a door or a locker
+&mytxt16000=8&mytxt16001=Jest, otworzyłem kolejną część tej zagadki.
+&mytxt16002=OK, zdaje się, że drzwi są otwarte.
+&mytxt16003=Zdaje się, że odkryłem to. Teraz drzwi są otwarte.
+&mytxt16004=To było ciężkie, lecz ostatecznie zdołałem otworzyć kolejną część zagadki.
+&mytxt16005=Ach, to jest sposób, który lubię. Czuję się mądry od razu.
+&mytxt16006=Zastnawiam się, dlaczego nie zrobiłem tego łatwiej.
+&mytxt16007=Miło zobaczyć, że wciąż to mam w sobie.
+&mytxt16008=To musi być szczęśliwy dzień.
+&mytxt16009=Jest!
+
+&mytxt17000=10&mytxt17001=Otworzyłem to.
+&mytxt17002=Hej, nieprawdopodobne, znalazłem coś, co nie jest zamknięte.
+&mytxt17003=Skarbiec otwarty. Tak, udało się.
+&mytxt17004=De drzwi powodują hałas, gdy je otwieram.
+&mytxt17005=Czy to odkrywa część tej zagadki?
+&mytxt17006=Spójrzmy.
+&mytxt17007=Otwieram drzwi ostrożnie. Nie chcę ich uszkodzić, gdyż wyglądają na stare.
+&mytxt17008=Hmm, pomyśl o możliwościach przedmiotów, które można tu znaleźć. Straszne...
+&mytxt17009=Miło zobaczyć tak dużo szczegółów w ruchu.
+&mytxt17010=Mam nadzieję, że znajdę trochę odpowiedzi tutaj.
+&mytxt17011=Zerknijmy do środka.
+
+//close door
+&mytxt18000=8&mytxt18001=Zamkniąłem drzwi ponownie.
+&mytxt18002=Zamknąłem drzwi.
+&mytxt18003=Zamknąłem drzwi kolejny raz.
+&mytxt18004=Zamknąłem je.
+&mytxt18005=Dobrze. Mogę je też zamknąć, rozumiem.
+&mytxt18006=Teraz są znów zamknięte.
+&mytxt18007=Trzask, są zamknięte.
+&mytxt18008=Zamknięte.
+&mytxt18009=Trzask.
+
+//walk door
+&mytxt19000=8&mytxt19001=Zobaczmy.
+&mytxt19002=Spacerowałem tutaj.
+&mytxt19003=Zbyt dużo pokojów.
+&mytxt19004=Zobaczmy, co można tu znaleźć.
+&mytxt19005=Ponownie wchodzę do tego pokoju.
+&mytxt19006=Chodzę tutaj dookoła.
+&mytxt19007=Teraz jestem tutaj.
+&mytxt19008=Co ja robię w tym miejscu?
+&mytxt19009=Chodziłem po podobnym pokoju.
+
+//light on
+&mytxt20000=8&mytxt20001=Pozwólmy światłu świecić.
+&mytxt20002=Zaświeciłem światło.
+&mytxt20003=Ono oświeci mój dzień.
+&mytxt20004=Spójrz, nieprawdopodobne, interaktywne światło.
+&mytxt20005=Pokój staje się widoczny.
+&mytxt20006=Włączam światło i ciemność znika.
+&mytxt20007=Włączam światło, aby zobaczyć, co się dzieje.
+&mytxt20008=Jak emocjonująco... Światło świeci się.
+&mytxt20009=Miło mieć światło w przypadku, gdy się go potrzebuje.
+
+//light off
+&mytxt21000=8&mytxt21001=Zgasiłem światło. Zachowuję w ten sposób energię.
+&mytxt21002=Wyłączyłem światło.
+&mytxt21003=Lampa jest teraz wyłączona.
+&mytxt21004=OK, wyłączone.
+&mytxt21005=Zgasiłem światło.
+&mytxt21006=Ponieważ nie wiem, co robię, wyłączyłem światło … zobaczyć, co się stanie...
+&mytxt21007=Zgasiłem światło.
+&mytxt21008=Wyłączone.
+&mytxt21009=Wyłączone.
+&mytxt21010=
+//text table
+&mytxt22000=8&mytxt22001=Stół
+&mytxt22002=To jest stół.
+&mytxt22003=To tylko zwyczajny stół.
+&mytxt22004=OK, sprawdźmy ten stół.
+&mytxt22005=Ładny stół.
+&mytxt22006=Dlaczego jest zawsze więcej krzeseł niż stołów w okolicy?
+&mytxt22007=Miło być przypomnianym o tym bezużytecznym stole.
+&mytxt22008=To jest stół. Więc?
+&mytxt22009=Ach, stół.
+&mytxt22010=
+//text press button
+&mytxt23000=8&mytxt23001=Nacisnąłem klawisz.
+&mytxt23002=Klawisz naciśnięty.
+&mytxt23003=Puk.
+&mytxt23004=Naciskam klawisz.
+&mytxt23005=Nacisnąłem klawisz.
+&mytxt23006=Nacisnąłem klawisz. Mam nadzieję, że wiem, co robię.
+&mytxt23007=Nacisnąłem klawisz, ale nie wiem, czy to mi pomoże.
+&mytxt23008=Nacisnąłem klawisz z nadzieją, że on nie wyłączy pomocy ratunkowej w tym miejscu.
+&mytxt23009=Wciśnięcie tego klawisza może spowodować coś dobrego.
+&mytxt23010=
+_root.objTranslation.mytxt

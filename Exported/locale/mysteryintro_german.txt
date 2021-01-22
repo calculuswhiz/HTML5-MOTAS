@@ -1,0 +1,24 @@
+﻿mytxt0=Text by: Jan Albartus
+&mytxt1=Komplexe TheorieAm Anfang von Zeit und Raum, sichert das Universum die Evolution in einem komplexen System von interaktiven Elementen, von Solarsystem bis Mikro Organismen.Wir, die Wahrnehmer von Zeit und Raum, haben jeden Aspekt von dem Universum perspektivisch unterschlagen. Für uns, hat Zeit und Raum keine Mysterien, kein Ende und kein Anfang....
+&mytxt2=Komplexe TheorieEs war nicht immer so. Einst waren wir Wesen schwierend durch das All auf Suche nach der Erkenntnis, aber fanden viel mehr Fragen und Unerklärliches.Es dauerte eine Ewigkeit bis wir realisierten das da tieferer Sinn drin liegt als die Realität die wir wahr nehmen und Leben. Aber es ist nur Möglich wenn die alternative Realität des Wahrnehmers keine Erinnerung hat von der gewöhnlichen Realität.
+&mytxt3=Komplexe TheorieDie Theorie ist; Wenn eine Person aufgewachsen ist in einer Umgebung, kann Er oder Sie diese alternative Realität nicht mehr wahr nehmen von den eigenen Erinnerungen und Erfahrungen.Du bist einer der wenigen Menschen die das parallele Universum selbst wahr nehmen kann. Wir hoffen einen guten Vorschlag zu bekommen, so wie es abgesprochen war, und können uns nicht daran erinnern eine Zustimmung zu geben von einem besseren Wissen.
+&mytxt4=Komplexe TheorieMach dir keine Sorgen, wenn die Zeit gekommen ist werden wir uns an diese Absprache erinnern....
+&mytxt5=NÄCHSTE
+&mytxt6=EINLEITUNG ÜBERGEHEN
+&mytxt7=WEITER
+&mytxt8=
+&mytxt9=
+&mytxt10=
+&mytxt11=
+&mytxt12=
+&mytxt13=
+&mytxt14=
+&mytxt15=
+&mytxt16=
+&mytxt17=
+&mytxt18=
+&mytxt19=
+&mytxt20=
+&mytxt21=
+
+_root.myTranslation.mytxt

@@ -1,0 +1,91 @@
+mytxt0=Text by: Jan Albartus
+&mytxt1=PAINTING
+&mytxt2=FRAME
+&mytxt3=It's a wheel, well, it's a painting  a wheel or a wheel on a painting?
+&mytxt4=An empty frame.
+&mytxt5=RECYCLE BIN
+&mytxt6=Nothing!? This person is very clean or very dead.
+&mytxt7=HEATING RADIATOR
+&mytxt8=Auch.. To hot to handle.
+&mytxt9=Ah, this has more power than the flash light. It's weights more also, I'll leave it here.
+&mytxt10=DIAGRAM
+&mytxt11=Red, Green, Blue. The color in between is the mix color of the two colors on either side.
+&mytxt12=I searched the sofa, I found nothing.
+&mytxt13=TL tubes provide crude lighting in this part of the building.
+&mytxt14=TRACE PAPER
+&mytxt15=I write a letter asking for a new red wheel and sign it as if Max from security wrote it.
+&mytxt16=I can almost see through.
+&mytxt17=A LETTER
+&mytxt18=I place the empty sheet of paper over the letter.
+&mytxt19=Hmmm A letter directed to a certain doctor Druid.
+&mytxt20=No, it can't be. I can't be an escaped rogue clone. This must be a joke or something.
+&mytxt21=         Dear Dr. Druid,        I am happy to inform you we have      successfully created our first adult     clone as you ordered.     There is only one small problem.....    he escaped from his locked room. It  seems this specimen  is much more intelli- gent than we assumed. It's only a matterof time before we have him back in his room.                                          Max from Security
+&mytxt22=The blue wheel seems to fit. It activated the elevator.
+&mytxt23=It looks like a connection point for something.
+&mytxt24=This fragile looking lift shaft seems to be made of a hard type of glass, very chique.
+&mytxt25=Brace yourself, I don't know where it'll lead me. Up I guess...
+&mytxt26=I think the elevator needs somesort of power...
+&mytxt27=GO UP
+&mytxt28=I repress the urge to pick it up and smash it through the window. Hmm, bad idea!
+&mytxt29=Very nice, must have cost a fortune I guess.
+&mytxt30=I take the elevator back down...
+&mytxt31=GO DOWN
+&mytxt32=A blue tank....
+&mytxt33=A green tank....
+&mytxt34=A red tank....
+&mytxt35=I found a green wheel in this drawer.
+&mytxt36=DRAWER
+&mytxt37=Ah, lucky for me there's a ladder placed below the hole.
+&mytxt38=At first sight it seems empty....
+&mytxt39=Yep, It's a painting allright..
+&mytxt40=Is this a painting of a wheel or a wheel on a painting?
+&mytxt41=BIG BOX
+&mytxt42=Another big box. It's empty.
+&mytxt43=LADDER
+&mytxt44=A ladder. Useful for climbing up and down.
+&mytxt45=GRATING
+&mytxt46=I wonder what purpose these gratings serve.
+&mytxt47=PIPES
+&mytxt48=Lots of pipes are running through these rooms.
+&mytxt49=The red wheel fits on this pipe. It probably opened the red marked door.
+&mytxt50=The green wheel snaps right into place. What did this wheel do?
+&mytxt51=OUT BOX
+&mytxt52=I mailed the letter, I hope they will respond.
+&mytxt53=NOTE: Please fill out your order and don't forget to sign it!
+&mytxt54=IN BOX
+&mytxt55=How suprising, I have recieved something in the mail. It's a red wheel, like I ordered.
+&mytxt56=Hmm the Mail-Snail's Inbox. It's empty right now.
+&mytxt57=I open the drawer.
+&mytxt58=Ah, look. This is a great piece of furniture!
+&mytxt59=WHAT??? I am flying in a space ship? I can't believe it... Perhaps it's an illusion.
+&mytxt60=INSIDE DRAWER
+&mytxt61=It's empty now.
+&mytxt62=In this drawer I found something I can use.
+&mytxt63=I found a very thin blank sheet of paper. I can almost see through.
+&mytxt64=SHEET OF PAPER
+&mytxt65=Locked. But I found a floppy disk on top of the locker.
+&mytxt66=Let's check out this panel.
+&mytxt67=PANEL
+&mytxt68=A transparant cabine Hmmm, It looks like a tele-transporter.
+&mytxt69=TELE-TRANSPORTER
+&mytxt70=YELLOW
+&mytxt71=CYAN
+&mytxt72=PURPLE
+&mytxt73=SMALL WHEEL
+&mytxt74=Okay, now I have to mix the color cyan.
+&mytxt75=Now it turned purple.
+&mytxt76=Okay, it seems like the mix sequence was entered successfully.
+&mytxt77=DISK DRIVES
+&mytxt78=Okay I have the program floppy installed.
+&mytxt79=A set of floppy drives.
+&mytxt80=Some sort of massive fluid mixing computer. It seems offline.
+&mytxt81=Some sort of massive fluid mixing computer. It's working allright.
+&mytxt82=I close the drawer.
+&mytxt83=This wall is full of pipes. These pipes transport liquids of various colors I think.
+&mytxt84=This aparatus is probably used to send and recieve small packages through this structure..
+&mytxt85=TRANSPORT RAIL
+&mytxt86=This part of the building seems to have an internal transport system, sadly I don't fit.
+&mytxt87=The blue wheel on the painting appears to be a real one.
+&mytxt88=
+&mytxt89=
+_root.myTranslation.mytxt

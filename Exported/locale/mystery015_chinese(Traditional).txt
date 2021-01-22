@@ -1,0 +1,18 @@
+﻿mytxt0=原文﹕Jan Albartus，翻譯﹕葉瀚文 (Han-Wen Yeh)
+&lang=chinese(Traditional)&version=1.0
+&mytxt1=換個頻道吧！
+&mytxt2=螢幕
+&mytxt3=螢幕上的頻道的順序是正確的。
+&mytxt4=唉呀。門又是鎖住的。
+&mytxt5=門被一種『時間鎖』鎖住了。
+&mytxt6=把螺絲釘轉開，板子也出來了。啊! 原來電線斷掉了！
+&mytxt7=一個被螺絲釘固定在牆上的板子。
+&mytxt8=這個地方怎麼沒電啊？
+&mytxt9=各位，請勿模仿。這可是很危險的！
+&mytxt10=我真的不懂。連橋都斷掉了...
+&mytxt11=奇怪。門被震垮了。
+&mytxt12=球體
+&mytxt13=咦？是個隱藏的按鈕！有一個時空門出現了呢！
+&mytxt14=無人城好像是不需要斑馬線的吧...
+&mytxt15=路太長了。需要交通工具。
+

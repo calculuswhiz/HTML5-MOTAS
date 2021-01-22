@@ -1,0 +1,374 @@
+﻿mytxt0=Text: Jan Albartus
+&motasmenuCREDITS=CREDITS
+&motasmenuNEW_GAME=START NEW GAME
+&motasmenuCONTINUE=CONTINUE GAME
+&motasmenuLANGUAGE=SELECT LANGUAGE
+&motasmenuBONUS_MATERIAL=BONUS MATERIAL
+
+&motasmenuEXIT_GAME=EXIT CURRENT GAME
+&motasmenuMUSIC_OFF=TURN MUSIC OFF
+&motasmenuMUSIC_ON=TURN MUSIC ON
+&motasmenuSOUND_OFF=TURN SOUND EFFECTS OFF
+&motasmenuSOUND_ON=TURN SOUND EFFECTS ON
+
+&motasmenuGRAPHIC_QUALITY=SET GRAPHIC QUALITY
+&motasmenuTEXT_POSITION=SELECT TEXT POSITION
+&motasmenuOPENHELP=OPEN HELP SCREEN
+&motasmenuCLOSEHELP=CLOSE HELP SCREEN
+&motasmenuCLOSE_MENU=CLOSE MENU
+&motasmenuLEVEL_NUMBER=CURRENT LEVEL NUMBER
+&motasmenuCURSOR_STYLE=SET CURSOR STYLE
+
+&motasmenuSHOWMENU=SHOW OPTIONS MENU
+&motasmenuENTERPASSWORD=ENTER PASSWORD
+&motasmenuENTERLEVEL=ENTER LEVEL NUMBER
+&motasmenuENTERNAME=ENTER USER NAME
+&motasmenuSAVEGAME=SAVE GAME
+&motasmenuLOADGAME=LOAD GAME
+&motasmenuDISKMENU=DISK MENU
+
+&motashelp=The Mystery Of Time And Space (C) Jan Albartus
+
+Use your mouse to click on objects in the rooms to find something to help you to get out of the room you're stuck in. Read the descriptions and responses carefully for any hints.
+
+WARNING: This game is addictive and may ask some serious thinking of the player. You have been warned!
+&meanwhile=meanwhile...
+&mysteryoftimeandspace=Mystery Of Time And Space
+
+&mytxt1=A KEY
+&mytxt2=Let's see where I could use this key...
+&mytxt3=PUT BACK
+&mytxt4=I have placed the key back into my pocket.
+&mytxt5=POSTER
+&mytxt6=Hmmm, how can a poster be used...?
+&mytxt7=SCREWDRIVER
+&mytxt8=What to do with a screwdriver?
+&mytxt9=I'll use it later.
+&mytxt10=THIN SCREW
+&mytxt11=Where to put this screw?
+&mytxt12=I'll try to screw up later, for now I'll put it back into my pocket. Very carefully...
+&mytxt13=What can I unlock with this key..
+&mytxt14=I forgot where I wanted to use this key that opens the door of this room.
+&mytxt15=A GOLDEN KEY
+&mytxt16=PEN
+&mytxt17=I could use this pen...
+&mytxt18=Never mind...
+&mytxt19=PEN WITH INK
+&mytxt20=SHARP PIN
+&mytxt21=Where can I fiddle with a sharp pin...
+&mytxt22=DISKETTE BOX
+&mytxt23=What can I do with an empty box like this...
+&mytxt24=I unlocked the box with the pin. Now I have a floppydisk and an empty diskette box.
+&mytxt25=I can't open it. There's a floppydisk inside the box...
+&mytxt26=FLOPPY DISK
+&mytxt27=And what should I do with this floppy disk...?
+&mytxt28=STONE TILE
+&mytxt29=And what should I do with this stone tile...?
+&mytxt30=This is heavy you know. I can't carry it around forever!
+&mytxt31=And what should I do with this nice piece of crap...?
+&mytxt32=Where can I dump this, it's getting heavy carrying this stone around.
+&mytxt33=HEAD IN BOX
+&mytxt34=Where can it be used? I know it follows lines...
+&mytxt35=BIG TRIANGLE
+&mytxt36=Where can I use this...
+&mytxt37=SMALL TRIANGLE
+&mytxt38=So, let's see where this would fit...
+&mytxt39=AN OBJECT
+&mytxt40=Where can it be used...?
+&mytxt41=ANOTHER OBJECT
+&mytxt42=TRIANGULAR OBJECT
+&mytxt43=The triangular object looks like a welded puzzle.
+&mytxt44=I’ll try to figure out this triangle later....
+&mytxt45=PIECE OF WOOD
+&mytxt46=Where can I use this piece of dry firewood?
+&mytxt47=No, I'm not happy to see you, just carrying a large piece of wood around in my pants...
+&mytxt48=BURNING WOOD
+&mytxt49=Where to get rid of it, it's getting to hot to handle.
+&mytxt50=Let me please find a use for this before I burn myself on it.
+&mytxt51=LIGHT BULB
+&mytxt52=Where can I use some light?
+&mytxt53=I'm afraid I'm left in the dark here...
+&mytxt54=BATTERY
+&mytxt55=Something needs power.
+&mytxt56=Hmmm...
+&mytxt57=FLASHLIGHT
+&mytxt58=Oh cool, it's a handheld portable light source, may be useful...
+&mytxt59=A WHEEL
+&mytxt60=I hope I know what I'm doing with this wheel, it may be dangerous...
+&mytxt61=Okay, but I’d rather not carry this wheel for too long, it's quite heavy.
+&mytxt62=SHEET OF PAPER
+&mytxt63=This sheet of paper, it's so thin, you can almost see through it.
+&mytxt64=Well, I hope I don't crumble it.
+&mytxt65=LETTER
+&mytxt66=I hope a spare part can be ordered with this, now where do I post it..?
+&mytxt67=CHESS PIECE
+&mytxt68=Okay, now I only need to figure out where to use it...
+&mytxt69=I'm no chess master, but if I could only find the place to use this...
+&mytxt70=CLOCK WEIGHTS
+&mytxt71=It's heavy enough to carry around. Let's dump it somewhere...
+&mytxt72=It is so heavy. Oh boy, I have to find a way to use this ballast...
+&mytxt73=CARD
+&mytxt74=A security card... now I bet this may prove useful!
+&mytxt75=Nice and useful to have...
+&mytxt76=COIN
+&mytxt77=I feel like a big spender today.
+&mytxt78=A penny saved is a penny earned...
+&mytxt79=BALL
+&mytxt80=Oh yes, I have the perfect use for this ball.
+&mytxt81=Perhaps another time...
+&mytxt82=CHALK
+&mytxt83=So what could this be used with...
+&mytxt84=I guess I'll use it later...
+&mytxt85=WIRE-CUTTER
+&mytxt86=Something just asks to be cut...
+&mytxt87=Always handy to have.
+&mytxt88=CAN OF COLA
+&mytxt89=The choice of every generation...
+&mytxt90=Always cool.
+&mytxt91=Another key..
+&mytxt92=I forgot where I want to use this key.
+&mytxt93=A BUCKET
+&mytxt94=It's an old bucket.. complete with some holes in it.
+&mytxt95=When I figure out where to use this....
+&mytxt96=A FILLED BUCKET
+&mytxt97=This bucket is filled with water.. The tape seems to be holding.. for now....
+&mytxt98=It's getting heavy carrying this around... wet also..
+
+&mytxt99=TAPE
+&mytxt100=A roll of waterproof tape, now this is exactly what I need.
+&mytxt101=I’ll use the tape when I’ve figured out what it does.
+&mytxt102=CHAIR
+&mytxt103=DOOR
+&mytxt104=PAINTING
+&mytxt105=SOFA
+&mytxt106=CABINET
+&mytxt107=CUPBOARD
+&mytxt108=BUTTON
+&mytxt109=SWITCH
+&mytxt110=TABLE
+&mytxt111=LAMP
+&mytxt112=LOCKER
+&mytxt113=ANOTHER ROOM
+
+&mytxt114=SPADE
+&mytxt115=I wonder how this will be useful.
+&mytxt116=ROPE
+&mytxt117=AXE
+
+&mytxt10000=29&mytxt10001=It's a solid chair. No time to sit down though.
+&mytxt10002=Nice chair.
+&mytxt10003=Well, if I had the time to sit down I would probably give it a try.
+&mytxt10004=Nice to see you can take a seat, if you need one.
+&mytxt10005=Whomever thought of this chair design is a genius.
+&mytxt10006=I don't have time to sit down.
+&mytxt10007=It is an old looking chair. Nothing special about it.
+&mytxt10008=Whenever I see a chair I think I might need it.
+&mytxt10009=What?
+&mytxt10010=I cannot and will not take chairs with me.
+&mytxt10011=After sitting down for a second, I'm totally refreshed.
+&mytxt10012=...
+&mytxt10013=What is it with the obsession with chairs anyway.
+&mytxt10014=Chairs, do people still use them today?
+&mytxt10015=A chair, it doesn't look very confortable though.
+&mytxt10016=Might want to take a rest later, but not now...
+&mytxt10017=Chair. Cheap. Solid. Reliable.
+&mytxt10018=Nice, the designers of this place thought about some furniture.
+&mytxt10019=Heh, you really expect me to do something neat with a chair?
+&mytxt10020=It's a chair.
+&mytxt10021=Oh this looks comfortable enough to sit on for hours - NOT.
+&mytxt10022=Just a chair.
+&mytxt10023=It's not the time to sit down and do nothing.
+&mytxt10024=On other days I would have loved to take a seat but not now.
+&mytxt10025=If you have seen one chair you really seen them all.
+&mytxt10026=How neat. But not interesting though.
+&mytxt10027=I think I have seen enough of them.
+&mytxt10028=Another chair, nothing special nor to get excited about.
+&mytxt10029=I won't sit down now.
+&mytxt10030=What was I thinking. I have no time to sit down.
+
+
+
+&mytxt12000=35&mytxt12001=Nothing special I'm afraid.
+&mytxt12002=I thought I saw something, nope, nothing...
+&mytxt12003=Perhaps I'm looking in all the wrong places, because there is nothing interesting here.
+&mytxt12004=My search was futile, I found nothing.
+&mytxt12005=Unless I'm blind there seems to be nothing of interest.
+&mytxt12006=I see nothing interesting.
+&mytxt12007=My search turned up nothing interesting or something I could use.
+&mytxt12008=After looking again I found there was nothing I overlooked.
+&mytxt12009=This old and dusty place hides nothing interesting.
+&mytxt12010=Wondering if I ever find something in here.
+&mytxt12011=I need needful things, why aren't there any in here?
+&mytxt12012=Sadly my efforts were fruitless. You guessed right, I found nothing.
+&mytxt12013=Most of the times my searches result in finding nothing. This is one of those times.
+&mytxt12014=Apart from some rubbish there's nothing of interest. And even that rubbish is uninteresting.
+&mytxt12015=Hopefully my next search will result in a more satisfactionary way.
+&mytxt12016=I found nothing, but at least I got some exercise.
+&mytxt12017=Njente, noppes, nada, null, zip, nothing.
+&mytxt12018=Hmm, I could have sworn I’d find a hidden passage here!
+&mytxt12019=Where's that thing -what’s-it-called- that I so desperately need?
+&mytxt12020=Just my luck, after searching I came up with nothing.
+&mytxt12021=Hmmm, so much useless stuff. And useless stuff will not help me here.
+&mytxt12022=I searched that place. I found nothing. Not even a clue to where I am.
+&mytxt12023=There's nothing with a WOW factor here. I found nothing, not even an item I may need.
+&mytxt12024=I found nothing, not even a plot line revelation.
+&mytxt12025=I found nothing, not even a mystery puzzle nor an interesting item.
+&mytxt12026=I found nothing, not even a major clue.
+&mytxt12027=I found nothing, not even a ridiculous artifact.
+&mytxt12028=I found nothing, not even a pair of sunglasses.
+&mytxt12029=I found nothing, not even a clue to the Mystery of Time and Space.
+&mytxt12030=I found nothing, not even a lost wallet, nor a bundle of money; not that I would need it.
+&mytxt12031=I’ve already searched here before, I remember. Just checking if I missed something important.
+&mytxt12032=My search revealed nothing of importance.
+&mytxt12033=My eyes try to pierce the darkness. My hands feel around. Sadly without any result.
+&mytxt12034=Hmmm I should not concern myself with this.
+&mytxt12035=It really would have been great if I would find something for once.
+&mytxt12036=You probably guessed it, there's really nothing of interest.
+
+
+&mytxt14000=36&mytxt14001=I use my incredible strength to open this, but still it resists and won't open.
+&mytxt14002=Perhaps using a key or an object would help. I'm not sure though.
+&mytxt14003=Awe, it's locked. Where's a crow bar when you need one.
+&mytxt14004=Shoot, it's locked. I wish I had the key to this problem.
+&mytxt14005=I could have guessed it, it's locked.
+&mytxt14006=Locked. Funny, this does not come as a surprise to me.
+&mytxt14007=Locked? Then something very important could be inside.
+&mytxt14008=Hmmm, will I ever be able to unlock this?
+&mytxt14009=Oh no, another one locked. What's there to hide I ask myself.
+&mytxt14010=I'm unable to look inside this way because the door is locked.
+&mytxt14011=Locked, locked, and locked. Unable to open this way.
+&mytxt14012=I wonder if I could find a key to open this. Or a bazooka.
+&mytxt14013=Perhaps I should think this over. I'm unable to open it with my bare hands.
+&mytxt14014=The urge to look inside is much greater when you can't look inside at all.
+&mytxt14015=Perhaps I should find something to unlock this door.
+&mytxt14016=I need to look inside. This is impossible due to my inability to open it.
+&mytxt14017=I'm unable to open it. Perhaps I need a key to open it. Perhaps it's locked forever.
+&mytxt14018=It's locked.
+&mytxt14019=Awe, locked.
+&mytxt14020=After careful consideration, I found it to be locked.
+&mytxt14021=Can't open it.
+&mytxt14022=Hmm, why is it locked?
+&mytxt14023=Whatever I try, I cannot seem to open it. It's locked!
+&mytxt14024=Nope. Locked.
+&mytxt14025=Just as I expected, it's tightly locked.
+&mytxt14026=How?
+&mytxt14027=Eh, it's no use. It will not open.
+&mytxt14028=It must be locked.
+&mytxt14029=...
+&mytxt14030=Trying my best isn't enough... It's locked.
+&mytxt14031=I thought I saw movement, but sadly.. still locked.
+&mytxt14032=I scratch, scream, and kick, but it is still locked.
+&mytxt14033=What?? Locked!!
+&mytxt14034=I try opening it but sadly I can't.
+&mytxt14035=How mysterious, it's locked.
+&mytxt14036=Locked things always make me wonder what's locked up.
+&mytxt14037=It is locked.
+
+
+// use useless object to open door
+&mytxt15000=14&mytxt15001=This action seems to be fruitless.
+&mytxt15002=Object... Not responding... As expected.
+&mytxt15003=This must be the wrong place to use this object.
+&mytxt15004=It's not working.
+&mytxt15005=Oh no, I’ve almost broken this object by using it in the wrong place.
+&mytxt15006=Having to find out I'm doing all the wrong actions here.
+&mytxt15007=Needless to say that using this object did not produce any results.
+&mytxt15008=Yeah right, like if it was meant to work together.
+&mytxt15009=Nope, it's not plausible to use this here.
+&mytxt15010=Can we try something else? This is not working at all.
+&mytxt15011=Frustrating but true, it's just not working.
+&mytxt15012=I'm not sure if I can use an object here.
+&mytxt15013=Nothing happens.
+&mytxt15014=Other than making some scratches, my actions were fruitless.
+&mytxt15015=Hmm, I'm not sure if this is the right thing to do right now.
+
+//unlocked something like a door or a locker
+&mytxt16000=8&mytxt16001=Yeah, I’ve unlocked another part of this mystery.
+&mytxt16002=Okay, this seemed to have worked. It's unlocked.
+&mytxt16003=It seems like I’ve figured it out. Now it's open.
+&mytxt16004=It was tricky but finally I’ve managed to unlock another piece of this mystery.
+&mytxt16005=Aaaah, this is the way I like it. Makes me feel smart for once.
+&mytxt16006=I wonder why I did not do that earlier.
+&mytxt16007=Nice to see I still have it in me.
+&mytxt16008=Must be my lucky day.
+&mytxt16009=yeah.
+
+&mytxt17000=10&mytxt17001=I’ve opened it.
+&mytxt17002=Hey, incredible, I have found something that is not locked.
+&mytxt17003=Sesame open. And yes, it worked.
+&mytxt17004=This door makes a creepy noise when I open it.
+&mytxt17005=Does this reveal something of the mystery?
+&mytxt17006=Let's take a look.
+&mytxt17007=Carefully I open this door. I don't want to break the old looking door.
+&mytxt17008=Hmm, think of the possibilities of things I could find in here. Scary...
+&mytxt17009=Neat to see so much detail in the movement.
+&mytxt17010=I hope I will find some answers in here.
+&mytxt17011=Let's take a peek inside.
+
+//close door
+&mytxt18000=8&mytxt18001=I’ve closed it again.
+&mytxt18002=I’ve closed the door.
+&mytxt18003=I’ve closed the door again.
+&mytxt18004=I’ve closed it.
+&mytxt18005=Well, I can close it too I see.
+&mytxt18006=Now it's closed again.
+&mytxt18007=Click, it's shut.
+&mytxt18008=Closed.
+&mytxt18009=Click.
+
+//walk door
+&mytxt19000=8&mytxt19001=Let's see.
+&mytxt19002=I've walked here.
+&mytxt19003=So many rooms.
+&mytxt19004=Let's see what I could find here.
+&mytxt19005=Again I enter a room.
+&mytxt19006=I do move around a lot in here.
+&mytxt19007=So now I'm here.
+&mytxt19008=What am I doing here.
+&mytxt19009=I've walked into another of those rooms.
+
+//light on
+&mytxt20000=8&mytxt20001=Let there be light.
+&mytxt20002=I’ve turned on the light.
+&mytxt20003=This will brighten my day.
+&mytxt20004=Wow, how incredible, interactive light.
+&mytxt20005=The room becomes visible.
+&mytxt20006=I turn on the light and the darkness vanishes.
+&mytxt20007=I turn on the light to see what happens.
+&mytxt20008=How exciting, the light turns on.
+&mytxt20009=Nice to have light in case I need it.
+
+//light off
+&mytxt21000=8&mytxt21001=I’ve turned off the light, saves a little energy this way.
+&mytxt21002=I’ve turned off the light.
+&mytxt21003=The lamp is now off.
+&mytxt21004=Okay, turned off.
+&mytxt21005=I’ve turned off the light.
+&mytxt21006=Because I don't know what I'm doing, I’ve turned off the light … see what happens...
+&mytxt21007=I have turned off the light.
+&mytxt21008=Off.
+&mytxt21009=Turned off.
+&mytxt21010=
+//text table
+&mytxt22000=8&mytxt22001=A table.
+&mytxt22002=It's a table.
+&mytxt22003=Just a normal table.
+&mytxt22004=Okay, check out this table.
+&mytxt22005=Nice table.
+&mytxt22006=Why are there always more chairs than tables around?
+&mytxt22007=Nice to be reminded of this useless table.
+&mytxt22008=It's a table. So?
+&mytxt22009=Ah, a table.
+&mytxt22010=
+//text press button
+&mytxt23000=8&mytxt23001=I’ve pressed the button.
+&mytxt23002=Button pressed.
+&mytxt23003=Click.
+&mytxt23004=I press this button.
+&mytxt23005=I’ve pressed this button.
+&mytxt23006=I press the button, hopefully, I know what I'm doing.
+&mytxt23007=I press the button, but have no idea if it helps me.
+&mytxt23008=I’ve pressed the button hoping it does not turn off the life support in this place.
+&mytxt23009=Pressing this button may do some good.
+&mytxt23010=
+_root.objTranslation.mytxt

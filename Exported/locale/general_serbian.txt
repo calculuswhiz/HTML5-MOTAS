@@ -1,0 +1,374 @@
+﻿mytxt0=Text: Jan Albartus, Translated by: Milica Vasić
+&motasmenuCREDITS=ZASLUGE
+&motasmenuNEW_GAME=NOVA IGRA
+&motasmenuCONTINUE=NASTAVI IGRU
+&motasmenuLANGUAGE=IZBOR JEZIKA
+&motasmenuBONUS_MATERIAL=BONUS MATERIJAL
+
+&motasmenuEXIT_GAME=NAPUSTI IGRU
+&motasmenuMUSIC_OFF=ISKLJUČI MUZIKU
+&motasmenuMUSIC_ON=UKLJUČI MUZIKU
+&motasmenuSOUND_OFF=ISKLJUČI ZVUČNE EFEKTE
+&motasmenuSOUND_ON=UKLJUČI ZVUČNE EFEKTE
+
+&motasmenuGRAPHIC_QUALITY=PODESI KVALITET GRAFIKE
+&motasmenuTEXT_POSITION=IZABERI POZICIJU TEKSTA
+&motasmenuOPENHELP=OTVORI POMOĆNI EKRAN
+&motasmenuCLOSEHELP=ZATVORI POMOĆNI EKRAN
+&motasmenuCLOSE_MENU=ZATVORI MENI                                                                                                                                                                                                                                            
+&motasmenuLEVEL_NUMBER=NIVO BROJ
+&motasmenuCURSOR_STYLE=IZABERI KURSOR
+
+&motasmenuSHOWMENU=PRIKAŽI MENI SA OPCIJAMA
+&motasmenuENTERPASSWORD=UNESI ŠIFRU
+&motasmenuENTERLEVEL=UNESI BROJ NIVOA
+&motasmenuENTERNAME=UNESI KORISNIČKO IME
+&motasmenuSAVEGAME=SAČUVAJ IGRU
+&motasmenuLOADGAME=UČITAJ IGRU
+&motasmenuDISKMENU=ODABIR DISKOVA
+
+&motashelp=The Mystery Of Time and Space (C) Jan Albartus
+
+Koristite miša da kliknete na objekte u sobama da nađete nešto što će Vam pomoći da izađete iz sobe u kojoj ste zaglavljeni. Čitajte opise i odgovore pažljivo zbog pomoći.
+
+UPOZORENJE: Ova igra je zarazna i može zahtevati ozbiljno razmišljanje igrača. Upozoreni ste!
+&meanwhile=u među vremenu...
+&mysteryoftimeispace=Misterija prostora i vremena...
+
+&mytxt1=KLJUČ
+&mytxt2=Da vidimo kako mogu da upotrebim ovaj ključ...
+&mytxt3=VRATI NAZAD
+&mytxt4=Vratio sam ključ nazad u moj džep.
+&mytxt5=POSTER
+&mytxt6=Hmmm, kako mogu da upotrebim ovaj poster...?
+&mytxt7=ŠRAFCIGER
+&mytxt8=Šta da uradim sa šrafcigerom?
+&mytxt9=Upotrebiću ga kasnije.
+&mytxt10=TANAK ŠRAF
+&mytxt11=Gde da stavim ovaj šraf?
+&mytxt12=Pokušaću da šrafim kasnije, za sad ću ga vratiti u moj džep. Veoma pažljivo...
+&mytxt13=Šta mogu da otključam s ovim ključem...
+&mytxt14=Zaboravio sam gde da upotrebim ovaj ključ koji otvara vrata ove sobe.
+&mytxt15=ZLATAN KLJUČ
+&mytxt16=PERO
+&mytxt17=Mogao bih da upotrebim ovo pero...
+&mytxt18=Zaboravi...
+&mytxt19=MASTILJAVO PERO
+&mytxt20=OŠTRA ČIODA
+&mytxt21=Gde mogu da gurnem ovu oštru čiodu...?
+&mytxt22=KUTIJA ZA DISKETU
+&mytxt23=Šta mogu da uradim s praznom kutijom...
+&mytxt24=Otključao sam kutiju čiodom. Sada imam disketu i praznu kutiju za diskete.
+&mytxt25=Ne mogu da je otvorim. I kutiji ima disketa...
+&mytxt26=DISKETA
+&mytxt27=I šta bih trebao da uradim sa disketom...?
+&mytxt28=KAMENA PLOČA
+&mytxt29=Šta bih trebao da uradim s ovom kamenom pločom...?
+&mytxt30=Znaš ovo je teško. Ne mogu da vučem ovo zauvek!
+&mytxt31=I šta da uradim s ovim divnim komadom gluposti...?
+&mytxt32=Gde mogu da se otarasim ovoga, postaje teško nositi ovo kamenje okolo!
+&mytxt33=GLAVA U KUTIJI
+&mytxt34=Gde mogu da je upotrebim? Znam da prati linije...
+&mytxt35=VELIKI TROUGAO
+&mytxt36=Gde mogu da upotrebim ovo...
+&mytxt37=MALI TROUGAO
+&mytxt38=Pa, da vidimo gde se ovo uklapa...
+&mytxt39=NEKA STVAR
+&mytxt40=Gde može biti upotrebljen...?
+&mytxt41=DRUGA STVAR
+&mytxt42=TROUGLASTA STVAR
+&mytxt43=Trouglasta stvar izgleda kao zavarena slagalica.
+&mytxt44=Pokušaću da provalim ovaj trougao kasnije....
+&mytxt45=KOMAD DRVETA
+&mytxt46=Gde mogu da upotrebim ovo parče suvog drveta za potpalu?
+&mytxt47=Ne, nisam srećan što te vidim, nego nošenje velikog komada drveta...
+&mytxt48=ZAPALJENO DRVO
+&mytxt49=Gde da ga se otarasim, postaje vruće nositi ga.
+&mytxt50=Hajde molim te da nađemo mesto za ovo, pre nego što se ja zapalim.
+&mytxt51=SIJALICA
+&mytxt52=Gde bi mi dobrodošlo malo svetla?
+&mytxt53=Bojim se da sam ovde u mraku...
+&mytxt54=BATERIJA
+&mytxt55=Nečemu treba snaga.
+&mytxt56=Hmmm...
+&mytxt57=DŽEPNA LAMPA
+&mytxt58=O super, to je spretan prenosivi izvor svetlosti, mogao bi biti koristan...
+&mytxt59=TOČAK
+&mytxt60=Nadam se da znam šta radim, moglo bi biti opasno...
+&mytxt61=Ok, ali radije ne bih dugo nosio ovaj točak, malo je težak.
+&mytxt62=LIST PAPIRA
+&mytxt63=Ovaj list papira je tako tanak, skoro možeš da vidiš kroz njega.
+&mytxt64=Pa, nadam se da ga ne mogu oštetiti.
+&mytxt65=PISMO
+&mytxt66=Nadam se da nedastajući deo može biti naručen ovim putem, kuda da ga pošaljem..?
+&mytxt67=FIGURA IZ ŠAHA
+&mytxt68=Ok, sad samo treba da otkrijem gde da ga upotrebim...
+&mytxt69=Nisam šahovski genije, ali kad bih samo mogao da nađem mesto da upotrebim ovo...
+&mytxt70=TEGOVI ZA SAT
+&mytxt71=Teško za nošenje okolo. Hajde da ga negde smestimo...
+&mytxt72=Tako je teško. Čoveče, moram da nađem način da upotrebim ovaj balast...
+&mytxt73=KARTICA
+&mytxt74=Sigurnosna kartica... kladim se da ovo može da se pokaže korisnim!
+&mytxt75=Lepo i korisno za imati...
+&mytxt76=NOVČIĆ
+&mytxt77=Osećam se kao da sam veliki potrošač danas.
+&mytxt78=Svaki sačuvani novčić je i zarađeni novčić...
+&mytxt79=LOPTA
+&mytxt80=O da, imam savršenu upotrebu za ovu loptu.
+&mytxt81=Možda neki drugi put...
+&mytxt82=KREDA
+&mytxt83=Sa čime bi se ovo moglo upotrebiti...
+&mytxt84=Pretpostavljam da ću upotrebiti kasnije...
+&mytxt85=SEKAČ ŽICE
+&mytxt86=Nešto baš traži da bude presečeno...
+&mytxt87=Uvek kosrisno za imati.
+&mytxt88=LIMENKA KOLE
+&mytxt89=Izbor svake generacije...
+&mytxt90=Uvek odlična.
+&mytxt91=Drugi ključ..
+&mytxt92=Zaboravio sam gde želim da upotrebim ovaj ključ.
+&mytxt93=KANTA
+&mytxt94=To je stara kanta.. sa nekoliko rupica.
+&mytxt95=Kad otkrije gde da upotrebim ovo....
+&mytxt96=NAPUNJENA KANTA
+&mytxt97=Kanta je napunjena vodom.. Čini se da traka drži.. za sada....
+&mytxt98=Postaje teško nositi je... i mokro takođe..
+
+&mytxt99=TRAKA
+&mytxt100=Rolna vodootporne trake, ovo je tačno ono što mi treba.
+&mytxt101=Koristiću traku kad budem otkrio čemu služi.
+&mytxt102=STOLICA
+&mytxt103=VRATA
+&mytxt104=SLIKA
+&mytxt105=SOFA
+&mytxt106=ORMAR
+&mytxt107=VITRINA
+&mytxt108=DUGME
+&mytxt109=PREKIDAČ
+&mytxt110=STO
+&mytxt111=LAMPA
+&mytxt112=ORMARIĆ
+&mytxt113=DRUGA SOBA
+
+&mytxt114=PIK
+&mytxt115=Pitam se kako ovo može biti korisno.
+&mytxt116=KONOPAC
+&mytxt117=SEKIRA
+
+&mytxt10000=29&mytxt10001=To je obična stolica. Nema vremena za sedenje.
+&mytxt10002=Lepa stolica.
+&mytxt10003=Pa, kad bih imao vremena da sednem, verovatno bih i probao.
+&mytxt10004=Lepo je videti da možeš sesti ako je to potrebno.
+&mytxt10005=Ko god da je dizajnirao ovu stolicu je genijalac.
+&mytxt10006=Nemam vremena da sednem.
+&mytxt10007=To je jedna stara stolica. Ništa posebno.
+&mytxt10008=Kad god vidim stolicu pomislim da će mi zatrebati.
+&mytxt10009=Šta?
+&mytxt10010=Ne mogu i neću da ponesem stolice sa sobom.
+&mytxt10011=Nakon što sm seo na trenutak, osećam se osveženim.
+&mytxt10012=...
+&mytxt10013=Šta je uopšte sa opsesijom stolicama...?
+&mytxt10014=Stolice, da li ih ljudi uopšte koriste danas?
+&mytxt10015=Stolica, ne deluje tako udobno.
+&mytxt10016=Možda neki odmor kasnije, sada ne...
+&mytxt10017=Stolica. Jeftina. Pouzdana.
+&mytxt10018=Lepo, dizajneri ovog mesta su razmišljali o nameštaju.
+&mytxt10019=Heh, ti zaista očekuješ da učinim nešto posebno s tom stolicom?
+&mytxt10020=To je stolica.
+&mytxt10021=O ovo deluje dovoljno udobno za sedenje satima - NE.
+&mytxt10022=Samo stolica.
+&mytxt10023=Nije vreme za sedenje i besposličarenje.
+&mytxt10024=Prethodnih dana bih voleo da sednem, ali ne sada.
+&mytxt10025=Ako si video jednu stolicu zaista si ih video sve.
+&mytxt10026=Kako čudno. Ali potpuno neinteresantno.
+&mytxt10027=Mislim da sam ih dovoljno video.
+&mytxt10028=Još jedna stolica, ništa uzbudljivo.
+&mytxt10029=Neću sad sesti.
+&mytxt10030=O čemu li sam razmišljao. Nemam vremena da sedim.
+
+
+
+&mytxt12000=35&mytxt12001=Ništa posebno, bojim se.
+&mytxt12002=Mislio sam da sam video nešto, ali ništa, ne...
+&mytxt12003=Možda sve tražim na pogrešnom mestu jer nema ničeg zanimljivog ovde.
+&mytxt12004=Moja potraga je bila uzaludna, ništa nisam našao.
+&mytxt12005=Osim ako sam slep, tamo nema ničeg zanimljivog.
+&mytxt12006=Ne vidim ništa zanimljivo.
+&mytxt12007=Otkrio sam ništa zanimljivo ili ništa upotrebiljivo.
+&mytxt12008=Nakon ponovnog traženja, otkrio sam da ništa nisam prevideo.
+&mytxt12009=Ovo staro prašnjavo mesto ne krije ništa zaniljivo.
+&mytxt12010=Pitam se hoću li ikada naći nešto ovde.
+&mytxt12011=Trebale su mi korisne stvari, zašto one nisu ovde?
+&mytxt12012=Nažalost, moji napori su bili uzaludni. Pogodio si, nisam našao ništa.
+&mytxt12013=Većinom moje potrage rezultiraju da nisam našao ništa. I ovo je jedan od tih slučajeva.
+&mytxt12014=Osim nekog smeća, ovde nema ništa. I to smeće je nezanimljivo.
+&mytxt12015=Nadam se da će se moja sledeća potraga završiti na bolji način.
+&mytxt12016=Ništa nisam našao,ali sam se bar malo protegao.
+&mytxt12017=Njente, noppes, nada, null, zip, ništa.
+&mytxt12018=Hmm, mogao bih se zakleti da ću ovde naći tajni prolaz!
+&mytxt12019=Gde je onaj -kako se zove- koji mi tako treba?
+&mytxt12020=Tipično, posle pretrage nisam našao ništa.
+&mytxt12021=Hmmm, toliko beskorisnih stvari. A beskorisne stvari mi više neće pomoći.
+&mytxt12022=Pretražio sam to mesto. Nisam našao ništa. Čak ni trag gde sam.
+&mytxt12023=Nema ničeg sa VAU  faktorom ovde. Nisam našao ništa, ni stvarčicu koja će mi zatrebati.
+&mytxt12024=Nisam našao ništa, čak ni otkrivenje radnje.
+&mytxt12025=Nisam našao ništa, čak ni misterioznu slagalicu niti stvarčicu.
+&mytxt12026=Nisam našao ništa, čak ni neki veći trag.
+&mytxt12027=Nisam našao ništa, čak ni smešni artefakt.
+&mytxt12028=Nisam našao ništa, čak ni par naočara.
+&mytxt12029=Nisam našao ništa, čak ni trag Misterije o prostoru i vremenu.
+&mytxt12030=Nisam našao ništa, čak ni izgubljeni novčanik, niti hrpu novca; a nije ni da bi mi trebao.
+&mytxt12031=Već sam tražio ovde, sećam se. Samo proveravam ako sam promašio nešto bitno.
+&mytxt12032=Moja pretraga nije pronašla ništa važno.
+&mytxt12033=Moje oči se pokušavaju probiti kroz tamu. Moje ruke opipavaju. Nažalost bez rezultata.
+&mytxt12034=Hmmm trebao bih se zabrinuti zbog ovoga.
+&mytxt12035=Zaista bi bilo divno kada bih već jednom našao nešto.
+&mytxt12036=Verovatno si pogodio, nema ničeg zanimljivog.
+
+
+&mytxt14000=36&mytxt14001=Koristim svoju iznimnu snagu da otvorim ovo, ali i dalje odoleva i neće da se otvori.
+&mytxt14002=Možda će upotreba ključa ili nečeg drugog pomoći. Nisam siguran.
+&mytxt14003=Uf, zaključano je. Gde je pajser kad ti zatreba.
+&mytxt14004=Do đavola, zaključano je. Voleo bih da sam imao ključ za ovaj problem.
+&mytxt14005=Mogao sam da pogodim, zaključano je.
+&mytxt14006=Zaključano. Zanimljivo, ovo me nije iznenadilo.
+&mytxt14007=Zaključano je? Onda mora da je nešto bitno unutra.
+&mytxt14008=Hmmm, hoću li ikada moći da otključam ovo?
+&mytxt14009=Oh ne, još jedno zaključano. Pitam se šta je unutra to da se krije.
+&mytxt14010=Ne mogu da gledam unutra jer su vrata zaključana .
+&mytxt14011=Zaključano je, zaključano je, i zaključano je. Ne mogu da otvorim na ovaj način.
+&mytxt14012=Pitam se da li bih mogao da nađem ključ za ovo. Ili bazuku.
+&mytxt14013=Možda treba da razmislim ponovo. Ne mogu da otvorim golim rukama.
+&mytxt14014=Želja da pogledaš unutra mora da je mnogo veća kad je to nemoguće.
+&mytxt14015=Možda treba da neđem nešto da otključam ova vrata.
+&mytxt14016=Moram da pogledam unutra. To je nemoguće kada ne mogu da ih otvorim.
+&mytxt14017=Ne mogu da ih otvorim. Možda mi treba ključ da ih otvorim. Možda je zaključano zauvek.
+&mytxt14018=Zaključano je.
+&mytxt14019=Joj, zaključano je.
+&mytxt14020=Nakon pažljivog razmatranja, shvatam da je zaključano.
+&mytxt14021=Ne mogu da otvorim ovo.
+&mytxt14022=Hmm, zašto je zaključano?
+&mytxt14023=Šta god da probam ne mogu da otvorim. Zaključano je!
+&mytxt14024=Ne. Zaključano je.
+&mytxt14025=Kao što sam očekivao, zaključano je čvrsto.
+&mytxt14026=Kako?
+&mytxt14027=Eh, nema koristi. Neće se otvoriti.
+&mytxt14028=Mora da je zaključano .
+&mytxt14029=...
+&mytxt14030=Dati sve od sebe nije dovoljno... Zaključano je.
+&mytxt14031=Pomislio sam da sam primetio pomeranje, ali uzalud.. I dalje je zaključano.
+&mytxt14032=Grebem, vrištim, šutiram, ali je i dalje zaključano.
+&mytxt14033=Šta?? Zaključano je!!
+&mytxt14034=Pokušavam da otvorim, ali je nažalost nemoguće.
+&mytxt14035=Kako misteriozno, zaključano je.
+&mytxt14036=Zaključane stvari me uvek teraju da se zapitam sta je zaključano.
+&mytxt14037=Zaključano je.
+
+
+// use useless object to open door
+&mytxt15000=14&mytxt15001=Ova akcija se čini nemogućom.
+&mytxt15002=Stvar... Ne odgovara... Očekivano.
+&mytxt15003=Ovo moa da je pogrešno mesto da je upotrebi ta stvar.
+&mytxt15004=Ne radi.
+&mytxt15005=Oh ne, umalo ne slomih stvar koristeći je na pogrešnom mestu.
+&mytxt15006=A na kraju otkrijem da sve radim pogrešno.
+&mytxt15007=Nije potrebno spomenuti da korišćenje tog objekta tako ne daje rezultata.
+&mytxt15008=Ma važi, kao da im je pa bilo suđeno da rade zajedno.
+&mytxt15009=Ne, nije izvodivo koristiti to tu.
+&mytxt15010=Možemo li probati nešto drugo? To uopšte ne radi tako.
+&mytxt15011=Frustrurajuće ali istinito, to uopšte ne radi.
+&mytxt15012=Nisam siguran da ovde mogu koristiti tu stvar.
+&mytxt15013=Ništa se ne dešava.
+&mytxt15014=Osim nekoliko ogrebotina, moje radnje su bile beskorisne.
+&mytxt15015=Hmm, nisam siguran da je to prava radnja za sada.
+
+//locked something like a door or a locker
+&mytxt16000=8&mytxt16001=Da, otključao sam još jedan deo ove misterije.
+&mytxt16002=Ok, izgleda da je ovo upalilo, otključano je.
+&mytxt16003=Čini se da sam ga sredio. Sad je otvoreno.
+&mytxt16004=Bilo je teško, ali sam otključao još jedan deo ove misterije.
+&mytxt16005=Aaaah, ovo je način koji volim. Bar me jednom čini pametnim.
+&mytxt16006=Pitam se zašto to nisam učinio ranije.
+&mytxt16007=Lepo je videti da još uvek umem..
+&mytxt16008=Mora da je moj srećan dan.
+&mytxt16009=Jupi!
+
+&mytxt17000=10&mytxt17001=Otvorio sam.
+&mytxt17002=Hej, neverovatno, našao sam nešto što nije zaključano.
+&mytxt17003=Otvori se sezame.Ida, uspelo je.
+&mytxt17004=Ova vrata čine čudne zvuke kad ih otvaram.
+&mytxt17005=Da li ovo tkriva nešto misterije?
+&mytxt17006=Pogledajmo.
+&mytxt17007=Pažljivo otvaram vrata. Neću da polomim stara vrata.
+&mytxt17008=Hmm, zamisli šta sve mogu naći ovde. Strašno...
+&mytxt17009=Koliko detalja u pokretu.
+&mytxt17010=Nadam se da ću naći neke odgovore ovde.
+&mytxt17011=Provirimo unutra.
+
+//close door
+&mytxt18000=8&mytxt18001=Zatvorio sam opet.
+&mytxt18002=Zatvorio sam vrata.
+&mytxt18003=Opet sam zatvorio vrata.
+&mytxt18004=Zatvorio sam ga.
+&mytxt18005=Pa, koliko vidim mogu i zatvoriti.
+&mytxt18006=Sad je opet zatvoreno.
+&mytxt18007=Klikni, zatvoreno.
+&mytxt18008=Zatvoreno.
+&mytxt18009=Klikni.
+
+//walk door
+&mytxt19000=8&mytxt19001=Da vidimo.
+&mytxt19002=Ušao sam ovde.
+&mytxt19003=Toliko soba.
+&mytxt19004=Da vidimo šta mogu naći ovde.
+&mytxt19005=Opet ulazim u sobu.
+&mytxt19006=Zaista se puno krećem ovde.
+&mytxt19007=Dakle sad sam ovde.
+&mytxt19008=Šta radim ovde?!
+&mytxt19009=Ušao sam u drugu od ovih soba.
+
+//light on
+&mytxt20000=8&mytxt20001=Neka bude svetlo.
+&mytxt20002=Uključio sam svetlo.
+&mytxt20003=Ovo će mi osvetleti dan.
+&mytxt20004=Vau, kako neverovatno, interaktivno svetlo.
+&mytxt20005=Sobe postaju vidljive.
+&mytxt20006=Uključim svetlo i tama nestaje.
+&mytxt20007=Uključujem svetlo da vidim šta se dešava.
+&mytxt20008=Kako zanimljivo, svetla se pale.
+&mytxt20009=Dobro je imati svetlo ako mi zatreba.
+
+//light off
+&mytxt21000=8&mytxt21001=Isključio sam svetlo, štedim struju ovako.
+&mytxt21002=Isključio sam svetlo.
+&mytxt21003=Lampa je sad isključena.
+&mytxt21004=Ok, isključeno.
+&mytxt21005=Isključio sam svetlo.
+&mytxt21006=Pošto ionako ne znam zta radim, isključio sam svetlo … da vidimo šta se dešava...
+&mytxt21007=Isključio sam svetlo.
+&mytxt21008=Isključeno.
+&mytxt21009=Isključeno.
+&mytxt21010=
+//text table
+&mytxt22000=8&mytxt22001=Sto.
+&mytxt22002=To je sto.
+&mytxt22003=Samo običan sto.
+&mytxt22004=Ok, vidi taj sto.
+&mytxt22005=Lep sto.
+&mytxt22006=Zašto uvek svuda ima više stolica nego stolova?
+&mytxt22007=Lepo je biti podsećen na ovaj beskoristan sto.
+&mytxt22008=To je sto. Pa?
+&mytxt22009=Aaaaa... Sto!
+&mytxt22010=
+//text press button
+&mytxt23000=8&mytxt23001=Pritisao sam dugme.
+&mytxt23002=Pritisnuto dugme.
+&mytxt23003=Klik.
+&mytxt23004=Pritisao sam dugme.
+&mytxt23005=Pritisao sam dugme.
+&mytxt23006=Pritisao sam dugme, nadam se da znam šta radim.
+&mytxt23007=Pritisao sam dugme, ali nemam pojma da li mi pomaže.
+&mytxt23008=Pritisao sam dugme u nadi da ne gasi život u ovom mestu.
+&mytxt23009=Možda pritiskanje ovog dugmeta učini nešto dobro.
+&mytxt23010=
+_root.objTranslation.mytxt

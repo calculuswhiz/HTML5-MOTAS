@@ -1,0 +1,22 @@
+﻿mytxt0=Text by: Jan Albartus, Translation by: DomIII
+&lang=german&version=1.0
+&mytxt1=Ich kann da nicht reingehen. Ich kann nicht riskieren, mich selbst zu treffen.
+&mytxt2=Ich werde es besser nicht anfassen. Es würde ein Paradoxon verursachen.
+&mytxt3=Ich kann es nicht mit meinen bloßen Händen aufbrechen.
+&mytxt4=Hey, dieser Schraubenziehr war vorher nicht hier. Ich werde ihn besser mitnehmen.
+&mytxt5=Ich komme...Ich werde mich schnell drinnen verstecken. AArgh, jetzt bin ich mit Farbe beschmutzt.
+&mytxt6=Oh mein, es ist ein UFO.
+&mytxt7=UFO
+&mytxt8=IC Steckkarte
+&mytxt9=Das UFO scheint kaputt zu sein? Hmm, Ich kann den Deckel nicht öffnen.
+&mytxt10=Dem UFO fehlt die Kuppel und zwei Komponenten.
+&mytxt11=Ich habe eine kleines Manipulator Of Time And Space Gerät gefunden.
+&mytxt12=MOTAS Gerät
+&mytxt13=Ich habe eine elektronische Komponente gefunden.
+&mytxt14=Ich habe die Tür aufgebrochen.
+&mytxt15=Zumindest habe ich eine weitere elektronische Komponente gefunden.
+&mytxt16=Okay, Ich habe sie eingelegt.
+&mytxt17=WHOOAH, es flug mit aktiviertem Autopiloten davon...
+&mytxt18=Ein Stück Papier. Hey, da ist ein MOTAS Gerät Code drauf.
+&mytxt19=Unzulässiges Ziel angegeben.
+&mytxt20=Unzulässige Richtungen angegeben.

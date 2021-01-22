@@ -1,0 +1,98 @@
+﻿mytxt0=Text by: Jan Albartus
+&mytxt1=PLANT
+&mytxt2=Leuke plant.
+&mytxt3=Oh nee, weer een door een laser afgeschermd deel. Hoe verwijder ik deze.
+&mytxt4=De kelder. Ik vermoed dat er zich daar een uitgang bevindt.
+&mytxt5=The Mystery Of Time And SpaceWritten by N.A.J. NagolIBSN: 20-3466650-32(c) 2048-2052Published by Brain Candy Ltd.
+&mytxt6=00- CHAPTER INDEX01 - Introduction02 - The laws of Physics03 - Nature according to Einstein04 - Nature according to Hawking05 - Universe versus Holoverse06 - Dimensions, Universes apart07 - Time travel
+&mytxt7=05 - Universe versus HoloverseOne of the most fantastic concepts seems to be the possible existence of multiple universes inside a bigger holoverse.A Universe is a self containing system inside the Holoverse unable to interact with other Universes.A Universe is build up of countless galaxies who themselves exist out
+&mytxt8=endless amounts of stars with even more planets.Once men thought the earth to be the center of the universe. Men was proven wrong and then right again. The Multiverse is border less but does not have an infinite amount of space. Yet, space expands between every part of the Multiverse.
+&mytxt9=06 - Dimensions, Universes ApartWhat is an alternate dimension? Recent studies indicate dimensions being alternate universes coexisting within our own.That's because those so called dimensions are actually reflections or echo's of distant universes, just as a radio station can have several echo's.
+&mytxt10=07 - TimetravelWe travel through time all the time. Time makes things happen. Without time there would be no space as space and time are interconnected. As such every attempt of time travel will result in movement of matter. Even a body in rest moves matter around.While it is possible to slow (local) time down, it can't be stopped.
+&mytxt11=Time is partly created by matter moving through space. Matter itself is created from waves interfering with other waves like the light breaks in water.Interfering with the 'past' will create multiple alternate presents. But interfering with an alternate past will not change the traveler's present but does create more alternate realities.
+&mytxt12=This book was and still is one of the best selling books in it's field. The author brings you to the wonderful world of alternate dimensions, time travel and the Holoverse.From the award winning author of: "Time Sliding", "Time and Life", "Alien Intervention", "The Alien Connection", "Official Protocol For First Alien Contact" and "MOTAS"
+&mytxt13=BY: N.A.J. NAGOL
+&mytxt14=KREUKEL
+&mytxt15=Laat me deze vloermat goed vlak leggen.
+&mytxt16=LAMP
+&mytxt17=Ik vond een kleine sleutel verborgen in de lamp waar niemand het ooit zou kunnen vinden.
+&mytxt18=Kijk, een slingerende lamp.
+&mytxt19=Het is een lamp die hoog in de kamer hangt.
+&mytxt20=Ik heb de gloeilamp vervangen.
+&mytxt21=Ik heb de lamp van positie veranderd.
+&mytxt22=Hmmm, het licht gaat niet aan.
+&mytxt23=Ik deed de lamp aan en markeringen op de donkere muur worden zichtbaar.
+&mytxt24=Ik heb de lamp weer uitgedaan voor het geval er ergens een energie tekort is.
+&mytxt25=Als ik deze site bezoekt, kan ik altijd terugkeren door het nieuwe venster te sluiten.
+&mytxt26=Genoeg nu, stoelen zijn niet interessant!
+&mytxt27=Dit ziet eruit als goedkope populaire art-deco.
+&mytxt28=Laat me dit aan de kant schuiven..
+&mytxt29=Ik schuif het niet terug..
+&mytxt30=BOEK
+&mytxt31="Creative Dreaming" door: Patricia Garfield. Zijn dit verhaaltjes voor het slapen gaan?
+&mytxt32=Een doos. Waarschijnlijk gevuld met veel interessant spul. En ik weiger te kijken....
+&mytxt33=Laat me dit uit de weg schuiven..
+&mytxt34=Ik vraag me af wat er in de doos zit. Maar het is vast oude rommel dat ik zou vinden.
+&mytxt35=Misschien helpt het als ik dit ontzettend zware houten meubelstuk opzij schuif..
+&mytxt36=Ziet er zwaar uit. Het is waarschijnlijk zwaar.. Meelij met degene die het moet verplaatsen.
+&mytxt37=Op een of andere manier is dit niet te gebruiken. Het is groot en heft nergens een bergplaats..
+&mytxt38=Nooit geweten dat dit zo licht zou zijn.. Het moet al die krachttraining zijn die ik hier krijg.
+&mytxt39=Ik denk dat dit een soort dekenkist is voor lakens en ander beddengoed..
+&mytxt40=Mooi maar zwaar.. En groot, kijk eens hoeveel plaats het inneemt in de kamer.
+&mytxt41=Helaas, niets wat ik kan gebruiken.
+&mytxt42=Een stevig meubelstuk....
+&mytxt43=Deze ruimte wordt belicht door een toorts. Dit is weer eens wat anders!
+&mytxt44=BANK
+&mytxt45=Een publiek van drie personen kan hier TV kijken. Geen wonder dat de ruimte verborgen was.
+&mytxt46=Het is maar een houten kist waar de TV op staat.
+&mytxt47=TV
+&mytxt48=Waar ik ook mag zijn, ze hebben schijnbaar kabel televisie.
+&mytxt49=Kijk eens wat er achter de kast verborgen was.
+&mytxt50=Goede manier om nutteloze dingen op te bergen.
+&mytxt51=Veel dingen en dozen... En ik heb een gloeilamp gevonden. Dat kan van pas komen.
+&mytxt52=Zijn deze dingen het waard om verborgen te worden? Hmmm...
+&mytxt53=STELLAGE
+&mytxt54=Ik kan er niet doorheen zonder in dunne plakjes gesneden te worden.
+&mytxt55=WOW, het is een dranken automaat. Helaas dat ze geen ander merk cola hebben.
+&mytxt56=MUNT GLEUF
+&mytxt57=Ik heb mezelf op een cola getrakteerd. Ik hoop dat ik het kan gebruiken..
+&mytxt58=Ik probeer de automaat te kraken, zonder veel succes trouwens...
+&mytxt59=Kan ik hier niet eens een gratis wat te drinken krijgen?
+&mytxt60=Ik kan er niet bij. Ik heb geluk dat ik niets gebroken heb toen ik naar beneden viel.
+&mytxt61=Ik kan niet wachten tot ik hier voorbij ben.
+&mytxt62=Dit scherm toont een gang met laser poorten.
+&mytxt63=Het lijkt erop dat de middelste laser poort met succes is uitgezet.
+&mytxt64=Oké, laten we dit paneel verwijderen om hierin te kijken...
+&mytxt65=Ik wil hierin kijken maar kan het niet met de hand openen.
+&mytxt66=Oeps... Blijkbaar heb ik de energievoorziening van dit paneel afgesneden..
+&mytxt67=RODE DRAAD
+&mytxt68=Oeps... Ik denk dat dit niet de juiste draad was om door te knippen...
+&mytxt69=BLAUWE DRAAD
+&mytxt70=Ja, ik zie de middelste poort uitgaan...
+&mytxt71=GROENE DRAAD
+&mytxt72=Kijk, ik heb een grotere sleutel gevonden.... en weer zo'n schroevendraaier.
+&mytxt73=He, dit is een nep muur..
+&mytxt74=Hmm, Iets zit in de weg, Ik kan niet naar boven.
+&mytxt75=Iets verspert de doorgang aan de andere kant.
+&mytxt76=Ik vond een kniptang.
+&mytxt77=Ik had zo'n&mytxt78=stappen nodig om dit mysterie op te lossen.
+&mytxt79=De boven verdieping waar ik deze ruimte betrad. Wat is dat met die "groene muur"?
+&mytxt80=Groene Muur
+&mytxt81=Doorgang
+&mytxt82=Laser Poort
+&mytxt83=Muur Verschoven
+&mytxt84=Controle Paneel Geopend
+&mytxt85=Geheime Doorgang Onthult
+&mytxt86=Poort Gedeactiveerd
+&mytxt87=WEKKER
+&mytxt88=Ik zou de wekker kunnen zetten baar ik vraag me af of iemand het zou horen.
+&mytxt89=BED
+&mytxt90=Laten we eens onder het bed kijken.
+&mytxt91=Leuk bed...
+&mytxt92=Het bed ziet er comfortabel uit, maar ik ben nog niet slaperig.
+&mytxt93=TAPPIJT
+&mytxt94=Jammer dat ik er niet op weg kan vliegen.
+&mytxt95=Ik probeer de stoel te verschuiven...
+&mytxt96=Maar ik kan het niet ver genoeg verschuiven.
+&mytxt97=Ik schuif de stoel terug op z'n plaats...
+_root.myTranslation.mytxt

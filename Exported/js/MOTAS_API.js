@@ -30,18 +30,23 @@ var MOTAS = (function ()
 		}
 	};
 
+	this.playSfx = function (sndFile) 
+	{
+		console.warn('TODO: Play sfx');
+	};
+
 	this.cursor = 
 	{
 		setText(text)
 		{
 			text = text || '';
 			parent.$('#cursor-text').text('Cursor:' + text);
-			console.log('Cursor: ' + text);
+			// console.log('Cursor: ' + text);
 		},
 		setState(state)
 		{
 			parent.$('#cursor-state').text('Cursor State:' + state);
-			console.log('Cursor State: ' + state);
+			// console.log('Cursor State: ' + state);
 		},
 		setBoth(text, state)
 		{
@@ -57,6 +62,7 @@ var MOTAS = (function ()
 	};
 
 	let flavorTextTracker = new Set();
+	// gameText - can be a static string or a string returning function
 	this.setFlavorText = function (object, tooltip, gameText)
 	{
 		if (!flavorTextTracker.has(object))
@@ -104,8 +110,10 @@ var MOTAS = (function ()
 		};
 	}
 
+	const numSpaces = 8;
 	// Inventory management is handled at the top level here. 
 	// This means we can save space in the slot. Slot names are 1-indexed.
+	// If you want to add/remove from the inventory iframe, stop the event from propagating
 	this.inventory = 
 	{
 		// Inventory.html adds a function called showItem to display an item
@@ -117,15 +125,23 @@ var MOTAS = (function ()
 			this.unselect();
 			this.showItem(slot, invObj);
 		},
-		remove(slot)
+		// Can be either slot number or item name
+		remove(target)
 		{
-			this[slot] = null;
+			if (typeof target === 'string')
+				target = this.querySlot(target);
+
+			this[target] = null;
 			this.unselect();
-			this.showItem(slot, null);
+			this.showItem(target, null);
+		},
+		clear()
+		{
+			for (let i = 1; i <= numSpaces; i++)
+				this.remove(i);
 		},
 		dump()
 		{
-			const numSpaces = 8;
 			for (let i = 1; i <= numSpaces; i++)
 			{
 				if (this[i] != null)
@@ -147,8 +163,30 @@ var MOTAS = (function ()
 			this.dump();
 			this.hideSelected();
 		},
+		includes(queryObj)
+		{
+			for (let i = 1; i <= numSpaces; i++)
+			{
+				if (this[i] === queryObj)
+					return true;
+			}
+
+			return false;
+		},
+		querySlot(queryObj)
+		{
+			for (let i = 1; i <= numSpaces; i++)
+			{
+				if (this[i] === queryObj)
+					return i;
+			}
+
+			return 0;
+		},
 		get activeObject() { return _activeObject; },
-		get activeSlot() { return _activeSlot; }
+		get activeSlot() { return _activeSlot; },
+		// Good to start level
+		ready : false
 	};
 
 

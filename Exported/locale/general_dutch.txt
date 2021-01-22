@@ -1,0 +1,361 @@
+﻿mytxt0=Tekst: Jan Albartus
+&lang=dutch&version=1
+&motasmenuCREDITS=CREDITS
+&motasmenuNEW_GAME=START NIEUW SPEL
+&motasmenuCONTINUE=VERDER SPELEN
+&motasmenuLANGUAGE=SELECTEER TAAL
+&motasmenuBONUS_MATERIAL=BONUS MATERIAAL
+
+&motasmenuEXIT_GAME=SLUIT SPEL
+&motasmenuMUSIC_OFF=ZET MUZIEK UIT
+&motasmenuMUSIC_ON=ZET MUZIEK AAN
+&motasmenuSOUND_OFF=ZET SOUND EFFECTS UIT
+&motasmenuSOUND_ON=ZET SOUND EFFECTS AAN
+
+&motasmenuGRAPHIC_QUALITY=ZET GRAFISHE KWALITEIT
+&motasmenuTEXT_POSITION=SELECTEER TEKST POSITIE
+&motasmenuOPENHELP=OPEN HELP SCHERM
+&motasmenuCLOSEHELP=SLUIT HELP SCHERM
+&motasmenuCLOSE_MENU=SLUIT MENU
+&motasmenuLEVEL_NUMBER=HUIDIG LEVEL NUMMER
+&motasmenuCURSOR_STYLE=ZET CURSOR STIJL
+
+&motasmenuSHOWMENU=OPTIES MENU
+&motasmenuSAVEGAME=SPEL OPSLAAN
+&motasmenuLOADGAME=SPEL LADEN
+&motasmenuDISKMENU=DISK MENU
+
+&motashelp=The Mystery Of Time And Space (C) Jan AlbartusGebruik de muis om op objecten in de ruimtes te klikken om zo iets te vinden dat je zal helpen uit de ruimte te komen. Lees de beschrijvingen en respons aandachtig voor hints.WAARSCHUWING: Dit spel kan verslavend werken en vraagt enig denkwerk van de speler. Je bent gewaarshuwd!
+&meanwhile=ondertussen...
+&mysteryoftimeandspace=Mysterie Van Tijd En Ruimte
+&mytxt1=EEN SLEUTEL
+&mytxt2=Laten we eens kijken waar de sleutel te gebruiken is...
+&mytxt3=ZET TERUG
+&mytxt4=Ik heb de sleutel in mijn broekzak gedaan.
+&mytxt5=POSTER
+&mytxt6=Hmmm, hoe een poster te gebruiken...
+&mytxt7=SCHROEVENDRAAIER
+&mytxt8=Wat te doen met een schroevendraaier?
+&mytxt9=Ik gebruik het later wel.
+&mytxt10=DUNNE SCHROEF
+&mytxt11=Wat doe ik met deze schroef?
+&mytxt12=Ik probeer later nogmaals door te draaien, nu stop ik het in m'n broekzak. heel voorzichtig.. 
+&mytxt13=Wat zal deze sleutel open maken..
+&mytxt14=Ik ben vergeten wat ik met de sleutel wilde doen.
+&mytxt15=GOUDEN SLEUTEL
+&mytxt16=PEN
+&mytxt17=Ik zou deze pen kunnen gebruiken...
+&mytxt18=Laat maar...
+&mytxt19=PEN MET INKT
+&mytxt20=SCHERPE NAALD
+&mytxt21=Waar kan ik met deze naald in peuteren...
+&mytxt22=DISKETTE BAK
+&mytxt23=Wat kan ik doen met een lege diskette bak zoals deze...
+&mytxt24=Ik open de diskettebak met de naald. Nu heb ik een floppydisk en een lege diskette bak.
+&mytxt25=Ik kan het niet openen. Er zit een floppydisk in de bak...
+&mytxt26=FLOPPY DISK
+&mytxt27=En wat moet ik met deze floppydisk doen...?
+&mytxt28=STENEN TEGEL
+&mytxt29=En wat moet ik met deze stenen tegel...?
+&mytxt30=Weet je, dit is zwaar. Ik kan het niet eeuwig bij me dragen!
+&mytxt31=En wat moet ik den dit leuk stuk rotzooi...?
+&mytxt32=Waar kan ik dit zo snel mogelijk dumpen, het wordt te zwaar om mee te dragen.
+&mytxt33=HOOFD IN BAK
+&mytxt34=Waar kan ik dit gebruiken. Ik weet dat het lijnen volgt...
+&mytxt35=GROTE DRIEHOEK
+&mytxt36=Waar kan ik dit gebruiken...
+&mytxt37=KLEINE DRIEHOEK
+&mytxt38=Laten ze eens kijken waar dit zou kunnen passen...
+&mytxt39=EEN OBJECT
+&mytxt40=Waar kan ik het gebruiken...
+&mytxt41=NOG EEN OBJECT
+&mytxt42=DRIEHOEKIG OBJECT
+&mytxt43=Het driehoekig object lijkt op een samengesmolten puzzel.
+&mytxt44=Ik probeer die driehoek later wel uit te vogelen....
+&mytxt45=STUK HOUT
+&mytxt46=Waar kan ik een stuk brandhout gebruiken.
+&mytxt47=Nee, het is geen pretje een stuk hout mee te slepen...
+&mytxt48=BRANDEND HOUT
+&mytxt49=Waar kan ik dit kwijt. Het wordt me te heet onder de voeten.
+&mytxt50=Laat me het aub kwijtraken voor ik me er aan brand.
+&mytxt51=GLOEILAMP
+&mytxt52=Waar kan ik wat licht gebruiken?
+&mytxt53=Ik tast in het duister...
+&mytxt54=BATTERIJ
+&mytxt55=Iets heeft stroom nodig.
+&mytxt56=Hmmm...
+&mytxt57=ZAKLANTAARN
+&mytxt58=Oh cool, het is een draagbare lichtbron. Dit zal van pas komen...
+&mytxt59=EEN WIEL
+&mytxt60=Ik hoop dat ik weet wat ik doe met dit wiel, het kan wel eens gevaarlijk worden...
+&mytxt61=Oké, maar ik sleep het liefst helemaal geen wiel mee voor een langere tijd. Best wel zwaar.
+&mytxt62=VEL PAPIER
+&mytxt63=Dit papier is erg dun, je kunt er bijna doorheen kijken.
+&mytxt64=Tja, ik hoop dat ik geen kreukels in het papier krijg.
+&mytxt65=BRIEF
+&mytxt66=Met deze brief hoop ik een reserve onderdeel te bestellen. Nu nog een brievenbus vinden...
+&mytxt67=SCHAAK STUK
+&mytxt68=Oké, nu alleen nog even uitvinden waar ik dit kan gebruiken...
+&mytxt69=Ik ben geen schaakmeester, het was al iets als ik dit ergens kon gebruiken...
+&mytxt70=KLOK GEWICHTEN
+&mytxt71=Het is al zwaar genoeg om mee te sjouwen. Laat ik het ergens dumpen...
+&mytxt72=Dit is heavy. Tjonge, ik moet een manier vinden om deze ballast te gebruiken...
+&mytxt73=KAART
+&mytxt74=Een kaart van de bewaking. Nou, dit kan nuttig zijn!
+&mytxt75=Leuk en nuttig om op zak te hebben...
+&mytxt76=MUNTSTUK
+&mytxt77=Ik voel me vandaag een 'big spender'.
+&mytxt78=Elk dubbeltje meerdere malen omdraaien...
+&mytxt79=BAL
+&mytxt80=Oh yes, ik heb de perfecte toepassing voor deze bal.
+&mytxt81=Misschien een andere keer...
+&mytxt82=KRIJT
+&mytxt83=Zo, waar wordt dit voor gebruikt...
+&mytxt84=Ik schat dat ik het later ga gebruiken...
+&mytxt85=DRAAD KNIPTANG
+&mytxt86=Iets vraagt erop om doorgeknipt te worden...
+&mytxt87=Altijd handig om op zak te hebben.
+&mytxt88=BLIKJE COLA
+&mytxt89=De keuze van elke generatie...
+&mytxt90=Altijd koel.
+&mytxt91=Nog een sleutel..
+&mytxt92=Ik heb vergeten wat ik met de sleutel wilde doen.
+&mytxt93=EEN EMMER
+&mytxt94=Het is een oude emmer, kompleet met gaten erin.
+&mytxt95=Tja, ik zal moeten uitvinden waar ik dit zou kunnen gebruiken....
+&mytxt96=EEN VOLLE EMMER
+&mytxt97=Deze emmer is gevuld met water.. En de watervaste tape houdt het.. voor nu althans....
+&mytxt98=Dit wordt zwaar om mee te slepen.. En ook vochtig bovendien..
+
+&mytxt99=PLAKBAND
+&mytxt100=Een rol watervaste tape. Welnu, dit is exact wat ik nodig heb.
+&mytxt101=Ik gebruik de tape wel als in heb uitgevogeld wat ik ermee kan doen.
+&mytxt102=STOEL
+&mytxt103=DEUR
+&mytxt104=SCHILDERIJ
+&mytxt105=SOFA
+&mytxt106=KASTJE
+&mytxt107=KAST
+&mytxt108=KNOP
+&mytxt109=SCHAKELAAR
+&mytxt110=TAFEL
+&mytxt111=LAMP
+&mytxt112=KAST
+&mytxt113=ANDERE RUIMTE
+&mytxt114=SPADE
+&mytxt115=Ik vraag me af waar dit nuttig voor is.
+&mytxt116=TOUW
+&mytxt117=BIJL
+&mytxt10000=29&mytxt10001=Het is een solide stoel. Geen tijd om te zitten helaas.
+&mytxt10002=Leuke stoel.
+&mytxt10003=Welnu, als ik tijd had om te zitten zou ik het waarschijnlijk proberen.
+&mytxt10004=Leuk dat je plaats kunt nemen, als het nodig is.
+&mytxt10005=Degene die dit design heeft bedacht is geniaal.
+&mytxt10006=Ik heb geen tijd om te zitten.
+&mytxt10007=Het is een oud uitziende stoel. Niets bijzonders mee aan de hand.
+&mytxt10008=Elke keer dat ik een stoel zie denk ik dat ik het nodig heb.
+&mytxt10009=Wat?
+&mytxt10010=Ik kan en wil geen stoel met me mee sjouwen.
+&mytxt10011=Na even gezeten te hebben ben ik weer helemaal fit.
+&mytxt10012=...
+&mytxt10013=Wat is dat toch met die obsessie voor stoelen.
+&mytxt10014=Stoelen, gebruikt men dat tegenwoordig nog steeds?
+&mytxt10015=Een stoel. Het ziet er eigenlijk niet echt confortabel uit.
+&mytxt10016=Misschien dat ik later even uitrust, maar vooralsnog...
+&mytxt10017=STOEL. Goedkoop. Solide. Betrouwbaar.
+&mytxt10018=Leuk dat de designers van deze ruimte gedacht hebben aan leuke meubels.
+&mytxt10019=Hehe, werwachtte je echt dat ik met deze stoel iets leuks zou gaan doen?
+&mytxt10020=Het is een stoel.
+&mytxt10021=Oh je zou er uren op kunnen zitten. - Dacht het niet.
+&mytxt10022=Gewoon een stoel.
+&mytxt10023=Dit is niet de tijd om te zitten niksen.
+&mytxt10024=Op andere dagen zou ik blij zijn geweest om plaats te nemen maar nu even niet.
+&mytxt10025=Als je 1 stoel hebt gezien heb je ze allemaal wel gezien.
+&mytxt10026=Hoe leuk. Maar niet intressant helaas.
+&mytxt10027=Ik kan geen stoel meer zien.
+&mytxt10028=Nog een stoel, niet echt iets om opgewonden over te raken.
+&mytxt10029=Ik ga nu niet zitten.
+&mytxt10030=Wat haalde ik mij in mijn hoofd. Ik heb geen tijd om te zitten.
+
+&mytxt12000=35&mytxt12001=Ik ben bang dat het niets speciaals is.
+&mytxt12002=Ik dacht even iets te zien, nee helaas, niets...
+&mytxt12003=Misschien zoek ik in alle verkeerde plaatsen, want hier is niets intressants.
+&mytxt12004=Mijn zoekactie levert niets op en vond dus ook niets.
+&mytxt12005=Tenzij ik blind ben is hier niets intressants te zien.
+&mytxt12006=Ik zie niets bijzonders.
+&mytxt12007=Mijn zoekactie heeft niet geleid tot het vinden van iets bruikbaars.
+&mytxt12008=Na nogmaals te hebben gekeken weet ik dat ik niets over het hoofd heb gezien.
+&mytxt12009=Deze stoffige plaats verschuilt niets intressants.
+&mytxt12010=Ik vraag me af of ik hier ooit wel wat vind.
+&mytxt12011=Ik heb iets bruikbaars nodig, waarom zijn die hier niet te vinden?
+&mytxt12012=Helaas, verloren moeite. Je raad jet al, niets gevonden.
+&mytxt12013=Een aantal keren vind ik niets op mijn zoektochten. Dit is een van die keren.
+&mytxt12014=Afgezien van wat troep is hier niets intressants. En de troep zelf is ook onintressant.
+&mytxt12015=Hopefully my next search will result in a more satisfactionary way.
+&mytxt12016=Ik heb niets gevonden, maar kreeg tenminste wat beweging.
+&mytxt12017=Njente, noppes, nada, null, zip, nothing, niets dus.
+&mytxt12018=Hmm ik zou zweren dat ik hier een geheime gang zou vinden!
+&mytxt12019=Waar is dat ding -hoeheethetookalweer- dat ik zo nodig denk te hebben.
+&mytxt12020=Dat heb ik weer, na gezocht te hebben kom ik met lege handen terug.
+&mytxt12021=Hmmm, zo veel onbruikbaar spul. En als het niet bruikbaar is zal het me ook niet verder helpen.
+&mytxt12022=Ik heb daar gezocht. Ik vond niets. Niet eens een hint naar waar ik ben.
+&mytxt12023=Er is hier niets om van achterover te vallen. Ik vond niets, niet eens een nuttig object.
+&mytxt12024=Ik vond niets. Niet eens een plotlijn openbaring.
+&mytxt12025=Ik vond niets. Niet eens een mystireueze puzzel. Of een intressant object.
+&mytxt12026=Ik vond niets. Niet eens een vette hint.
+&mytxt12027=Ik vond niets. Niet eens een belachelijk object.
+&mytxt12028=Ik vond niets. Niet eens een zonnebril.
+&mytxt12029=Ik vond niets. Niet eens een hint naar het mysterie van tijd en ruimte.
+&mytxt12030=Ik vond niets. Niet eens een verloren portomenee of een bundel geld. Niet dat van nut zou zijn.
+&mytxt12031=Ik meen dat ik hier al gekeken had. Ik kijk nogmaals of ik niets belangrijks heb gemist.
+&mytxt12032=Mijn zoekaktie levert niets belangrijks op.
+&mytxt12033=Mijn ogen doorboren de duisternis. Mijn handen voelen in het rond. Helaas zonder enig resultaat.
+&mytxt12034=Hmmm Niet iets om mij druk over te maken.
+&mytxt12035=Het zou te gek zijn als ik eindelijk eens iets zou vinden.
+&mytxt12036=Je had het vast al geraden, hier is totaal niets intressants.
+
+&mytxt14000=36&mytxt14001=Ik gebruik mijn enorme kracht om dit open te krijgen maar het blijft dicht.
+&mytxt14002=Misschien zou het gebruiken van een sleutel helpen. Ik weet het niet zeker.
+&mytxt14003=Ah, op slot. Waar vind je een koevoet als je er een nodig kunt gebruiken.
+&mytxt14004=Tss, op slot. Ik wou dat ik de sleutel tot dit probleem bezat.
+&mytxt14005=Was te verwachten, op slot.
+&mytxt14006=Op slot. Grappig, het komt niet als een totale verassing voor mij.
+&mytxt14007=Op slot? Dan kan er wel eens iets zeer belangrijks achter schuil gaan.
+&mytxt14008=Hmmm, zal ik ooit in staat zijn dit te openen?
+&mytxt14009=Oh nee, weer een die op slot zit. Wat is daar te verbergen vraag ik me af.
+&mytxt14010=Ik kan er niet in kijken omdat het afgesloten is.
+&mytxt14011=Op slot, op slot, op slot en nog eens op slot. Kan het niet openen op deze manier.
+&mytxt14012=Ik vraag me af of ik de sleutel zal vinden om dit te openen. Of een bazooka.
+&mytxt14013=Misschien moet ik er eens over nadenken. Met m'n blote handen kan ik het niet openen.
+&mytxt14014=De neiging om te kijken is groter als niet niet kan kijken.
+&mytxt14015=Misschien zal ik iets vinden om de deur van het slot te krijgen.
+&mytxt14016=Ik moet dit inzien. Maar dat is onmogelijk doordat ik het niet open krijg.
+&mytxt14017=Ik kan het niet openen. Misschien heb ik een sleutel nodig, misschien voor altijd afgesloten.
+&mytxt14018=Het zit op slot.
+&mytxt14019=Ah, op slot.
+&mytxt14020=Na erover te hebben nagedacht kom ik tot de conclusie dat het op slot zit.
+&mytxt14021=Ik kan het niet openen.
+&mytxt14022=Hmm waarom is het op slot.
+&mytxt14023=Wat ik ook probeer, ik kan het niet openen. T'zit op slot!
+&mytxt14024=Helaas. Op slot.
+&mytxt14025=Zoals verwacht, stevig op slot.
+&mytxt14026=Hoe?
+&mytxt14027=Eh, dat helpt niet. Het wil niet open.
+&mytxt14028=Het moet op slot zitten.
+&mytxt14029=...
+&mytxt14030=Ik doe m'n best maar dat is niet genoeg... Het zit op slot.
+&mytxt14031=Ik dacht even beweging te zien, maar helaas.. nog steeds op slot.
+&mytxt14032=Ik bekras, schreeuw en schop maar het blijft gesloten.
+&mytxt14033=Wat?? Op slot!!
+&mytxt14034=Ik probeer het te openen maar helaas lukt het me niet.
+&mytxt14035=Mysterieus, het zit op slot.
+&mytxt14036=Afgesloten dingen maken me nieuwschierig naar wat daar opgesloten zit.
+&mytxt14037=Het is op slot.
+
+// use useless object to open door
+&mytxt15000=14&mytxt15001=Deze aktie haalt niets uit.
+&mytxt15002=Object... Geen respons... Zoals verwacht.
+&mytxt15003=Dit moet de verkeerde plaats zijn om dit object te gebruiken.
+&mytxt15004=Het werkt niet.
+&mytxt15005=Oh nee, had ik me daar bijna het object beschadigd door het op de verkeerd plaats te gebruiken.
+&mytxt15006=Ik kom  erachter dat ik dit verkeerd aanpak.
+&mytxt15007=Het is niet nodig om te vermelden dat dit object proberen te gebruiken geen effect had.
+&mytxt15008=Yeah right, alsof dit zou gaan werken.
+&mytxt15009=Neuh, het is niet plausibel dit hier te gebruiken.
+&mytxt15010=Kunnen we iets anders proberen? Dit werkt totaal niet.
+&mytxt15011=Frustrerent maar waar, het werkt van geen kant.
+&mytxt15012=Ik ben er niet zeker van of ik het object hier kan gebruiken.
+&mytxt15013=Er gebeurt niets.
+&mytxt15014=Anders dan wat krassen hebben mijn akties geen zichtbaar resultaat.
+&mytxt15015=Hmm, Ik ben er niet zeker van of ik dit nu wel moet doen.
+
+//unlocked something like a door or a locker
+&mytxt16000=8&mytxt16001=Jaah, Ik heb weer een stuk van het mysterie ontsloten.
+&mytxt16002=Okee, het lijkt erop dat het heeft gewerkt. Het is nu van't slot af.
+&mytxt16003=Het lijkt erop dat ik het uitgevogeld heb. Het is nu open.
+&mytxt16004=Het was lastig maar het is me gelukt om een stuk van dit mysterie op te lossen.
+&mytxt16005=Aaaah, zo zie ik het graag. Voel ik me eindelijk eens slim.
+&mytxt16006=Waarom deed in dit niet eerder.
+&mytxt16007=Leuk om te weten dat ik het nog steeds in me heb.
+&mytxt16008=Dit moet mijn geluksdag zijn.
+&mytxt16009=yeah.
+
+&mytxt17000=10&mytxt17001=Ik heb het geopend.
+&mytxt17002=He, ongelooflijk, ik vind iets dat niet op slot zit.
+&mytxt17003=Sesam open u. En ja, het werkt.
+&mytxt17004=Deze deur maakt een eng geluid als ik het open.
+&mytxt17005=Zal dit iets van dit mysterie onthullen?
+&mytxt17006=Laten we eens kijken.
+&mytxt17007=Voorzichtig open ik de deur. Ik wil niet dat deze oud uitziende deur kapot gaat.
+&mytxt17008=Hmm, denk eens aan de megelijkheden van wat ik wel niet zou kunnen vinden. Best wel eng...
+&mytxt17009=Leuk om zoveel detail in de beweging te zien.
+&mytxt17010=Ik hoop dat ik wat antwoorden zal vinden hier.
+&mytxt17011=Laten we eens een blik naar binnen werpen.
+
+//close door
+&mytxt18000=8&mytxt18001=Ik deed het weer dicht.
+&mytxt18002=Ik sluit de deur.
+&mytxt18003=Ik sluit de deur weer.
+&mytxt18004=Ik sluit het.
+&mytxt18005=Welnu, het is dus ook mogelijk om de deur weer te sluiten.
+&mytxt18006=Nu is het weer gesloten.
+&mytxt18007=Klik, het is dicht.
+&mytxt18008=Gesloten.
+&mytxt18009=Klik.
+
+//walk door
+&mytxt19000=8&mytxt19001=Laten we eens kijken.
+&mytxt19002=Ik liep hierheen.
+&mytxt19003=Zoveel kamers.
+&mytxt19004=Eens kijken wat ik hier zal vinden.
+&mytxt19005=Alweer betreed ik een kamer.
+&mytxt19006=Ik krijg wel veel beweging hierbinnen.
+&mytxt19007=Zo, nu ben ik hier.
+&mytxt19008=Wat doe ik hier.
+&mytxt19009=Ik ben een andere ruimte binnengelopen.
+
+//light on
+&mytxt20000=8&mytxt20001=En er was licht.
+&mytxt20002=Ik heb het licht aangedaan.
+&mytxt20003=Dit zal verlichting brengen op duistere dagen.
+&mytxt20004=Wow, ongelooflijk, interactief licht.
+&mytxt20005=De ruimte wordt zichtbaar.
+&mytxt20006=Ik doe het licht aan en de duisternis verdwijnt.
+&mytxt20007=Ik doe het licht aan om te kijken wat er gebeurt.
+&mytxt20008=Opwindend hoor, het licht springt aan.
+&mytxt20009=Leuk om licht te hebben voor het geval dat ik het nodig zou hebben.
+
+//light off
+&mytxt21000=8&mytxt21001=Ik doe het licht uit, op deze manier bespaar ik energie.
+&mytxt21002=Ik deed het licht uit.
+&mytxt21003=De lamp is nu uit.
+&mytxt21004=Okee, uitgezet.
+&mytxt21005=Ik heb het licht uitgedaan.
+&mytxt21006=Omdat ik niet weet waar ik mee bezig ben, doe ik het licht maar uit. Kijken wat er gebeurt...
+&mytxt21007=Ik heb het licht uitgeschakeld.
+&mytxt21008=Uit.
+&mytxt21009=Uitgeschakeld.
+&mytxt21010=
+//text table
+&mytxt22000=8&mytxt22001=Een tafel.
+&mytxt22002=Het is een tafel.
+&mytxt22003=Gewoon een normale tafel.
+&mytxt22004=Okee, bekijk deze tafel maar eens.
+&mytxt22005=Mooie tafel.
+&mytxt22006=Waarom zijn er altijd meer stoelen dan tafels te vinden?
+&mytxt22007=Leuk om herinnert te worden aan deze nutteloze tafel.
+&mytxt22008=Het is een tafel. Nou en?
+&mytxt22009=Ah, een tafel.
+&mytxt22010=
+//text press button
+&mytxt23000=8&mytxt23001=Ik druk op de knop.
+&mytxt23002=Knop gedrukt.
+&mytxt23003=Klik.
+&mytxt23004=Ik drukk deze knop.
+&mytxt23005=Ik heb deze knop gedrukt.
+&mytxt23006=Ik druk de knop, hopelijk weet ik wat ik doe.
+&mytxt23007=Ik druk op de knop, maar heb geen idee of het me zou helpen.
+&mytxt23008=Ik drukte de knop al hopend dat het niet de zuurstof toevoer van dit gebouw uitzet.
+&mytxt23009=Het drukken van de know zou weleens nuttig kunnen zijn.
+&mytxt23010=
+_root.objTranslation.mytxt

@@ -1,0 +1,24 @@
+mytxt0=Text by: Jan Albartus
+&mytxt1=Complex TheoriesSince the beginning of time and space, the universe keeps evolving into a very complex system of interacting elements, from solar systems to micro organisms.We, the observers of time and space, have witnessed every aspect of the universe from every possible angle. For us, time and space has no mysteries, no end and no beginning....
+&mytxt2=Complex TheoriesIt was not always like this. Once we were a race of beings roaming the universe on search for answers and knowledge, but only found more questions and misery.Eons have passed before the first member of our people realized that there was a deeper structured process behind the common reality we were able to see and live. But to observe this alternate reality was only possible if the observer had no memory of the common reality.
+&mytxt3=Complex TheoriesThe theory was; once a person was raised and lived in a certain environment, he or she could no longer see this alternate reality because of the doctrine of their own memories and experiences.You are one of few humans able to experience this parallel universe first hand.  We hope to get a good report from you as you agreed to do, although we understand you cannot remember the agreement because you allowed us to wipe your memory.
+&mytxt4=Complex TheoriesDon't worry, as the time comes we will remind you of our agreement....
+&mytxt5=NEXT
+&mytxt6=SKIP INTRODUCTION
+&mytxt7=DONE
+&mytxt8=
+&mytxt9=
+&mytxt10=
+&mytxt11=
+&mytxt12=
+&mytxt13=
+&mytxt14=
+&mytxt15=
+&mytxt16=
+&mytxt17=
+&mytxt18=
+&mytxt19=
+&mytxt20=
+&mytxt21=
+
+_root.myTranslation.mytxt

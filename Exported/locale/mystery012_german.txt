@@ -1,0 +1,98 @@
+﻿mytxt0=Text by: Jan Albartus
+&mytxt1=PLANZE
+&mytxt2=Schöne Pflanze.
+&myTxt3=OH nein, wieder eine Tür mit einem Laser abgeschirmtes Teil. Wie kann ich das wieder überwinden.
+&mytxt4=Der Keller. Ich vermute das sich da ein Ausgang befindet.
+&mytxt5=The Mystery Of Time And SpaceWritten by N.A.J. NagolIBSN: 20-3466650-32(c) 2048-2052Published by Brain Candy Ltd.
+&mytxt6=00- CHAPTER INDEX01 - Introduction02 - The laws of Physics03 - Nature according to Einstein04 - Nature according to Hawking05 - Universe versus Holoverse06 - Dimensions, Universes apart07 - Time travel
+&mytxt7=05 - Universe versus HoloverseOne of the most fantastic concepts seems to be the possible existence of multiple universes inside a bigger holoverse.A Universe is a self containing system inside the Holoverse unable to interact with other Universes.A Universe is build up of countless galaxies who themselves exist out
+&mytxt8=endless amounts of stars with even more planets.Once men thought the earth to be the center of the universe. Men was proven wrong and then right again. The Multiverse is border less but does not have an infinite amount of space. Yet, space expands between every part of the Multiverse.
+&mytxt9=06 - Dimensions, Universes ApartWhat is an alternate dimension? Recent studies indicate dimensions being alternate universes coexisting within our own.That's because those so called dimensions are actually reflections or echo's of distant universes, just as a radio station can have several echo's.
+&mytxt10=07 - TimetravelWe travel through time all the time. Time makes things happen. Without time there would be no space as space and time are interconnected. As such every attempt of time travel will result in movement of matter. Even a body in rest moves matter around.While it is possible to slow (local) time down, it can't be stopped.
+&mytxt11=Time is partly created by matter moving through space. Matter itself is created from waves interfering with other waves like the light breaks in water.Interfering with the 'past' will create multiple alternate presents. But interfering with an alternate past will not change the traveler's present but does create more alternate realities.
+&mytxt12=This book was and still is one of the best selling books in it's field. The author brings you to the wonderful world of alternate dimensions, time travel and the Holoverse.From the award winning author of: "Time Sliding", "Time and Life", "Alien Intervention", "The Alien Connection", "Official Protocol For First Alien Contact" and "MOTAS"
+&mytxt13=BY: N.A.J. NAGOL
+&mytxt14=WRINKLE
+&mytxt15=Lass mir diese Matte gut flach legen.
+&mytxt16=LAMPE
+&mytxt17=Ich fand einen kleinen Schlüssel versteckt in dieser Lampe niemand hätte diesen gefunden.
+&mytxt18=Schau, die Lampe kann schwingen.
+&mytxt19=Es ist eine Lampe, häbgt hoch in diesem Raum.
+&mytxt20=Ich habe die Birne eingesetzt in die Lampe.
+&mytxt21=Ich habe die Position der Lampe verändert.
+&mytxt22=Hmmm, geht nicht an.
+&mytxt23=Ich schalte die Lampe ein und die Markierungen auf der Mauer werden sichtbar.
+&mytxt24=Ich habe die Lampe wieder ausgeschaltet.Vielleicht brauche ich die Energie noch irgendwo.
+&mytxt25=Als ich diese Site besuchte, kann ich immer wiederkommen bei dem schliessen dieses neuen Fensters.
+&mytxt26=Genug jetzt, Stühle sind nicht so interessant!
+&mytxt27=Dies siht aus wie eine billige Art-Deko.
+&mytxt28=Lass mich dies an die Seite schieben..
+&mytxt29=Ich schiebe es nicht zurück..
+&mytxt30=BUCH
+&mytxt31="Kreatives Träumen" von: Patricia Garfield. Sind dies Bett Geschichten?
+&mytxt32=Eine Dose. Vielleicht gefüllt mit viele Interessante Sachen. Ich könnte ein Blick riskieren....
+&mytxt33=Lass mich dies aus dem Weg schieben..
+&mytxt34=Ich frage mich was wohl in der Dose ist. Aber ist nur alter Rummel den ich da finden werde.
+&mytxt35=Vielleicht hilft es wenn ich das schwere alte Möbelstück an die Seite schiebe..
+&mytxt36=Sieht schwer aus. Und ist wahrscheinlich schwer.. Mitleid mit dem der das verschieben muss.
+&mytxt37=Auf einer anderen Weise ist dies nicht zu gebrauchen. Es ist groß und kann nirgends plziert werden..
+&mytxt38=Nicht gewusst das dies so leicht war.. Es muss wohl der Krafttaining sein den ich hier bekomme.
+&mytxt39=Ich denk das dies eine Deckenkiste ist für Laken und andere Bettsachen..
+&mytxt40=Hübsch aber schwer.. und Groß, schau mal wieviel Platz es benötigt in diesem Raum.
+&mytxt41=Auweh, nichts was ich gebrauchen kann.
+&mytxt42=Ein stabiles Möbelstück....
+&mytxt43=Dieser Raum wird beleuchtet durch eine Fackel. Mal was anderes!?
+&mytxt44=COUCH
+&mytxt45=Eine Anzahl von drei Personen könnten hier TV schauen in diesem Raum. Kein Wunder das dieser Raum versteckt war.
+&mytxt46=Ein schön stabiles hölzernes Schrank wo der TV drauf steht.
+&mytxt47=TV
+&mytxt48=Wo ich auch sitzen möchte, sie haben scheinbar Kabel TV.
+&mytxt49=Schau mal was hinter dem Schrank verborgen ist.
+&mytxt50=Guteer Weg um nützliche Sachen unter zu bringen.
+&mytxt51=Viele Sachen und Dosen... Und Ich habe eine Lampe gefunden. Die könnte wohl gebraucht werden.
+&mytxt52=Sind diese Dinge es Wert um zu verbergen? Hmmm...
+&mytxt53=STELLAGE
+&mytxt54=Ich kann da nicht durch ohne in Scheiben geschnitten zu werden.
+&mytxt55=WOW, es ist ein Getränkeautomat. Nur schade das sie keine Cola mehr hat.
+&mytxt56=MÜNZ EINWURF
+&mytxt57=Ich habe mich auf eine Cola fixiert. Ich hoffe das ich es gebrauchen kann..
+&mytxt58=Ich probiere den Automat zu zerbrechen, ohne viel Erfolg wie ich meine...
+&mytxt59=Kann ich hier nichts gratis zu trinken bekommen?
+&mytxt60=Ich komme da nicht bei. Ich bin froh das ich nichts gebrochen habe als ich runter fiel.
+&mytxt61=Ich kann nicht warten bis ich hier vorbei bin.
+&mytxt62=Dieser Schirm zeigt einen Gang mit Laser Türen.
+&mytxt63=Es scheint als wenn die mittelste Lasertür ausgeschaltet ist.
+&mytxt64=Okay, wir lassen das Panel verschwinden um hinein zu schauen...
+&mytxt65=Ich möchte hierin schauen aber kann es nicht öffnen mit meiner Hand.
+&mytxt66=Oeps... habe ich die Enrgieversorgung von diesem Panel abgeschnitten..
+&mytxt67=ROTER DRAHT
+&mytxt68=Oeps... Ich glaube das dies nicht der richtige Draht war zum durch kneifen...
+&mytxt69=BLAUER DRAHT
+&mytxt70=Ja, Ich sehe das die mittlere Tür aus geht...
+&mytxt71=GRÜNER DRAHT
+&mytxt72=Schau, Ich fand einen grossen Schlüssel.... und einen anderen Schraubenzieher.
+&mytxt73=Hey diese ist keine richtige Mauer..
+&mytxt74=Hmm, Da ist etwas im Weg ich kann nicht nach oben.
+&mytxt75=Irgendwas blockiert den Weg von der anderen Seite.
+&mytxt76=Ich fand eine Drahtschere.
+&mytxt77=Ich hatte ungefähr&mytxt78=Versuche nötig um diese Mysterie aufzulösen.
+&mytxt79=Das Obergeschoß, wo ich den Raum betrat. Aber was ist das mit der "grünen Mauer"?
+&mytxt80=Grüne Mauer
+&mytxt81=Durchgang
+&mytxt82=Laser Tür
+&mytxt83=Verschobene Mauer
+&mytxt84=Kontrol Eingabefeld geöffnet
+&mytxt85=Geheimer Durchgang enthüllt
+&mytxt86=Tür deaktiviert
+&mytxt87=WECKER
+&mytxt88=Ich kann den Wecker wohl stellen aber frage mich ob das wohl einer hören kann.
+&mytxt89=BETT
+&mytxt90=Lass uns mal unter dem Bett schauen.
+&mytxt91=Hübsches Bett...
+&mytxt92=Diese Bett sieht komfortabel aus, aber bin leider jetzt nicht Müde.
+&mytxt93=TEPPICH
+&mytxt94=Schade das jetzt damit nicht weg fliegen kann.
+&mytxt95=Ich probiere den Stuhl zu verschieben...
+&mytxt96=Aber ich kann ihn nicht weit genug verschieben.
+&mytxt97=Ich schiebe den Stuhl auf die Ursprungsposition zurück...
+_root.myTranslation.mytxt

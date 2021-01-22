@@ -1,0 +1,22 @@
+﻿mytxt0=Text by: Jan Albartus Translated By Marvin Liu
+&lang=Dutch&version=1.0
+&mytxt1=IIk kan hier niet in. Ik neem geen risico's
+&mytxt2=Ik kan het beter niet aanraken, anders zou het tot een paradox leiden.
+&mytxt3=Ik kan het beter niet openen met me handen.
+&mytxt4=Hey, deze schroevedraaier was er toen niet, ik kan het beter meenemen.
+&mytxt5=Ik kom eraan... Snel laten we hierin verstoppen. Aargh, ik zit onder de verf!
+&mytxt6=Oh mij, het is een UFO!!
+&mytxt7=UFO
+&mytxt8=IC BOARD
+&mytxt9=De UFO is kapot? Hmm, ik kan het niet open krijgen.
+&mytxt10=De UFO mist een koepel en twee componenten.
+&mytxt11=Ik heb een kleine Manupatie van Tijd en Ruimte apparaat gevonden.
+&mytxt12=MOTAS APPARAAT
+&mytxt13=Ik heb een elektrische component gevonden.
+&mytxt14=Ik kreeg de deur open.
+&mytxt15=Ik heb minstens een andere component gevonden.
+&mytxt16=Okay, ik heb het opgenomen.
+&mytxt17=WHOOAH, het vloog weg op de automatische piloot!
+&mytxt18=Stukjes van een papier. Hey, het heeft de MOTAS apparaat code op zich.
+&mytxt19=Ongeldig gespecificeerd doel.
+&mytxt20=Ongeldige gespecificeerde richtingen.

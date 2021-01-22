@@ -18,7 +18,9 @@ function applyFreezeHacks()
 	// All that matters is the true so that it only fires once
 	}, null, true);
 }
-function addFreezeClips()
+
+// Accepts arbitrary movieclip arguments to freeze on entry. Be careful how you use this.
+function addFreezeClips(/*...*/)
 {
 	applyFreezeHacks();
 	for (let clip of arguments)
@@ -82,11 +84,30 @@ let generalText = LanguageLoader.loadFile(`general_${MOTAS.language}`);
 	}
 })();
 
+// Call runPreloadCheck(this) on init frame
+function runPreloadCheck(thisObj)
+{
+	let checkInv = thisObj.on('tick', () => 
+	{
+		if (moInv.ready && myTranslation.mytxt0 != null)
+		{
+			thisObj.off('tick', checkInv);
+			thisObj.gotoAndStop(thisObj.currentFrame + 1);
+		}
+	});
+
+	thisObj.stop();
+}
+
+// Call me on first game frame
 function registerNothingHandler()
 {
 	exportRoot.on('click', (evt) => 
 	{
 		if (evt.target.name === null)
+		{
 			MOTAS.setText(generalText.textnothing);
+			MOTAS.inventory.unselect();
+		}
 	});
 }

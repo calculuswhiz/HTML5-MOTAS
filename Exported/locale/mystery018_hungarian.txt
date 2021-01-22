@@ -1,0 +1,22 @@
+﻿mytxt0=Text by: Jan Albartus Translation by: dohosa
+&lang=hungarian&version=1.0
+&mytxt1=Nem mehetek be ide. Félő, hogy önmagammal találkoznék.
+&mytxt2=Jobb, ha nem nyúlok hozzá. Idő paradoxot hozna létre.
+&mytxt3=Nem tudom puszta kézzel kinyitni.
+&mytxt4=Hé, ez a csavarhúzó nem volt itt ezelőtt. Jobb lesz, ha magammal viszem.
+&mytxt5=Jövök már. Gyorsan bebújok ide. Jaj, sajog minden porcikám.
+&mytxt6=Oh anyám! Ez egy UFO.
+&mytxt7=UFO
+&mytxt8=MOTAS SZERKEZET
+&mytxt9=A MOTAS Szerkezet utolsó erejével hozott ide. 
+&mytxt10=Óvatosan beteszem ide a MOTAS Szerkezetet.
+&mytxt11=Ismét egy rejtélyes illesztési nyílás. 
+&mytxt12=Hmm a szerkezet még mindig nincs áram alatt.
+&mytxt13=Jé, a szerkezet újra áram alatt van. 
+&mytxt14=Huh, megfordítottam a polaritást és a MOTAS szerkezet energiát termel.
+&mytxt15=Még egy MOTAS szerkezet kód… Az utolsó energiát transzportálásra használtam fel.
+&mytxt16=HÚHA! Az idő visszafelé szalad!
+&mytxt17=Valamiféle zárt kezelőpanel..
+&mytxt18=Hihetetlen erőmmel arrébb toltam. 
+&mytxt19=Felirat szerint: 'Fontos információ semmisült meg UFO balesetben' és a numbers&REM=
+

@@ -1,0 +1,88 @@
+﻿mytxt0=原文 : Jan Albartus   翻譯 : Jai Chan
+&mytxt1=畫
+&mytxt2=框架
+&mytxt3=是個輪子。究竟是畫輪子的畫，還是掛輪子的畫?
+&mytxt4=空框架
+&mytxt5=回收桶
+&mytxt6=什麼都沒有?!這個人不是很乾淨就是死了。
+&mytxt7=暖氣機
+&mytxt8=哇......太熱了。
+&mytxt9=這個比手電筒更有用......而且更重，還是留在這吧。
+&mytxt10=圖表
+&mytxt11=紅、綠、藍。中間的顏色是兩邊顏色混合起來的結果。
+&mytxt12=找過沙發了，什麼都找不到。
+&mytxt13=這種燈為這地方提供了天然光彩。
+&mytxt14=沿著筆跡
+&mytxt15=我以保安部麥斯的名義寫了封信，希望他們會送來新的紅色輪子。
+&mytxt16=差不多能看透它。
+&mytxt17=信
+&mytxt18=我將白紙放在信的上面。
+&mytxt19=這封信是給一位叫德伊特博士的人。
+&mytxt20=不，我不可能是走失的複製人，一定是開玩笑。
+&mytxt21=         Dear Dr. Druid,        I am happy to inform you we have      successfully created our first adult     clone as you ordered.     There is only one small problem.....    he escaped from his locked room. It  seems this specimen  is much more intelli- gent than we assumed. It's only a matterof time before we have him back in his room.                                          Max from Security
+&mytxt22=看來藍色輪子合得上，升降機動了。
+&mytxt23=看來像是某種連接點。
+&mytxt24=這個升降機槽應該是用強化玻璃造的，真高雅。
+&mytxt25=準備吧，不知道它往哪裡去，應該是上面......
+&mytxt26=我猜這升降機需要某種能源。
+&mytxt27=往上
+&mytxt28=我制止自己想要拿起它擲出窗外的衝動。
+&mytxt29=不錯，值不少錢吧。
+&mytxt30=我乘升降機往下。
+&mytxt31=往下
+&mytxt32=藍缸......
+&mytxt33=綠缸......
+&mytxt34=紅缸......
+&mytxt35=從抽屜裡找到個綠色輪子。
+&mytxt36=抽屜
+&mytxt37=幸運地在這洞下有張梯子。
+&mytxt38=驟眼一看是空的。
+&mytxt39=對，是幅真的畫。
+&mytxt40=究竟是畫輪子的畫，還是掛輪子的畫?
+&mytxt41=大盒子
+&mytxt42=另一個大盒子，空的。
+&mytxt43=梯子
+&mytxt44=梯子，方便於攀上爬下。
+&mytxt45=鐵欄
+&mytxt46=這些鐵欄有什麼用?
+&mytxt47=水管
+&mytxt48=各個房中都有很多水管四通八達。
+&mytxt49=紅色輪子裝上這水管，應該開啟了有紅色標誌的門。
+&mytxt50=裝上了綠色輪子，是幹什麼的?
+&mytxt51=出口
+&mytxt52=我寄了信，希望有回應。
+&mytxt53=注意：請寫上閣下的要求並簽署。
+&mytxt54=入口
+&mytxt55=太驚喜了!箱中有個東西，是我要求的紅色輪子。
+&mytxt56=是個郵遞入口，現在是空的。
+&mytxt57=我開了抽屜。
+&mytxt58=哇，看，不錯的傢俱。
+&mytxt59=什麼???我在飛船上?難以置信......可能只是幻覺。
+&mytxt60=抽屜裡
+&mytxt61=它現在是空的了。
+&mytxt62=在抽屜裡找到點有用的。
+&mytxt63=找到張很薄的白紙，差不多可看透它。
+&mytxt64=紙張
+&mytxt65=鎖了，但我在櫃頂找到張磁碟。
+&mytxt66=看看這個控制板。
+&mytxt67=控制板
+&mytxt68=透明的箱子，看來像是個電子傳送器。
+&mytxt69=電子傳送器
+&mytxt70=黃
+&mytxt71=青綠色
+&mytxt72=紫色
+&mytxt73=小輪子
+&mytxt74=好了，現在我要混出青綠色。
+&mytxt75=現在它轉了成紫色。
+&mytxt76=好了，看來輸入了正確的混合次序。
+&mytxt77=磁碟機
+&mytxt78=好了，我裝進了程式磁碟片。
+&mytxt79=一組磁碟機
+&mytxt80=像是大型液體混合電腦，看來沒有連線。
+&mytxt81=像是大型液體混合電腦，運作正常。
+&mytxt82=我關了抽屜。
+&mytxt83=整片牆都是水管，應是用作傳送多種顏色的。
+&mytxt84=這裝置應該是用作收發這大廈中的小包裹而設的。
+&mytxt85=傳送軌道
+&mytxt86=這部份的建築物看來獨有內部傳送系統，可惜藏不下我。
+&mytxt87=看來畫內的藍色輪子是實物。

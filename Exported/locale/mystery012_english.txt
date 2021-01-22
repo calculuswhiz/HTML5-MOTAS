@@ -1,0 +1,103 @@
+mytxt0=Text by: Jan Albartus
+&mytxt1=PLANT
+&mytxt2=Nice plant.
+&mytxt3=Oh no, yet another laser protected part. I wonder how I remove this one.
+&mytxt4=The basement floor. I suspect an exit somewhere down there.
+&mytxt5=The Mystery Of Time And SpaceWritten by N.A.J. NagolIBSN: 20-3466650-32(c) 2048-2052Published by Brain Candy Ltd.
+&mytxt6=00- CHAPTER INDEX01 - Introduction02 - The laws of Physics03 - Nature according to Einstein04 - Nature according to Hawking05 - Universe versus Holoverse06 - Dimensions, Universes apart07 - Time travel
+&mytxt7=05 - Universe versus HoloverseOne of the most fantastic concepts seems to be the possible existence of multiple universes inside a bigger holoverse.A Universe is a self containing system inside the Holoverse unable to interact with other Universes.A Universe is build up of countless galaxies who themselves exist out
+&mytxt8=endless amounts of stars with even more planets.Once men thought the earth to be the center of the universe. Men was proven wrong and then right again. The Multiverse is border less but does not have an infinite amount of space. Yet, space expands between every part of the Multiverse.
+&mytxt9=06 - Dimensions, Universes ApartWhat is an alternate dimension? Recent studies indicate dimensions being alternate universes coexisting within our own.That's because those so called dimensions are actually reflections or echo's of distant universes, just as a radio station can have several echo's.
+&mytxt10=07 - TimetravelWe travel through time all the time. Time makes things happen. Without time there would be no space as space and time are interconnected. As such every attempt of time travel will result in movement of matter. Even a body in rest moves matter around.While it is possible to slow (local) time down, it can't be stopped.
+&mytxt11=Time is partly created by matter moving through space. Matter itself is created from waves interfering with other waves like the light breaks in water.Interfering with the 'past' will create multiple alternate presents. But interfering with an alternate past will not change the traveler's present but does create more alternate realities.
+&mytxt12=This book was and still is one of the best selling books in it's field. The author brings you to the wonderful world of alternate dimensions, time travel and the Holoverse.From the award winning author of: "Time Sliding", "Time and Life", "Alien Intervention", "The Alien Connection", "Official Protocol For First Alien Contact" and "MOTAS"
+&mytxt13=BY: N.A.J. NAGOL
+&mytxt14=WRINKLE
+&mytxt15=Let me flatten this floor mat.
+&mytxt16=LAMP
+&mytxt17=I found a small key hidden in this lamp so no one would ever find it.
+&mytxt18=Look, this lamp can swing.
+&mytxt19=It's a lamp, hanging high in this room.
+&mytxt20=I inserted another light bulb into the lamp.
+&mytxt21=I moved this lamp's position.
+&mytxt22=Hmmm, the light does not turn on.
+&mytxt23=I switched on the lamp and the light reveals some markings on this dark wall.
+&mytxt24=I turned the lamp back off. Just in case I need some more power elsewhere.
+&mytxt25=If I go to this site, I can always return here by closing the new window.
+&mytxt26=Enough already, chairs are boring!
+&mytxt27=This looks like popular and cheap art-deco.
+&mytxt28=Let me push this aside..
+&mytxt29=I wont push it back..
+&mytxt30=BOOK
+&mytxt31="Creative Dreaming" by: Patricia Garfield. Are these bed time stories?
+&mytxt32=A box. Presumably loaded with countless interesting goodies. And I refuse to take a look....
+&mytxt33=Let me shove this out of my way..
+&mytxt34=I wonder what this box contains. But it's probably the same old rubbish I would find.
+&mytxt35=Perhaps if I pull this very increadibly heavy wooden piece of furniture aside it will help me..
+&mytxt36=Looks heavy. It probably is heavy.. Mercy to the one that has to move it.
+&mytxt37=Somehow this isn't a realy useful item. It's bulky and there are no places to store something..
+&mytxt38=Never knew this would be so light.. It must have been all the workout I get in this place.
+&mytxt39=I think this chest is for storing blankets and other bedgoods..
+&mytxt40=Nice but heavy.. and bulky, dont forget the space it takes up in this room.
+&mytxt41=Awe, nothing I could use.
+&mytxt42=A firm piece of furniture....
+&mytxt43=This room is lit by a torch. How neat is that!?
+&mytxt44=COUCH
+&mytxt45=An audience of three people could watch TV in this room. No wonder this room was hidden.
+&mytxt46=Just a heavy wooden case where the TV stands on.
+&mytxt47=TV
+&mytxt48=Wherever I may be, they seem to have cable TV.
+&mytxt49=Look what is hiding behind this closet.
+&mytxt50=Great way to store useless items.
+&mytxt51=A lot of stuff and boxes... And I have found a light bulb that might prove usefull.
+&mytxt52=Are these items worth hiding? Hmmm...
+&mytxt53=SHELVES
+&mytxt54=I can't move that way without being sliced into small pieces.
+&mytxt55=WOW, it's a soft drink machine. Sadly they don't have the other brand of cola.
+&mytxt56=COIN SLOT
+&mytxt57=I have bought myself a soft-drink. I hope I can use it..
+&mytxt58=I try picking the coin slot, without any luck if I may add...
+&mytxt59=Can't I even get a drink for free in this place?
+&mytxt60=I can't reach it. It's lucky I broke nothing when I fell down here.
+&mytxt61=But I can't wait untill I've passed it.
+&mytxt62=This screen shows the corridor with the laser gates.
+&mytxt63=It seems the middle laser gate is successfully disabled.
+&mytxt64=Okay, let's remove this panel and take a look inside...
+&mytxt65=I want to take a look inside, but am unable to open it by hand.
+&mytxt66=Whoops... I guess I have cut the power to this panel..
+&mytxt67=RED WIRE
+&mytxt68=Whoops... I guess this was the wrong wire to cut...
+&mytxt69=BLUE WIRE
+&mytxt70=Yes, I see the middle gate is powering down...
+&mytxt71=GREEN WIRE
+&mytxt72=Look, I found a bigger key.... and yet another screwdriver.
+&mytxt73=Hey this is a fake wall..
+&mytxt74=Hmm, Something's blocking the way, I can't get up there.
+&mytxt75=Something is blocking the way from the other side.
+&mytxt76=I found a wirecutter.
+&mytxt77=It took me like&mytxt78=steps but I seem to have solved this mystery.
+&mytxt79=The top floor, I entered this area on this floor. And what about that "green wall"?
+&mytxt80=Green Wall
+&mytxt81=Passage
+&mytxt82=Laser Gate
+&mytxt83=Wall Moved
+&mytxt84=Control Panel Opened
+&mytxt85=Secret passage revealed
+&mytxt86=Gate deactivated
+&mytxt87=ALARM CLOCK
+&mytxt88=I would love to set the alarm but I doubt anyone will hear it. There's nobody to wake up.
+&mytxt89=BED
+&mytxt90=Let's take a look and see what's under the bed.
+&mytxt91=Nice bed...
+&mytxt92=This bed looks comfortable, but I'm not sleepy yet.
+&mytxt93=CARPET
+&mytxt94=Sadly it won't fly me out of here.
+&mytxt95=I try to move this chair...
+&mytxt96=But I can't seem to move it far enough.
+&mytxt97=I move this chair back to it's original position...
+&mytxt98=
+&mytxt99=
+
+
+
+_root.myTranslation.mytxt

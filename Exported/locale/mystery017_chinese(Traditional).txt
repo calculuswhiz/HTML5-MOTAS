@@ -1,0 +1,23 @@
+﻿mytxt0=原文﹕Jan Albartus，翻譯﹕葉瀚文 (Han-Wen Yeh)
+&lang=chineseTraditional&version=1.2
+&mytxt1=最好還是不要去，可能會碰到自己。
+&mytxt2=最好還是不要碰，不然可能會產生矛盾。
+&mytxt3=我光用手打不開...
+&mytxt4=咦？這個這個螺絲起子原本不在這裡。我把它拿走好了。
+&mytxt5=哇！我來了！趕快躲在裡面！天阿...全身都沾到油漆！
+&mytxt6=哇列...是個UFO！
+&mytxt7=UFO
+&mytxt8=IC板
+&mytxt9=UFO壞掉了嗎? 蓋子打不開。
+&mytxt10=UFO沒蓋子，而且少了兩個好像蠻重要的部位...
+&mytxt11=找到一個蠻小的『MOTAS機器』。
+&mytxt12=MOTAS機器
+&mytxt13=找到一片IC板。
+&mytxt14=好了。門開了。
+&mytxt15=至少又找到一片IC板。
+&mytxt16=OK...裝好了。
+&mytxt17=哇列...怎麼自己先飛走了？
+&mytxt18=是一張紙。咦？紙上有個MOTAS機器的密碼！
+&mytxt19=目標錯誤。操作無效。
+&mytxt20=指令錯誤。操作無效。
+

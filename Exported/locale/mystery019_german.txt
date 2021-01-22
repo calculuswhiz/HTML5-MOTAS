@@ -1,0 +1,19 @@
+﻿mytxt0=Text by: Jan Albartus, Translation by: DomIII
+&lang=german&version=1.0
+&mytxt1=Samen
+&mytxt2=Ich habe den Samen gepflanzt.
+&mytxt3=Ich habe den Samen zurückgenommen.
+&mytxt4=Ich habe einen Samen gefunden, eines Tages wird er zu einem Baum heranwachsen.
+&mytxt5=Die blockhafte Grafik und nur 16 Farben? Sogar der Monitor scheint aus der Vergangenheit zu sein.
+&mytxt6=Was ist das? Ist es ein Überwachungsmonitor? Ist das alles was sie heutzutage tun können?
+&mytxt7=Oh, das ist komisch, bessere Grafik, Widescreen.. Die Zukunft ist jetzt!
+&mytxt8=MOTAS Gerät
+&mytxt9=Es ist ein Pflanzenkübel.
+&mytxt10=Ich kann es jetzt nicht hier hinlegen. Es würde umfallen...
+&mytxt11=Oh, aber ich kann diesen Baum nicht einfach hochklettern.
+&mytxt12=Dort ist ein Durchgang, aber ich kann ihn nicht erreichen.
+&mytxt13=Diese Geschichtsbücher verraten, das ein Schloss mit dem folgenden Code benutzt wurde:&REM=
+&mytxt14=Bücher
+&mytxt15=Dies scheint ein Weg raus zu sein, aber noch nicht.
+&mytxt16=Tube Lights, ach bekannt als TL.
+&mytxt17=Leiter

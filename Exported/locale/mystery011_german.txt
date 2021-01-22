@@ -1,0 +1,61 @@
+﻿mytxt0=Text by: Jan Albartus
+&mytxt1=Unglaublich, Ich habe ein Münze gefunden in dieser alten Schatztruhe.
+&mytxt2=HANDBUCH
+&mytxt3=Ein Handbuch liegt auf dem Schreibtisch..
+&mytxt4=SCHREIBTISCH
+&mytxt5=Ist ein stabiler hölzerner Schreibtisch.
+&mytxt6=Hmm, diese massiven Steine sehen alt aus. Ich frage mich woher die wohl kommen.
+&mytxt7=PLANZE
+&mytxt8=Eine Pflanze. Riecht herrlich.
+&mytxt9=UHR
+&mytxt10=Es ist eine Uhr, es zeigt die Uhrzeit...
+&mytxt11=Ein haufen Sachen und Dosen...
+&mytxt12=Da ist nichts auf den Brettern.
+&mytxt13=Nicht was ich gebrauchen könnte..
+&mytxt14=Ich frage mich wie alt diese Uhr wohl ist...
+&mytxt15=COMMODORE FAHNE
+&mytxt16=Ich denke das es ein Logo vom früheren Commodore computer ist...
+&mytxt17=Dies sieht aus wie ein populäres und billiges Art-Deko.
+&mytxt18=Ja, es zeigt mir an wie lange ich hier schon rumlaufe.
+&mytxt19=Es generiert Hitze.
+&mytxt20=ABFALL TONNE
+&mytxt21=Ich schaue rein aber ist nur Rummel drin. Das habe ich bereits vermutet.
+&mytxt22=SPINNE
+&mytxt23=Die kleine Spinne ist ein Springtier wie ein Känguruh.
+&mytxt24=Die kleine Spinne springt zürück auf die Lampe.
+&mytxt25=Es sprang oben auf dem Kühlschrank. Hoffentlich hat das keiner gesehen.
+&mytxt26=Wusch, und zurück zur Lampe dieses seltsame Bist.
+&mytxt27=Auch wenn es Amüsant ist hilft mir die Spinne nicht hier raus zu kommen.
+&mytxt28=Dies arme Ding. Voll übergedreht und ängstlich.
+&mytxt29=Und wo möchtest du heute hinspringen.
+&mytxt30=Oh, ich vergass das Spinnen ziemlich ängstlich sind Oder nicht??
+&mytxt31=KREIDE
+&mytxt32=Diese Stück Kreide wird wohl nötig sein... Hoffentlich.
+&mytxt33=Ich mache ein paar Zeichnungen auf der Tafel.
+&mytxt34=Ich putze die Schultafel aus mit meinen Händen.
+&mytxt35=Hey, Ich fand einen Schlüssel und einen Schraubenziher in einen von den Dosen.
+&mytxt36=Ein stabiles Möbelstück....
+&mytxt37=Okay, Ich stecke den weissen Ball in die linke Tasche, und nun..
+&mytxt38=Oh, ein schönes Spiel. Schade das es nich vollständig ist..
+&mytxt39=Ich habe die Billard-Cue Spitze mit der Kreide die ich gefunden habe aufgerauht.
+&mytxt40=Ein Billiard-cue. Die Spitze benötigt etwas.
+&mytxt41=Es funktioniert.
+&mytxt42=Schau, der blaue Ball hat diesen fest sitzenden Schlüssel los gestossen.
+&mytxt43=Ich habe eine Münze eingeworfen... Und Schau, Ich habe nun 3 Kredits...
+&mytxt44=Es sieht aus als wenn ich etwas Geld reinwerfen muss...
+&mytxt45=Der Ball setzt sich in Bewegung. Mal schauen wie das geht...
+&mytxt46=Hmm, schätze der weisse Ball wird fehlen...
+&mytxt47=Okay, Ich muss dieses Problem aus einer anderen Richtung betrachten...
+&mytxt48=Auweh... Total Missere. Die Cue Spitze ist nicht rauh genug um damit zu spielen...
+&mytxt49=Yeah, Es ist mit geglückt den Tisch leer zu spielen. Und etwas was fest saß ist los gegangen...
+&mytxt50=RECK
+&mytxt51=SCHULTAFEL
+&mytxt52=HandBuchGlückwunsch sich Klonen zu lassen in einem unseren Klon Fakultäten.Aber dieses wird Ihre Inteligentz klonen anstatt Ihres Körpers.Ihre Interlektuelle Intelligenz wird gespeichert sein in einer unserer bekannten D-Datenbank.Ihr Klone wird von uns erstellt und wird in einem virtuellen Schlaf versetzt während der Prozedur.
+&mytxt53=PROBLEMEinmal in gewisser Zeit erwacht ein virtueller Klone in unserer D_Datenbank. Wenn es keine direkte Verbindung gibt mit unseren D-Daten servers, diese freien Dateien müssen gelöscht werden von den Daten.Es ist schon mal passiert das Lucide Klonen externe Daten auf unserer Workstations veränderten. Die Luciden Klonen gehen dabei Unlogisch vor aber dabei gelingt es Ihnen auch weiter zu kommen.
+&mytxt54=OH ECHTY? UNLOGISCH?DIESER PLATZ KOMMT MIR VOR WIE EIN LOGISCHES NIGHTMARE WIE DER TEXT AUS DIESEN ADVENTURES.BIN ICH EIN TRANS DIMENSIONALER BESUCHER,ODER NUR EIN LUCIDER TRÄUMENDER KLONE,EINGESCHLOSSEN IN EINER GIGANTISCHEN MASCHIENE,GEBORGEN ZUM SPÄTEREN GEBRAUCH..?
+&mytxt55=
+&mytxt56=
+&mytxt57=
+&mytxt58=
+&mytxt59=
+_root.myTranslation.mytxt

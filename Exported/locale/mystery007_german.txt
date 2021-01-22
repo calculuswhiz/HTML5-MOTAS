@@ -1,0 +1,91 @@
+﻿mytxt0=Text by: Jan Albartus
+&mytxt1=GEMÄLDE
+&mytxt2=LISTE
+&mytxt3=Es ist ein Rad, naja, ein Gemälde von einem Rad oder ein Rad auf dem Gemälde?
+&mytxt4=Ein leere Liste.
+&mytxt5=ABFALL TONNE
+&mytxt6=Nichts!? Die Person ist sehr sauber oder sehr tot.
+&mytxt7=HEIZUNG
+&mytxt8=Au weh.. Zu heiss zu berühren.
+&mytxt9=Ahh, dies hat mehr Power als eine Taschenlampe. Es wiegt auch mehr, also lass ich es stehen.
+&mytxt10=DIAGRAM
+&mytxt11=Rot, Grün, Blau. Die Zwischenfarbe gibt das Mixverhältnis von den angrenzenden Farben an.
+&mytxt12=Ich suche, aber habe nichts gefunden.
+&mytxt13=Die Neonröhren sorgen für eine fahle Beleuchtung in diesem Gebäudeteil.
+&mytxt14=STAPEL PAPIER
+&mytxt15=Ich schreibe eine Brief und bestelle ein rotes Rad und Unterschreibe mit Max vom Sicherheitsdienst.
+&mytxt16=Ich kann beinahe hindurchsehen.
+&mytxt17=EIN BRIEF
+&mytxt18=Ich lege die leeren Seiten über dem Brief.
+&mytxt19=Hmmm Ein Brief an einen Doktor Druid.
+&mytxt20=Nein, das kann nicht wahr sein. Ich kann doch kein entkommener Clone sein. Das muss ein Scherz sein.
+&mytxt21=         Dear Dr. Druid,        I am happy to inform you we have      successfully created our first adult     clone as you ordered.     There is only one small problem.....    he escaped from his locked room. It  seems this specimen  is much more intelli- gent than we assumed. It's only a matterof time before we have him back in his room.                                          Max from Security
+&mytxt22=Das blaue Rad scheint zu passen. Der Aufzug ist aktiviert.
+&mytxt23=Es scheint als wäre dies ein Schlusspunkt von etwas.
+&mytxt24=Dieser zerbrechbar aussehende Aufzug sieht aus als wenn er aus Plexi-Glas gemacht wurde. Sehr schick.
+&mytxt25=Halt dich fest, Keine Idee wo es hin gehen soll. Hinauf schätze ich...
+&mytxt26=Ich denke das der Aufzug einige Energie benötigt...
+&mytxt27=NACH OBEN
+&mytxt28=Ich bin versucht den Stuhl durch das Fenster zu werfen. Hmm, schlechte Idee!
+&mytxt29=Sehr schön, muss eine Menge gekostet haben schätze ich.
+&mytxt30=Ich benutze den Aufzug und fahre nach unten...
+&mytxt31=NACH UNTEN
+&mytxt32=Ein blauer Tank....
+&mytxt33=Ein grüner Tank....
+&mytxt34=Ein roter Tank....
+&mytxt35=Ich habe ein grünes Rad in dieser Lade gefunden.
+&mytxt36=LADE
+&mytxt37=Ahh, zum Glück ist eine Leiter nach unten vorhanden.
+&mytxt38=Auf dem ersten Blick sieht es leer aus....
+&mytxt39=Tja, es ist doch ein Gemälde..
+&mytxt40=Ist dies eine Gemälde von einem Rad oder ein Rad auf dem Gemälde?
+&mytxt41=GROSSE DOSE
+&mytxt42=Wieder eine grosse Dose. Sie ist leer.
+&mytxt43=LEITER
+&mytxt44=Eine Leiter. Grossartig um nach oben oder unten zu klettern.
+&mytxt45=ROST
+&mytxt46=Ich Wunder mich wofür die ganzen Roste wohl sind.
+&mytxt47=ROHR
+&mytxt48=Viele Rohre laufen hier durch diesen Raum.
+&mytxt49=Das rote Rad passt auf diesen Anschluss. Es hat wahrscheinlich die rot markierte Tür geöffnet.
+&mytxt50=Das güne Rad passt perfekt. Was wird das wohl für ein Effekt haben?
+&mytxt51=BRIEFKASTEN AUSGANG
+&mytxt52=Ich habe den Brief verschickt, hoffentlich bekomme ich eine Antwort.
+&mytxt53=INFO: Bitte füllen Sie das Bestellformular aus und vergessen es nicht zu unterschreiben!
+&mytxt54=BRIEFKASTEN EINGANG
+&mytxt55=Überraschung, Ich habe Post bekommen es ist ein rotes Rad genau was ich notwendig habe.
+&mytxt56=Hmm der Eingangs-Briefkasten. Sie ist im Augenblick leer.
+&mytxt57=Ich öffne die Lade.
+&mytxt58=Ahh, schau. Dies ist ein grossartiges Möbelstück!
+&mytxt59=WAS??? Bin ich auf einem fliegenden Raumschiff? Nicht zu glauben... Vielleicht eine Illusion.
+&mytxt60=IN DER LADE
+&mytxt61=Sie ist nun leer.
+&mytxt62=In diese Lade habe ich was gefunden was ich wohl gebrauchen kann.
+&mytxt63=Ich habe ein Stück dünnes Papier gefunden. Ich kann da bald hindurch sehen.
+&mytxt64=STAPEL PAPIER
+&mytxt65=Abgeschlossen. Aber ich habe eine Diskette gefunden auf dem Schrank.
+&mytxt66=Lass uns mal schauen nach dem Eingabepanel.
+&mytxt67=PANEL
+&mytxt68=Eine transparente Kabine Hmmm, Sieht aus wie ein Tele-Transporter.
+&mytxt69=TELE-TRANSPORTER
+&mytxt70=GELB
+&mytxt71=CYAN
+&mytxt72=VIOLETT
+&mytxt73=KLEINES RAD
+&mytxt74=Okay, nun muss ich die Farbe Cyan mischen.
+&mytxt75=Nun ist es Violett geworden.
+&mytxt76=Okay, es sieht aus als wenn die Mischung erfolgreich war.
+&mytxt77=DISKETTEN LAUFWERK
+&mytxt78=Okay Ich habe das Programm von der Floppy installiert.
+&mytxt79=Ein Set von Disketten Laufwerke.
+&mytxt80=Eine Art Farbstoff-Misch Computer. Er scheint aus zu sein.
+&mytxt81=Eine Art Farbstoff-Misch Computer. Bereit nun zum Gebrauch.
+&mytxt82=Ich schliesse die Lade.
+&mytxt83=Diese Mauer ist voll mit Röhren. Diese Rohre transportieren verschiedene Farbstoffe, denke ich.
+&mytxt84=Dieser Apparat wird wahrscheinlich verwendet um kleine Packete zu versenden und zu empfangen..
+&mytxt85=TRANSPORT BAND
+&mytxt86=Dieser Teil von dem Gebäude hat ein internes Transport System, schade das ich da nicht rein passe.
+&mytxt87=Das blaue Rad auf dem Gemälde scheint echt zu sein.
+&mytxt88=
+&mytxt89=
+_root.myTranslation.mytxt

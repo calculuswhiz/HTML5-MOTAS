@@ -1,0 +1,17 @@
+﻿mytxt0=原文﹕Jan Albartus，翻譯﹕葉瀚文 (Han-Wen Yeh)
+&lang=chinese(Traditional)&version=1.0
+&mytxt1=蓋這棟建築物的人一定喜歡植物。
+&mytxt2=樓梯下的櫃子什麼都沒有。
+&mytxt3=哇！找到一張使用卡咧！
+&mytxt4=一個很爛的櫃子。便宜真的是沒好貨。
+&mytxt5=找到一把小鑰匙和個蠻重的白球.
+&mytxt6=又找到一把鑰匙。
+&mytxt7=保險箱
+&mytxt8=拼圖
+&mytxt9=太高了，看不清楚。
+&mytxt10=好像什麼事都沒發生...
+&mytxt11=拼圖突然動起來。
+&mytxt12=好像什麼事都沒發生。到底是要掃描什麼呢？
+&mytxt13=掃描機
+&mytxt14=沒有什麼可以動...
+&mytxt15=移不回原位...

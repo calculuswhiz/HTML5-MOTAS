@@ -1,0 +1,61 @@
+mytxt0=Text by: Jan Albartus
+&mytxt1=Unbelievable, I found a coin in this old chest.
+&mytxt2=MANUAL
+&mytxt3=An instruction manual is lying on the desk..
+&mytxt4=DESK
+&mytxt5=It's a heavy wooden desk.
+&mytxt6=Hmm, this massive stone collumn looks old. I wonder where this came from.
+&mytxt7=PLANT
+&mytxt8=A plant. Smells delicious.
+&mytxt9=CLOCK
+&mytxt10=It's a clock, it tells the time...
+&mytxt11=A lot of stuff and boxes...
+&mytxt12=Sadly nothing on these shelves.
+&mytxt13=Nothing I could use..
+&mytxt14=I wonder how old this clock must be...
+&mytxt15=COMMODORE FLAG
+&mytxt16=I think this is the logo of that Commodore computer I used earlier...
+&mytxt17=This looks like popular and cheap art-deco.
+&mytxt18=Well, it tells me how long I already spent in here, roaming around.
+&mytxt19=It gererates heat.
+&mytxt20=TRASH BIN
+&mytxt21=I look but there's only rubbish in the bin. I suspected this much.
+&mytxt22=SPIDER
+&mytxt23=This little spider is a jumpy fellow.
+&mytxt24=The little spider jumps back to the lamp.
+&mytxt25=It jumped right on top of the fridge. Hopefully no one will notice.
+&mytxt26=Whoosh, and back to the lamp it goes, the silly creature.
+&mytxt27=Although it's quite amuzing, this spider does not help me get out of this place.
+&mytxt28=That poor thing. It's all jumpy and scared.
+&mytxt29=Now where do you want to jump today.
+&mytxt30=Oh, I forgot, spiders are supposed to be scary aren't they?
+&mytxt31=CHALK
+&mytxt32=This piece of chalk may prove usefull... I hope.
+&mytxt33=I made some markings on the blackboard.
+&mytxt34=I wiped the black board clean with my hands.
+&mytxt35=Hey, I found a small key and a screw driver in one of the boxes.
+&mytxt36=A firm piece of furnature....
+&mytxt37=Okay, I have put the white ball in the left pocket, now what..
+&mytxt38=Oh, cool a nice game. Sadly it seems incomplete..
+&mytxt39=I roughed up the tip of the billiart cue with the chalk I found.
+&mytxt40=A billiart cue. The tip needs something.
+&mytxt41=I did it.
+&mytxt42=Look, the blue ball released this key that was stuck in one of the holes.
+&mytxt43=I insert a coin... And look, I got 3 more credits...
+&mytxt44=It seems I have to insert some money...
+&mytxt45=The ball is moving. Let's see where this goes...
+&mytxt46=Hm, the white ball seems to be missing...
+&mytxt47=Okay, I need to approach this problem from a different angle...
+&mytxt48=Awe... I missed totally. The edge of the cue isn't rough enough to play...
+&mytxt49=Yeah, I managed to clear the table. And I seem to have turned up something stuck inside...
+&mytxt50=SHELVES
+&mytxt51=BLACK BOARD
+&mytxt52=ManualGongrats on the decicion to get yourself cloned in one of our proud cloning facilities.Remember that this procedure clones your interlect rather than your body.Your interlectual intelligence will live on in one of our renowed D-DataBases.Your clone will be stored by us for research and kept in a virtual sleep during its storage period.
+&mytxt53=PROBLEMSOnce in a while a virtual clone will wake up inside our D-DataBase. While not posing a direct threath to our D-Data servers, these lose files must be deleted from the data.It has been known for lucid clones to access external data to our workstations. The lucid clones act erratic and illogical but still seem to manage further access.
+&mytxt54=OH REALLY? ILLOGICAL?THIS PLACE SEEMS AS MUCH OF A LOGICAL NIGHTMARE AS THOSE TEXT ADVENTURES.SO AM I A TRANS DIMENSIONAL VISITOR,OR AM I ONLY A LUCID DREAMING CLONE,LOCKED UP INSIDE A GIANT MACHINE,STORED FOR LATER USE..?
+&mytxt55=
+&mytxt56=
+&mytxt57=
+&mytxt58=
+&mytxt59=
+_root.myTranslation.mytxt

@@ -1,0 +1,92 @@
+﻿mytxt0=作者: Jan Albartus  翻译：Ming
+&mytxt1=画
+&mytxt2=画框
+&mytxt3=一个轮盘。好吧，这到底是一幅画着轮盘的画还是一个轮盘放在一幅画上？
+&mytxt4=一个空画框。
+&mytxt5=垃圾桶
+&mytxt6=什么都没有？这儿的主人不是十分简洁，就是十分老土。
+&mytxt7=暖气
+&mytxt8=啊，太烫了，不能碰！
+&mytxt9=嗯？这个比其他的灯亮多了，重量也重多了。先把他放在这儿吧。
+&mytxt10=图例
+&mytxt11=红色，绿色，蓝色。中间的颜色都是由其两边的颜色混合而成的。
+&mytxt12=我翻了翻沙发，什么都没有找到。
+&mytxt13=这盏灯为这个房间提供了天然的光源。
+&mytxt14=显影纸
+&mytxt15=我写了一封信，要求他们寄给我一个新的红色轮盘，并且把这封信署名成安全局的Max。
+&mytxt16=我几乎可以看穿。
+&mytxt17=一封信
+&mytxt18=我把空的薄片放到信上。
+&mytxt19=一封给Druid的信.
+&mytxt20=不，这不可能，我肯定不是一个逃跑的克隆人，这个一定是个玩笑。
+&mytxt21=         Dear Dr. Druid,        I am happy to inform you we have      successfully created our first adult     clone as you ordered.     There is only one small problem.....    he escaped from his locked room. It  seems this specimen  is much more intelli- gent than we assumed. It's only a matterof time before we have him back in his room.                                          Max from Security
+&mytxt22=蓝色的轮盘适合这儿。它激活了电梯。
+&mytxt23=这看起来像是一个东西的连接点。
+&mytxt24=这个看起来易碎的电梯其实使用坚硬的玻璃做的，十分的牢固。 
+&mytxt25=要挺住，我不知道这儿会同到哪儿，我猜是向上的。
+&mytxt26=我认为这电梯还缺少电源
+&mytxt27=去上层
+&mytxt28=我想捡起这个东西然后砸碎玻璃，但是我强压下这个念头，这是个坏主意。
+&mytxt29=非常好，我想一定花了不少钱。
+&mytxt30=我坐着电梯返回去。 
+&mytxt31=去下层
+&mytxt32=蓝色水罐
+&mytxt33=绿色水罐
+&mytxt34=红色水罐
+&mytxt35=我在抽屉里找到一个绿色轮盘。
+&mytxt36=抽屉
+&mytxt37=啊哈，好运气，那儿有个梯子放在洞下面。
+&mytxt38=看起来貌似是空的。
+&mytxt39=是的，这的确是幅画。
+&mytxt40=这是一幅轮盘的画还是画上放着一个轮盘？
+&mytxt41=大盒子
+&mytxt42=有一个大盒子，是空的。
+&mytxt43=梯子
+&mytxt44=一架梯子，用来爬上爬下的。
+&mytxt45=隔栅
+&mytxt46=我很想知道这些隔栅是用来干什么。
+&mytxt47=管道
+&mytxt48=很多管道横穿过这些房间。
+&mytxt49=红色的轮盘适合这个管子。这很有可能打开了那个红色标记的门。
+&mytxt50=绿色的轮盘完全吻合。这个轮盘是用来干什么的？
+&mytxt51=发件箱
+&mytxt52=我寄了这封信，我希望他们会回复我。
+&mytxt53=注意：填写好你的要求，然后不要忘记签名！
+&mytxt54=收件箱
+&mytxt55=太神奇了！收到了一些东西，一个我要求的红色轮盘！
+&mytxt56=收件箱，但是现在是空的。H
+&mytxt57=我打开抽屉。
+&mytxt58=看呀！好大的一件家具呀！
+&mytxt59=什么？我是在太空中？太难以置信了，也许这是我的幻觉！
+&mytxt60=抽屉内部
+&mytxt61=现在空了。
+&mytxt62=在抽屉里我找到了些我能用的东西。
+&mytxt63=我找到了一张非常薄的空白纸。我几乎可以看透着张纸。 
+&mytxt64=一张纸
+&mytxt65=锁住了，但是我在柜子顶上找到了一张磁盘。
+&mytxt66=让我们看看这个控制面板。
+&mytxt67=控制面板
+&mytxt68=一个传送间，看起来像是空间传送。
+&mytxt69=空间传送机
+&mytxt70=黄色
+&mytxt71=青色
+&mytxt72=紫色
+&mytxt73=小轮盘
+&mytxt74=好了，现在我要调制青色了。
+&mytxt75=变成紫色了。
+&mytxt76=嗯，看来是要按顺序输入需要调制的颜色。
+&mytxt77=磁盘驱动器
+&mytxt78=好了，程序启动了。
+&mytxt79=一排软盘驱动器。
+&mytxt80=一种大型液体混合用计算机，但看起来是关着的。
+&mytxt81=一种大型液体混合用计算机，已经开始工作了。
+&mytxt82=我合上抽屉。
+&mytxt83=墙上都是管线，我想这些管线是输送各种液体颜料的。
+&mytxt84=看这台机器，我想这个房间是用来收发小包裹的。
+&mytxt85=输送轨道
+&mytxt86=这个整个建筑物一定有个内部输送系统的，但是我不会用。
+&mytxt87=画上的那个蓝色轮盘是真的！
+&mytxt88=
+&mytxt89=
+_root.myTranslation.mytxt
+

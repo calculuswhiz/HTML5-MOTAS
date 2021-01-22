@@ -1,0 +1,17 @@
+﻿mytxt0=Text by: Jan Albartus, Translation by PhoeNixe
+&lang=german&version=1.0
+&mytxt1=Ich habe auf ein anderes Monitorbild umgeschaltet.
+&mytxt2=MONITOR
+&mytxt3=Die Monitorbilder sind chronologisch angeordnet.
+&mytxt4=Hmm seltsam, die Tür scheint blockiert zu sein… schon wieder.
+&mytxt5=Die Tür war verschlossen mit einer Art “Zeitschloss”.
+&mytxt6=Ich drehe die Schrauben heraus und nehme die Abdeckung weg. Da ist das Problem, ein kaputtes Kabel.
+&mytxt7=Eine Abdeckung, fest an die Wand geschraubt. 
+&mytxt8=Was ist mit diesem Ort los. Anscheinend ist kein Strom da…
+&mytxt9=Kinder, versucht das NIEMALS zu Hause, das ist gefährlich!
+&mytxt10=Ich verstehe nicht, die Brücke ist zerstört...
+&mytxt11=Das ist komisch, der Durchgang ist eingebrochen.
+&mytxt12=KUGEL
+&mytxt13=Hey das ist ein geheimer Knopf. Eine Art Portal kommt herab.
+&mytxt14=Ein Zebrastreifen ist nicht grade nützlich in einer zerstörten Welt.
+&mytxt15=Die Straße geht immer weiter und weiter. Ich brauche irgendeinen Transport.

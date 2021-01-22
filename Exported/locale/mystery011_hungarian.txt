@@ -1,0 +1,72 @@
+﻿mytxt0=Text by: Jan Albartus Translation by: dohosa
+&lang=hungarian&version=1.0
+&mytxt1=Hihetetlen, találtam egy érmét ebben az öreg ládában.
+&mytxt2=KÉZIKÖNYV
+&mytxt3=Egy felhasználói kézikönyv fekszik az asztalon.
+&mytxt4=ASZTAL
+&mytxt5=Ez egy nehéz fa asztal.
+&mytxt6=Hmm, egy öreg masszív kő oszlop. Vajon honnan származik?
+&mytxt7=NŰÖVÉNY
+&mytxt8=Egy növény. Finom illata van.
+&mytxt9=ÓRA
+&mytxt10=Ez egy óra, megmutatja az időt.
+&mytxt11=Egy csomó cucc és dobozok…
+&mytxt12=Sajnos semmi sincs a polcokon.
+&mytxt13=Semmi használható..
+&mytxt14=Kíváncsi vagyok milyen öreg lehet ez az óra.
+&mytxt15=COMMODORE ZÁSZLÓ
+&mytxt16=Azt hiszem ez a lógója annak a Commodore számítógépnek, amit ezelőtt használtam.
+&mytxt17=népszerű és olcsó art deconak tűnik.
+&mytxt18=Hát ez elárulja milyen régóta bolyongok itt.
+&mytxt19=Fűt.
+&mytxt20=KUKA
+&mytxt21=Megnéztem, de csak szemét van a kukában. Erre is számítottam.
+&mytxt22=PÓK
+&mytxt23=Ez egy kis izgága pók pajtás.
+&mytxt24=A kis pók visszaugrik a lámpára
+&mytxt25=Pont a hűtő tetejére ugrott. Remélem senki sem veszi észre.
+&mytxt26=Huss, és vissza is ért a lámpára ez a kis bolond teremtés.
+&mytxt27=Bár elég szórakoztató, de ez a kis pók nem segít nekem innen kijutni.
+&mytxt28=Szegényke. Tisztára izgatott és fél.
+&mytxt29=Na, hova szeretnél ma ugrani?
+&mytxt30=Oh, el is felejtettem, hogy a pókok félelmetesek, vagy nem?
+&mytxt31=KRÉTA
+&mytxt32=Ez a kréta darab még hasznos lehet. Remélem…
+&mytxt33=Hagytam pár jelet a táblán.
+&mytxt34=Letöröltem a táblát a kezemmel.
+&mytxt35=Hé, találtam egy kicsi kulcsot és egy csavarhúzót az egyik dobozban.
+&mytxt36=Egy szép bútordarab.
+&mytxt37=Oké, betettem a fehér golyót a bal zsebbe, és most?
+&mytxt38=Oh, klassz játék. Kár, hogy még hiányzik hozzá valami.
+&mytxt39=Bekentem a biliárd dákó hegyét a krétával, amit találtam. 
+&mytxt40=Egy biliárd dákó. A hegyére kell valami.
+&mytxt41=Sikerült.
+&mytxt42=Nézd csak, a két golyó kiszabadította az egyik lyukba beragadt kulcsot. 
+&mytxt43=Beteszem az érmét.. És lám, van még 3 játékom.
+&mytxt44=Úgy tűnik, be kell tennem egy kis pént.
+&mytxt45=A golyó mozog. Lássuk hova ér…
+&mytxt46=Hm, a fehér golyó hiányzik….
+&mytxt47=Oké, másik irányból kell megközelítenem a problémát.
+&mytxt48=Oh jaj, teljesen elvétettem. A dákó hegye túl csúszós a játékhoz.
+&mytxt49=Igen, sikerült letisztítani a terepet és mintha valami beragadt volna idebenn.
+&mytxt50=POLCOK
+&mytxt51=TÁBLA
+&mytxt52=
+Kézikönyv
+
+Gratulálunk a döntéséhez, hogy klónoztatja magát az egyik remek klónozó berendezésünkkel.
+Ne feledje, hogy ez a procedúra valójában az Ön intellektusát klónozza és nem a testét.
+Az Ön intellektusa és elméje tovább él a mi híres neves D-DataBase adatbázisunkban.
+Az Ön klónját kutatási célokra tároljuk és virtuális álomban tartjuk a tárolási időszak alatt.
+&mytxt53=
+PROBLÉMÁK
+Néha előfordul , hogy egy klón felébred a virtuális álmából a D-DataBase adatbázisunkban.
+Bár közvetlen fenyegetést nem jelent a D-Data szervereinkre, ezek az elveszett fájlok törlődnek az adatbázisból.
+
+Kiderült, hogy értelmes klónok hozzáfértek a munkaállomásaink külső adataihoz. Bár az értelmes klónok kiszámíthatatlanul és logikátlanul cselekszenek, de még továbbra is van hozzáférésük.
+&mytxt54=OH VALÓBAN? LOGIKÁTLANUL?
+EZ AHELY OLYAN MINT EGY LOGIKAI RÉMÁLOM JÁTÉK.
+MI VAGYOK ÉN? EGY TRANZDIMENZIONÁLIS LÁTOGATÓ,
+VAGY CSAK EGY ÉRTELMES ÁMODÓ KLÓN BEZÁRVA EBBE A HATALMAS 
+GÉPEZETBE KÉSŐBBI FELHASZNÁLÁSRA?
+

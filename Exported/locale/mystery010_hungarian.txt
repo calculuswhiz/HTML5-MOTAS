@@ -1,0 +1,17 @@
+﻿mytxt0=Text by: Jan Albartus Translation by: dohosa
+&lang=hungarian&version=1.0
+&mytxt1=Jó látni, hogy valaki törődik a növényekkel.
+&mytxt2=A lépcső alatti szekrény semmi hasznosat nem rejt.
+&mytxt3=Aha, találtam egy beléptető kártyát.
+&mytxt4=Egy közönséges szekrény. Olcsó és jóféle.
+&mytxt5=Találtam egy kicsi kulcsot és egy fehér nehéz golyót.
+&mytxt6=Találtam egy másik kulcsot.
+&mytxt7=SZÉF
+&mytxt8=PUZZLE
+&mytxt9=Nem érem el. Túl magasan van ahhoz, hogy közelről is megnézhessem.
+&mytxt10=Semmi sem történik.
+&mytxt11=A puzzle mozogni kezdett.
+&mytxt12=Nem történik semmi. Mit kell itt beolvasni?
+&mytxt13=SCANNER
+&mytxt14=Nincs mit megmozdítani…
+&mytxt15=Nem tudom visszaállítani az előző helyzetébe.

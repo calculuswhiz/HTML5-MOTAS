@@ -1,0 +1,89 @@
+﻿mytxt0=Text by: Jan Albartus Translation by: dohosa
+&lang=hungarian&version=1.0
+&mytxt1=FESTMÉNY
+&mytxt2=KERET
+&mytxt3=Ez egy kerék. Hát, ez egy festmény egy kerékről vagy kerék a festményről?
+&mytxt4=Üres keret
+&mytxt5=KUKA
+&mytxt6=Semmi!? Ez a személy vagy nagyon nyugodt, vagy nagyon halott.
+&mytxt7=FŰTŐTEST
+&mytxt8=Juj, túl forró!
+&mytxt9=Jé, ez egy kicsit erősebb fényű, mint egy zseblámpa, de nehezebb is. Inkább itt hagyom. 
+&mytxt10=DIAGRAM
+&mytxt11=Piros, Zöld, Kék. A szín közöttük a két szélső szín keveréke.
+&mytxt12=Átnéztem a kanapét, de semmit sem találtam.
+&mytxt13=Neon csövek rideg fényt ad az épületnek ebben a felében.
+&mytxt14=KOPIROZÓ LAP
+&mytxt15=Írok egy levelet, hogy megrendeljek egy új piros kereket és úgy írom alá mint Max a biztonságiaktól.
+&mytxt16=Szinte átlátok rajta.
+&mytxt17=A LEVÉL
+&mytxt18=Ráhelyezem az üres lapot a levélre.
+&mytxt19=Hmmm A levelet valami doktor Druidnak címezték.
+&mytxt20=Nem, ez nem lehet. Nem lehetek szökött klón, ez csak valami vicc lehet. 
+&mytxt21=         Dear Dr. Druid,        I am happy to inform you we have      successfully created our first adult     clone as you ordered.     There is only one small problem.....    he escaped from his locked room. It  seems this specimen  is much more intelli- gent than we assumed. It's only a matterof time before we have him back in his room.                                          Max from Security
+&mytxt22=A kék kerék beleillik. Aktiválta a liftet.
+&mytxt23=Úgy néz ki mint egy csatlakozási pont. 
+&mytxt24=Ez a törékeny kinézetű liftakna elég erős üvegből készült. Nagyon sikkes.
+&mytxt25=Kapaszkodj! Nem tudom, hogy hová visz, azt hiszem felfelé.
+&mytxt26=Azt hiszem a lifthez kell valami erőforrás.
+&mytxt27=MENJ FÖL
+&mytxt28= Elfojtom a vágyat, hogy felvegyem és kidobjam az ablakon. Azt hiszem nem jó ötlet!
+&mytxt29=Nagyon szép, biztos egy vagyonba kerülhet.
+&mytxt30=Lemegyek a lifttel.
+&mytxt31=MENJ LE
+&mytxt32=Egy kék tartály....
+&mytxt33=Egy zöld tartály …
+&mytxt34=Egy piros tartály....
+&mytxt35=Találtam egy zöld kereket ebben a fiókban.
+&mytxt36=FIÓK
+&mytxt37=Oh, micsoda szerencse. Van egy létra a lukban.
+&mytxt38=Első ránézésre üresnek tűnik.
+&mytxt39=Igen, ez csak egy festmény.
+&mytxt40=Ez egy festmény egy kerékről, vagy kerék a festményről?
+&mytxt41=NAGY DOBOZ
+&mytxt42=Még egy nagy doboz. Üres.
+&mytxt43=LÉTRA
+&mytxt44=Egy létra. Hasznos lehet fel és lemászni.
+&mytxt45=RÁCS
+&mytxt46=Kíváncsi vagyok, hogy mire valók ezek a rácsok.
+&mytxt47=CSÖVEK
+&mytxt48=Rengetek cső halad át a szobákon.
+&mytxt49=A piros kerék beleillik a csőbe. Valószínűleg kinyitotta a piros kerékkel jelzett ajtót.
+&mytxt50=A zöld kerék pont belepattant a helyére. Mit csinál ez a kerék?
+&mytxt51=KIMENŐ POSTA
+&mytxt52=Elküldtem a levele. Remélem válaszolnak.
+&mytxt53=FELIRAT: Kérem, töltse ki a megrendelését, és ne felejtse el aláírni!
+&mytxt54=BEJÖVŐ POSTA
+&mytxt55=Mily meglepő, kaptam valamit a postán. Ez egy piros kerék, ahogy megrendeltem. 
+&mytxt56=Hmm , egy csőposta bejövő levelek helye. Most épp üres.
+&mytxt57=Kinyitom a fiókot.
+&mytxt58=Oh, nézd csak. Micsoda bútordarab!
+&mytxt59=MI VAN??? Űrhajóban repülünk, vagy mi? Nem hiszem el! Bizonyára csak képzelgés.
+&mytxt60=FIÓK BELSŐ
+&mytxt61=Üres most.
+&mytxt62=A fiókban találtam valamit ami jól jön.
+&mytxt63=Találtam egy nagyon vékony üres lapot. Majdnem átlátni rajta.
+&mytxt64=PAIR LAP
+&mytxt65=Zárva. De találtam egy floppy lemezt a szekrény tetején.
+&mytxt66=Nézzük meg a kezelő panelt.
+&mytxt67=KEZELŐ PANEL
+&mytxt68=Egy átlátszó kabin. Hmmmm, olyan mint egy teletransporter.
+&mytxt69=TELETRANSZPORTER
+&mytxt70=SÁRGA
+&mytxt71=ENCIÁN
+&mytxt72=LILA
+&mytxt73=KICSI KERÉK
+&mytxt74=Oké, most ki kell kevernem az encián szint.
+&mytxt75=Most lilára váltott.
+&mytxt76=Oké, úgy néz ki hogy a színkeverés sikeres volt.
+&mytxt77=LEMEZ MEGHAJTÓ
+&mytxt78=Oké, beolvastam a floppyról a programot.
+&mytxt79=Lemez megható sor.
+&mytxt80=Valami nagy színkeverő számítógép. Ki van kapcsolva.
+&mytxt81=Valami nagy színkeverő számítógép. Rendben működik.
+&mytxt82=Becsukom a fiókot.
+&mytxt83=A fal tele van csövekkel. A csövek különféle színű folyadékot szállítanak, azt hiszem.
+&mytxt84=Ez a szerkezet talán kis csomagok továbbítására és fogadására szolgál.
+&mytxt85=CSŐPOSTA
+&mytxt86=Az épületnek ebben a részében belső csőposta rendszer működik. Kár, hogy nem férek bele. 
+&mytxt87=A kék kerék a fényképen valóságosnak tűnik.

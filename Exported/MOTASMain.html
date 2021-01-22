@@ -11,8 +11,9 @@
 	<script type="text/javascript">
 		$(document).ready(function(evt) 
 		{
+			let testingLevel = 3;
 			$('#inventory-frame').attr('src', 'NewInventory.html');
-			$('#game-frame').attr('src', 'mystery1.html');
+			$('#game-frame').attr('src', `mystery${testingLevel}.html`);
 		});
 	</script>
 	<style type="text/css">
@@ -21,6 +22,11 @@
 			background-color: black;
 			color: white;
 			font-family: sans-serif;
+		}
+
+		iframe 
+		{
+			display: block;
 		}
 
 		#game-frame

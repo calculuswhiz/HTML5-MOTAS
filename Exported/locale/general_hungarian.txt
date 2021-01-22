@@ -1,0 +1,373 @@
+﻿mytxt0=Text: Jan Albartus translation by dohosa
+&lang=hungarian&version=1.0
+&motasmenuCREDITS=KREDITEK
+&motasmenuNEW_GAME=UJ JÁTÉK
+&motasmenuCONTINUE=JÁTÉK FOLYTATÁSA
+&motasmenuLANGUAGE=NYELV KIVÁLASZTÁS
+&motasmenuBONUS_MATERIAL=BONUSZ ANYAG
+
+&motasmenuEXIT_GAME=KILÉP A JÁTÉKBÓL
+&motasmenuMUSIC_OFF=ZENE KIKAPCSOLÁSA
+&motasmenuMUSIC_ON=ZENE BEKAPCSOLÁSA
+&motasmenuSOUND_OFF=HANGOK KIKAPCSOLÁSA
+&motasmenuSOUND_ON=HANGOK BEKAPCSOLÁSA
+
+&motasmenuGRAPHIC_QUALITY=GRAFIKA BEÁLLÍTÁSA
+&motasmenuTEXT_POSITION=SZÖVEG POZICIO
+&motasmenuOPENHELP=HELP KÉPERNYŐ MEGNYITÁSA
+&motasmenuCLOSEHELP=HELP LEZÁRÁSA
+&motasmenuCLOSE_MENU=MENÜ LEZÁRÁSA
+&motasmenuLEVEL_NUMBER=SZINT SZÁMA
+&motasmenuCURSOR_STYLE=KURZOR BEÁLLÍTÁSA
+
+&motasmenuSHOWMENU=MENÜT MEGMUTAT
+&motasmenuENTERPASSWORD=JELSZÓ MEGADÁSA
+&motasmenuENTERLEVEL=SZINT MEGADÁSA
+&motasmenuENTERNAME=FELHASZNÁLO NÉV MEGADÁSA
+&motasmenuSAVEGAME=JÁTÉK MENTÉSE
+&motasmenuLOADGAME=JÁTÉK BETÖLTÉSE
+&motasmenuDISKMENU=LEMEZ MENÜ
+
+&motashelp=The Mystery Of Time And Space (C) Jan Albartus
+
+Az egér segítségével a szobában lévő tárgyakra kattintva meg kell találni a kiutat a lezárt szobákból. Olvasd el a leírásokat és a válaszokat, hogy a megoldáshoz közelebb juthass. 
+
+FIGYELMEZTETÉS: A játék függőséget okozhat és komoly gondolkodásra készteti a játékost. Figyelmeztettünk!
+&meanwhile=miközben…
+&mysteryoftimeandspace=Mystery Of Time And Space
+
+&mytxt1=EGY KULCS
+&mytxt2=Lássuk csak hol tudom használni ezt a kulcsot. 
+&mytxt3=VISSZA TESZ
+&mytxt4=Visszahelyeztem a kulcsot a zsebembe
+&mytxt5=POSZTER
+&mytxt6=Hmmm, hogy lehet használni egy posztert. ..?
+&mytxt7=CSAVARHÚZÓ
+&mytxt8=Mit lehet kezdeni egy csavarhúzóval?
+&mytxt9=Majd később használom. 
+&mytxt10=VÉKONY CSAVAR
+&mytxt11=Hová tegyem a csavart?
+&mytxt12=Később megpróbálom becsavarni, de most még visszateszem a zsebembe. Nagyon óvatosan….
+&mytxt13=Mit nyithatok ki ezzel a kulccsal?
+&mytxt14=Elfelejtettem, hogy hol is akartam használni ezt a kulcsot, ami a szoba ajtaját nyitja. 
+&mytxt15=EGY ARANY KULCS
+&mytxt16=TOLL
+&mytxt17=Használhatnám ezt a tollat…
+&mytxt18=Sebaj…
+&mytxt19=TINTÁBA MÁRTOTT TOLL
+&mytxt20=RAJZSZÖG
+&mytxt21=Mit babrálhatnék meg ezzel a rajzszöggel…
+&mytxt22=LEMEZTARTÓ DOBOZ
+&mytxt23=Mit kezdhetnék egy ilyen üres dobozzal…
+&mytxt24=Kinyitottam a dobozt a rajzszöggel. Most van egy floppy lemezem és egy üres lemeztartó dobozom.
+&mytxt25=Nem tudom kinyitni. Van benne egy floppy lemez…
+&mytxt26=FLOPPY LEMEZ
+&mytxt27=És mit kezdjek egy floppy lemezzel...?
+&mytxt28=KŐLAP
+&mytxt29=És mit kezdjek egy kőlappal..?
+&mytxt30=Tudod, ez nagyon nehéz. Nem cipelhetem mindörökké.
+&mytxt31=És mit kéne tennem ezzel a helyes kis marhasággal.
+&mytxt32=Hova rakjam le, egyre nehezebb cipelni ezt a követ.
+&mytxt33=FEJ A DOBOZBAN
+&mytxt34=Hol használhatnám? Tudom, hogy követi a vonalakat. 
+&mytxt35=NAGY HÁROMSZÖG
+&mytxt36=Hol használhatnám…
+&mytxt37=KIS HÁROMSZÖG
+&mytxt38=Hát, nézzük csak, hova illik ez.
+&mytxt39=EGY TÁRGY
+&mytxt40=Hol használhatnám..?
+&mytxt41=MÁSIK TÁRGY
+&mytxt42=HÁROMSZŰGLETŰ TÁRGY
+&mytxt43=A háromszögletű tárgy úgy néz ki, mint egy hegesztett puzzle.
+&mytxt44=Majd később megfejtem ezt a háromszöget.
+&mytxt45=FADARAB
+&mytxt46=Hol használhatnám ezt a száraz fadarabot?
+&mytxt47=Nem, egyáltalán nem örülök, hogy egy nagy égő fadarabot cipelek a nadrágomban..
+&mytxt48=ÉGŐ FADARAB
+&mytxt49=Hol szabadulhatnék meg tőle, egyre forróbb lesz a helyzet.
+&mytxt50=Had találjam meg ennek a megfelelő helyet, mielőtt megégetem magam. 
+&mytxt51=VILLANYKÖRTE
+&mytxt52=Hol kellene egy kis fény?
+&mytxt53=Félek. Egyedül vagyok a sötétben…
+&mytxt54=ELEMEK
+&mytxt55=Valamihez kell energiaforrás.
+&mytxt56=Hmmm...
+&mytxt57=ZSEBLÁMPA
+&mytxt58=Oh szuper, ez a hordozható fényforrás még hasznos lehet. 
+&mytxt59=EGY KERÉK
+&mytxt60=Remélem, tudom, hogy mit teszek ezzel a kerékkel. Még veszélyes lehet. 
+&mytxt61=Oké, de remélem, nem kell sokáig magammal vinnem ezt a kereket, mert elég nehéz. 
+&mytxt62=PAPÍRLAP
+&mytxt63=Ez a papírlap olyan vékony, hogy szinte átlátni rajta. 
+&mytxt64=Hát, remélem, nem szakítom el. 
+&mytxt65=LEVÉL
+&mytxt66=Remélem, hogy ezzel meg tudom rendelni a hiányzó darabot, de hol postázzam el?
+&mytxt67=SAKKBÁBÚ
+&mytxt68=Oké, már csak rá kell jönnöm, hogy hol használjam.
+&mytxt69=Nem vagyok sakk nagymester, de bárcsak megtalálnám ennek a megfelelő helyet. 
+&mytxt70=ÓRASÚLY
+&mytxt71=Elég nehéz cipelni. Majd rakjuk le valahol. 
+&mytxt72=Túl nehéz. Apám, meg kell találnom a felhasználási módját ennek a nehezéknek. 
+&mytxt73=KÁRTYA
+&mytxt74=Egy belépő kártya. Fogadok, hogy még jól jöhet!
+&mytxt75=Szép és hasznos dolog.
+&mytxt76=ÉRME
+&mytxt77=Nagy tékozló vagyok ma.
+&mytxt78=Minden megtakarítás nyereség…
+&mytxt79=GOLYÓ
+&mytxt80=Oh igen, tökéletesen fel tudom használni ezt a golyót.
+&mytxt81=Talán máskor...
+&mytxt82=KRÉTA
+&mytxt83=Szóval mivel lehetne ezt felhasználni…
+&mytxt84=Fogadok, később még használni fogom.
+&mytxt85=CSÍPŐFOGÓ
+&mytxt86=Valamit nagyon el kellene vágni…
+&mytxt87=Mindig hasznos, ha van nálam ilyen…
+&mytxt88=KÓLÁS DOBOZ
+&mytxt89=Minden generáció választása…
+&mytxt90=Mindig hűsít.
+&mytxt91=Másik kulcs…
+&mytxt92=Elfelejtettem, hogy hol kellene használnom ezt a kulcsot. 
+&mytxt93=EGY VÖDÖR
+&mytxt94=Egy öreg vödör tele lyukkal. 
+&mytxt96=TELI VÖDÖR
+&mytxt97=A vödör tele van vízzel. A ragasztószalag most már összetartja. 
+&mytxt98=Egyre nehezebb cipelni, és nedves is…
+&mytxt99=RAGASZTÓSZALAG
+&mytxt100=Egy tekercs vízálló ragasztószalag, pont erre van szükségem. 
+&mytxt101=Akkor fogom használni a ragasztószalagot, ha majd rájöttem mire való.
+&mytxt102=SZÉK
+&mytxt103=AJTÓ
+&mytxt104=FESTMÉNY
+&mytxt105=KANAPÉ
+&mytxt106=SZEKRÉNY
+&mytxt107=KONYHASZEKRÉNY
+&mytxt108=GOMB
+&mytxt109=KAPCSOLÓ
+&mytxt110=ASZTAL
+&mytxt111=LÁMPA
+&mytxt112=SZEKRÉNY
+&mytxt113=MÁSIK SZOBA
+
+&mytxt114=ÁSÓ
+&mytxt115=Kíváncsi vagyok, hogy válhat hasznomra. 
+&mytxt116=KÖTÉL
+&mytxt117=BALTA
+
+&mytxt10000=29&mytxt10001=Egy jó kis szék. Bár nincs időm leülni.
+&mytxt10002=Szép szék.
+&mytxt10003=Hát, ha lenne időm leülni, biztos kipróbálnám. 
+&mytxt10004=Jó látni, hogy leülhetnék, ha akarnék. 
+&mytxt10005=Bárki tervezte is ezt a széket, egy zseni volt.
+&mytxt10006=Nincs időm leülni. 
+&mytxt10007=Ez egy öreg szék. Semmi különös nincs benne. 
+&mytxt10008=Bármikor látok egy széket, azt hiszem szükségem van rá. 
+&mytxt10009=Mi?
+&mytxt10010=Nem tudok és nem is fogok széket magammal vinni. 
+&mytxt10011=Egy pillanatnyi ücsörgés után teljesen felfrissültem. 
+&mytxt10012=...
+&mytxt10013=Mi ez a szék rögeszme?
+&mytxt10014=Székek, még ma is használják ezeket?
+&mytxt10015=Egy szék, bár nem tűnik túl komfortosnak. 
+&mytxt10016=Talán egyszer lepihenek, de nem most. 
+&mytxt10017=Szék. Olcsó. Egyszerű. Megbízható.
+&mytxt10018=Szép. A szoba tervezői gondoltak a bútorokra is. 
+&mytxt10019=Hé tényleg azt várod, hogy valami szellemeset végezzek ezzel a székkel?
+&mytxt10020=Ez egy szék.
+&mytxt10021=Oh ez elég kényelmesnek néz ki pár óra ücsörgésre- DE NEM
+&mytxt10022=Csak egy szék.
+&mytxt10023=Most nem kéne leülni és lógni.
+&mytxt10024=Egy napon talán le szeretnék ülni, de nem ma lesz az. 
+&mytxt10025=Ha egy széket láttál, akkor tényleg láttad az összest.
+&mytxt10026=Milyen takaros, bár semmi különös.
+&mytxt10027=Azt hiszem elég ilyent láttam már. 
+&mytxt10028=Másik szék. Sem nem különös, sem nem hoz izgalomba.
+&mytxt10029=Nem fogok most leülni.
+&mytxt10030=Mit is gondolhattam. Nincs idő leülni.
+
+
+
+&mytxt12000=35&mytxt12001=Attól tartok, semmi különös. 
+&mytxt12002=Azt hiszem, láttam valamit. Nem-nem, semmi.
+&mytxt12003=Talán rossz helyen keresem, mert itt nincs semmi érdekes. 
+&mytxt12004=A keresésem eredménytelen, nem találtam semmit. 
+&mytxt12005=Hacsak nem vakultam meg, itt nincs semmi érdekes. 
+&mytxt12006=Nem látok semmi érdekeset.
+&mytxt12007=A keresésem alapján nem találtam semmi érdekeset, vagy hasznosat. 
+&mytxt12008=Még egyszer megnéztem, de nem siklottam át semmin.
+&mytxt12009=Ez egy öreg poros hely, nem rejt semmit. 
+&mytxt12010=Kíváncsi vagyok valaha találok-e itt valamit.
+&mytxt12011=Hasznos dolgokra van szükségem, de itt miért nincs olyan?
+&mytxt12012=Sajnos a próbálkozásom sikertelen. Eltaláltad, nem találtam semmit. 
+&mytxt12013=Legtöbbször a keresgélésem nem hoz eredményt. Ez is egy ilyen eset. 
+&mytxt12014=Leszámítva pár szemetet, nincs itt semmi érdekes. És még a szemét sem érdekes. 
+&mytxt12015=Remélem a következő keresése eredményesebb lesz. 
+&mytxt12016=Nem találtam semmit, de legalább egy kicsit mozogtam.
+&mytxt12017=Njente, noppes, nada, null, zip, nothing.
+&mytxt12018=Hmm, esküdtem volna, hogy itt egy rejtett átjárót találok!
+&mytxt12019=Hol van az amire, úgymond ANNYIRA szükségem van?
+&mytxt12020=Ez az én szerencsém, kerestem és nem találtam semmit. 
+&mytxt12021=Hmm, mennyi haszontalan cucc. És a haszontalan cuccal nem tudok mit kezdeni. 
+&mytxt12022=Átnéztem a helyet. Semmit sem találtam. Még azt sem tudom, hol vagyok!
+&mytxt12023=Semmi HŰHA faktor sincs itt. Nem találtam semmit, egy apróságot sem
+ amire szükségem lehetne. 
+&mytxt12024=Nem találtam semmit, még egy tervrajzot sem.
+&mytxt12025=Nem találtam semmit, még egy rejtélyes puzzle-t sem vagy semmi érdekeset.
+&mytxt12026=Nem találtam semmit, még egy nagyobb nyomot sem.
+&mytxt12027=Nem találtam semmit, még egy nevetséges műtárgyat sem.
+&mytxt12028=Nem találtam semmit, még egy napszemüveget sem.
+&mytxt12029=Nem találtam semmit, még egy nyomot sem a ’ Mystery of Time and Space’ megoldásához.
+&mytxt12030= Nem találtam semmit, még egy pénztársát sem, vagy egy köteg pénzt sem, vagy bármit, ami jól jöhetne.
+&mytxt12031=Már átnéztem itt, emlékszem. Csak ellenőrzöm, hogy nem hagytam-e ki valamit.
+&mytxt12032=Keresésem nem járt érdekes eredménnyel.
+&mytxt12033=Szememmel fürkészem a sötétséget, a kezemmel tapogatok, de sajnos semmi eredmény. 
+&mytxt12034=Hm, nem kellene foglalkoznom vele. 
+&mytxt12035=Remek lenne, ha egyszer már találnék valamit.
+&mytxt12036=Talán már kitaláltad, hogy semmi érdekes nincs itt. 
+
+
+&mytxt14000=36&mytxt14001=Hihetetlen erőmmel megpróbálom kinyitni, de még ellenáll és nem nyílik.
+&mytxt14002=Talán valami tárggyal vagy kulccsal sikerülne. Bár nem vagyok biztos benne. 
+&mytxt14003=Kár, hogy zárva van. Miért nincs itt egy feszítővas, amikor kellene.
+&mytxt14004=Bakter, zárva van! Bárcsak nálam lenne a megoldás kulcsa. 
+&mytxt14005=Kitalálhattam volna, hogy zárva lesz.
+&mytxt14006=Zárva. Vicces, hogy már meg sem lepődöm.
+&mytxt14007=Zárva? Akkor biztos valami nagyon érdekes van odabenn.
+&mytxt14008=Hm, valaha ki tudom majd ezt nyitni?
+&mytxt14009=Oh ne! Még egy zárva! Mit kell rejtegetni, kérdem magamtól.
+&mytxt14010=Nem tudok így benézni, mert zárva van az ajtó.
+&mytxt14011=Zárva, zárva és zárva. Nem tudom így kinyitni.
+&mytxt14012=Kíváncsi vagyok, hogy találok- e egy kulcsot hozzá. Vagy egy rakétavetőt!
+&mytxt14013=Talán át kell gondolnom. Nem tudom puszta kézzel kinyitni. 
+&mytxt14014=Még jobban be szeretnél nézni, ha egyáltalán nem nézhetsz be. 
+&mytxt14015=Talán találnom kellene valamit, hogy kinyissam vele az ajtót. 
+&mytxt14016=Bele kell néznem. Ez lehetetlen, mivel nem tudom kinyitni.
+&mytxt14017=Nem tudom kinyitni. Talán kell hozzá egy kulcs. Talán örökre zárva marad. 
+&mytxt14018=Zárva van.
+&mytxt14019=Kár, zárva.
+&mytxt14020=Alapos vizsgálat után megállapítom, hogy zárva van,.
+&mytxt14021=Nem tudom kinyitni. 
+&mytxt14022=Hmm, miért van bezárva?
+&mytxt14023=Bármit is próbálok, nem tudom kinyitni. Zárva van!
+&mytxt14024=Nem ám! Zárva.
+&mytxt14025=Pont ahogy vártam, jól be van zárva.
+&mytxt14026=Hogyan?
+&mytxt14027=Ej, semmi értelme. Nem fog kinyílni. 
+&mytxt14028=Bizonyára zárva van.
+&mytxt14029=...
+&mytxt14030=Mindent bevetek, de nem elég. Zárva van. 
+&mytxt14031=Azt hittem, megmozdult, de sajnos még midig zárva!
+&mytxt14032=Karmolok, sikítok, rugdosok, de még így is zárva van. 
+&mytxt14033=Mi?? Zárva!!
+&mytxt14034=Próbálom kinyitni, se sajna nem tudom. 
+&mytxt14035=Milyen rejtélyes, zárva van.
+&mytxt14036=Bezárt dolgok mindig elgondolkoztatnak, hogy miért is van zárva. 
+&mytxt14037=Zárva van.
+
+
+// ajtónyitás nem megfelelő dologgal
+&mytxt15000=14&mytxt15001=Ez a tevékenység eredménytelennek tűnik.
+&mytxt15002=Tárgy.. Nincs eredmény. Ahogy vártam. 
+&mytxt15003=Valószínűleg rossz helyen használom ezt a tárgyat. 
+&mytxt15004=Nem működik.
+&mytxt15005=Oh ne! Majdnem eltörtem ezt, mert rossz helyen használtam. 
+&mytxt15006=Amíg kitalálom, hogy mi a megfelelő, csak rosszul csinálom. 
+&mytxt15007=Szükségtelen mondani, hogy ezzel a tárggyal nem lesz eredménye. 
+&mytxt15008=Ez az, rendben! Mintha együtt kellene használni.
+&mytxt15009=Nem ám! Nem használhatom ide. 
+&mytxt15010=Nem próbálhatnánk valami mással? Ezzel egyáltalán nem működik.
+&mytxt15011=Frusztráló de igaz. Egyáltalán nem működik.
+&mytxt15012=Nem vagyok benne biztos, hogy itt kellene használnom ezt. 
+&mytxt15013=Nem történik semmi. 
+&mytxt15014=Azon kívül, hogy megkarcoltam, nem lett eredménye. 
+&mytxt15015=Hmm, nem vagyok biztos, hogy jókor jó helyen cselekszem.
+
+//kinyit valami ajtót vagy zárat.
+&mytxt16000=8&mytxt16001=Igen, megfejtettem még egy rejtélyt. 
+&mytxt16002=Oké, úgy néz ki működik. Nyitva van. 
+&mytxt16003=Úgy néz ki, hogy kitaláltam. Most már nyitva!
+&mytxt16004=Trükkös volt, de végül sikerült kinyitni még egy rejtélyes zárat. 
+&mytxt16005=Aaaah, ezt szeretem! Ezegyszer okosnak érzem magam. 
+&mytxt16006=Nem is értem, miért nem csináltam ezt már korábban. 
+&mytxt16007=Jó látni, hogy még bennem van a képesség.
+&mytxt16008=Szerencse napom van.
+&mytxt16009=Igen...
+
+&mytxt17000=10&mytxt17001=Kinyitottam.
+&mytxt17002=Ez hihetetlen! Találtam valamit, ami nincs bezárva. 
+&mytxt17003=Szezám tárulj! És igen, működik.
+&mytxt17004=Ez az ajtó nyikorog, amikor kinyitom. 
+&mytxt17005=Valamivel közelebb kerülök a rejtély megoldásához?
+&mytxt17006=Nézzük csak! 
+&mytxt17007=Óvatosa kinyitom az ajtót. Nem akarom eltörni az öreg zárat. 
+&mytxt17008=Hmm, végiggondolva, hogy mit találhatok itt, kirázott a hideg.
+&mytxt17009=Örömmel tölt el nézni ezt az aprólékos nyitó mozdulatot. 
+&mytxt17010=Remélem, hogy megtalálom itt a választ.
+&mytxt17011=Kukucskáljunk csak be!
+
+//bezár ajtót
+&mytxt18000=8&mytxt18001=Megint becsuktam. 
+&mytxt18002=Becsuktam az ajtót.
+&mytxt18003=Már megint becsuktam az ajtót.
+&mytxt18004=Becsuktam.
+&mytxt18005=Hát, be is tudom csukni. 
+&mytxt18006=Ismét becsukódott.
+&mytxt18007=Katt, becsukódott.
+&mytxt18008=Zárva.
+&mytxt18009=Katt. 
+
+//átmegy az ajtón
+&mytxt19000=8&mytxt19001=Lássuk csak.
+&mytxt19002=Bemegyek ide. 
+&mytxt19003=Mennyi szoba.
+&mytxt19004=Nézzük csak, mit találok itt. 
+&mytxt19005=Megint egy szobába értem.
+&mytxt19006=Sokat mászkálok itt. 
+&mytxt19007=Szóval itt vagyok.
+&mytxt19008=Mit is csinálok itt?
+&mytxt19009=Már megint egy szobába léptem.
+
+//villany bekapcsol
+&mytxt20000=8&mytxt20001=És lőn világosság!
+&mytxt20002=Felkapcsoltam a villanyt.
+&mytxt20003=Ez felvillanyozza a napomat. 
+&mytxt20004=Hűha, hihetetlen! Interaktív világítás.
+&mytxt20005=A szoba láthatóvá válik.
+&mytxt20006=Felkapcsolom a villanyt, és a sötétség tovatűnik.
+&mytxt20007=Felkapcsolom a villanyt, hogy lássam, mi történik.
+&mytxt20008=Milyen izgalmas, a villany felkacsolódott.
+&mytxt20009=Jó tudni, hogy van fény, ha kellene. 
+
+//villany kikapcsol
+&mytxt21000=8&mytxt21001=Lekapcsoltam a villanyt. Így spórolok egy kis áramot. 
+&mytxt21002=Lekapcsoltam a villanyt.
+&mytxt21003=A lámpa lekacsolva.
+&mytxt21004=Oké, lekapcsoltam.
+&mytxt21005=Lekapcsoltam a villanyt.
+&mytxt21006=Mivel nem tudom, hogy mit is csinálok, lekapcsolom a villanyt, hogy lássuk, mi történik.
+&mytxt21007=Lekapcsoltam a villanyt.
+&mytxt21008=Lekapcs.
+&mytxt21009=Lekapcsolva.
+&mytxt21010=
+//szöveg asztal
+&mytxt22000=8&mytxt22001=Egy asztal.
+&mytxt22002=Ez egy asztal
+&mytxt22003=Csak egy közönséges asztal.
+&mytxt22004=Oké, ellenőrizzük ezt az asztalt.
+&mytxt22005=Szép asztal.
+&mytxt22006=miért van mindig több szék, mint asztal?
+&mytxt22007=Szükségtelen emlékeztetned erre az asztalra. 
+&mytxt22008=Ez egy asztal, és?
+&mytxt22009=Oh, egy asztal.
+&mytxt22010=
+//szöveg gomb nyomás
+&mytxt23000=8&mytxt23001=Megnyomtam a gombot.
+&mytxt23002=Gomb megnyomva.
+&mytxt23003=Klikk.
+&mytxt23004=Megnyomom ezt a gombot.
+&mytxt23005=Megnyomtam ezt a gombot.
+&mytxt23006=Megnyomom a gombot, remélem, tudom, mit teszek.
+&mytxt23007=Megnyomom a gombot, de fogalmam sincs, hogy segít-e rajtam.
+&mytxt23008=Megnyomtam a gombot remélve, hogy nem kapcsolja ki az életfenntartáshoz szükséges elemeket. 
+&mytxt23009=A gomb lenyomásával valami jó történik.
+&mytxt23010=

@@ -1,0 +1,24 @@
+﻿mytxt0=Text by: Jan Albartus
+&mytxt1=Complexe TheorienSinds het begin van tijd en ruimte, blijft het universum the evolueren in een complex systeem van interactieve elementen, van zonnestelsels tot micro organismen.Wij, de waarnemers van tijd en ruimte, hebben elk aspect van het universum vanuit elk mogelijk perspectief gadegelsagen. Voor ons, heeft tijd en ruimte geen mysteries, geen eind en geen begin....
+&mytxt2=Complexe TheorienHet was niet altijd zoals nu. Eens waren we ras van wezens zwervend door het universum op zoek naar antwoorden en kennis, maar vonden alleen meer vragen en verdriet.Het duurde een eeuwighed voordat een van ons zich realiseerde dat er een dieper getructureerd process schuilgaat achter de gebruikelijke realiteit die wij waarnemen en beleven. Maar het was alleen mogelijk om deze alternatieve realiteit te kunnen observeren als de waarnemer geen herinnering had van de gewoonlijke realiteit.
+&mytxt3=Complexe TheorienDe theorie is; wanneer een persoon is opgegroeid in een bepaalde omgeving, kan hij of zij deze alternatieve realiteit niet meer waarnemen door de drotine van hun eigen herinneringen en ervaringen.Jij bent een van de weinig mensen die dit parralelle universum zelf kunnen waarnemen.  We hopen een goed verslag te krijgen zoals we hebben afgesproken, hoewel we begrijpen dat je deze overeenkomst niet kan herinneren omdat je ons toestemming hebt gegeven om je geheugen te wissen.
+&mytxt4=Complexe TheorienMaak je geen zorgen, als de tijd daar is zullen we je herinneren aan onze afspraak....
+&mytxt5=VOLGENDE
+&mytxt6=INTRODUCTIE OVERSLAAN
+&mytxt7=VERDER
+&mytxt8=
+&mytxt9=
+&mytxt10=
+&mytxt11=
+&mytxt12=
+&mytxt13=
+&mytxt14=
+&mytxt15=
+&mytxt16=
+&mytxt17=
+&mytxt18=
+&mytxt19=
+&mytxt20=
+&mytxt21=
+
+_root.myTranslation.mytxt

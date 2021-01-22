@@ -1,0 +1,104 @@
+﻿mytxt0=作者: Jan Albartus  翻译：Ming
+&mytxt1=植物
+&mytxt2=很好的植物。
+&mytxt3=哦，不，又是一扇激光保护装置。我想知道要怎么才能关掉。
+&mytxt4=地下室走廊。我想肯定有下去的地方。
+&mytxt5=The Mystery Of Time And SpaceWritten by N.A.J. NagolIBSN: 20-3466650-32(c) 2048-2052Published by Brain Candy Ltd.
+&mytxt6=00- CHAPTER INDEX01 - Introduction02 - The laws of Physics03 - Nature according to Einstein04 - Nature according to Hawking05 - Universe versus Holoverse06 - Dimensions, Universes apart07 - Time travel
+&mytxt7=05 - Universe versus HoloverseOne of the most fantastic concepts seems to be the possible existence of multiple universes inside a bigger holoverse.A Universe is a self containing system inside the Holoverse unable to interact with other Universes.A Universe is build up of countless galaxies who themselves exist out
+&mytxt8=endless amounts of stars with even more planets.Once men thought the earth to be the center of the universe. Men was proven wrong and then right again. The Multiverse is border less but does not have an infinite amount of space. Yet, space expands between every part of the Multiverse.
+&mytxt9=06 - Dimensions, Universes ApartWhat is an alternate dimension? Recent studies indicate dimensions being alternate universes coexisting within our own.That's because those so called dimensions are actually reflections or echo's of distant universes, just as a radio station can have several echo's.
+&mytxt10=07 - TimetravelWe travel through time all the time. Time makes things happen. Without time there would be no space as space and time are interconnected. As such every attempt of time travel will result in movement of matter. Even a body in rest moves matter around.While it is possible to slow (local) time down, it can't be stopped.
+&mytxt11=Time is partly created by matter moving through space. Matter itself is created from waves interfering with other waves like the light breaks in water.Interfering with the 'past' will create multiple alternate presents. But interfering with an alternate past will not change the traveler's present but does create more alternate realities.
+&mytxt12=This book was and still is one of the best selling books in it's field. The author brings you to the wonderful world of alternate dimensions, time travel and the Holoverse.From the award winning author of: "Time Sliding", "Time and Life", "Alien Intervention", "The Alien Connection", "Official Protocol For First Alien Contact" and "MOTAS"
+&mytxt13=BY: N.A.J. NAGOL
+&mytxt14=皱纹
+&mytxt15=让我把地毯弄平。
+&mytxt16=灯
+&mytxt17=我再灯里面找到一把小钥匙，一般人是找不到的。
+&mytxt18=看，这个灯摇摇晃晃的。 
+&mytxt19=一盏灯高高的挂在房间中。
+&mytxt20=我对灯中的另外一个灯泡很感兴趣。
+&mytxt21=我把灯移了一下。
+&mytxt22=呃，这个灯打不开。
+&mytxt23=我把灯打开，灯光照亮了藏在黑墙上的标记。
+&mytxt24=我把灯关掉了，为了以防其他地方还需要用电。
+&mytxt25=如果我去了这个地方，我能够从这个口子回来。
+&mytxt26=够了！这椅子太让人心烦了！
+&mytxt27=这看起来是一种流行但是廉价的装饰品。
+&mytxt28=让我把它放到一边。
+&mytxt29=我不会把它放回去的。
+&mytxt30=书
+&mytxt31="制造梦境" 作者: Patricia Garfield. 这些床会讲述时间故事么？
+&mytxt32=一个盒子，大概是装了很多东西。我可不想看是装了什么。
+&mytxt33=让我把这个东西挪开。
+&mytxt34=我想知道这个盒子里装着什么，我估计肯定是一些无用的东西。 
+&mytxt35=也许我把这个大木家具移到这儿或许可以帮我……
+&mytxt36=看起来很重，的确很重，幸运的是我一个人还能推动它。
+&mytxt37=不管怎么说这个东西现在还不能用。虽然这个东西很大，但是已经没有空间放其他东西了。
+&mytxt38=原来这么轻，我还以为要用全力才能到达这儿。
+&mytxt39=我想这个箱子是用来存放水桶以及其他的床上用品的。
+&mytxt40=不错，但是太重了，而且还很大，太占这个房间的空间了。
+&mytxt41=没有东西有用的。
+&mytxt42=一个牢固的家具。
+&mytxt43=这个房间被一个火把照料，看起来很整洁。
+&mytxt44=躺椅
+&mytxt45=这儿的空间足够三个人一起看电视了，不知道为什么要把这个房间隐藏起来。
+&mytxt46=一个厚重的木头箱子，用来摆放电视机的。
+&mytxt47=电视机
+&mytxt48=不管我再哪儿，至少这儿有有线电视。
+&mytxt49=看，这个壁橱后面藏着什么！
+&mytxt50=一个储藏无用东西的好地方。
+&mytxt51=很多工具和盒子，我在这堆东西里找到一个灯泡，也许会有用。
+&mytxt52=呃！这些东西值得隐藏么？ 
+&mytxt53=架子
+&mytxt54=这样移不过去，除非切成小片。
+&mytxt55=嗯，一个软饮料售卖机。真不爽，没有其他牌子的可乐了。
+&mytxt56=投币口
+&mytxt57=我给自己买了一瓶饮料，我希望可以喝得到。
+&mytxt58=我试了试投币口，不走运，除非我投币，要不……I
+&mytxt59=这个地方难道就没有免费的饮料么？
+&mytxt60=我够不到，还算走运我掉下来的时候没有砸破任何东西。
+&mytxt61=除非我弄通过，要不然我不能等了。
+&mytxt62=这个屏幕显示了激光门的情况。
+&mytxt63=看起来中间的激光门被关上了。
+&mytxt64=嗯，然我把这个移开，看看里面有什么。 
+&mytxt65=我想看看里面有什么，但是我没有办法打开它。
+&mytxt66=哦！我想我切断了这个控制面板的电源了。
+&mytxt67=红色电线
+&mytxt68=我想我剪错线了。
+&mytxt69=蓝色电线 
+&mytxt70=嗯，我看到中间的激光门关了。
+&mytxt71=绿色电线
+&mytxt72=看呀，我找到一把大钥匙以及一个螺丝刀。
+&mytxt73=这是一面空墙。
+&mytxt74=有东西吧去路挡住了，我不能爬上去。
+&mytxt75=另外一头有东西给堵上了。
+&mytxt76=我找大了一把钢丝钳
+&mytxt77=这好像……
+&mytxt78=花了不少步，但是我想我已经解决了。
+&mytxt79=上层，我已经在上层了。那个“绿墙”是怎么一回事？
+&mytxt80=绿墙
+&mytxt81=过道
+&mytxt82=激光门
+&mytxt83=移动墙
+&mytxt84=开关控制面板
+&mytxt85=秘密通道
+&mytxt86=关闭门
+&mytxt87=闹钟
+&mytxt88=我想把闹钟设定下，但是我怀疑没有人会听到闹铃声的，没有人需要叫醒。
+&mytxt89=床
+&mytxt90=让我们看看床底下有什么。
+&mytxt91=不错的床。
+&mytxt92=床看起来很舒适，但是现在我不想睡觉。
+&mytxt93=地毯
+&mytxt94=他不会带我飞出去的。
+&mytxt95=我试着挪动椅子。
+&mytxt96=看起来没有地方再移了。
+&mytxt97=我把椅子移回到原来的位置。
+&mytxt98=
+&mytxt99=
+
+
+
+_root.myTranslation.mytxt
