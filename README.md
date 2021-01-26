@@ -13,5 +13,16 @@ I would like to upload the ported game files as I go. Hopefully, I can make some
 
 The wiki is where I will document my progress through porting MOTAS to HTML5. There will be difficulties, I'm sure, but I think this is going to be fun.
 
+# What actually works right now?
+- Levels 1-3, but I don't have a live demo yet, unfortunately (working on it). Currently to play a level:
+	- Download this repo
+	- Install http-server from `pip`
+	- Run the server from the directory with MOTASMain.html in it.
+	- To change the level you want to play, change `testingLevel` to the level you want to test.
+	- Navigate to http://localhost:8080/MOTASMain.html.
+	- Be warned that this is a little bit janky right now. There's a weird caching issue I haven't figure out yet. If you change something and it doesn't work, that's probably what's happening. You can get around this by either clearing cache from localhost, or disabling cache while your F12 console is open.
+	- There is also no sound yet as I decided to render the midis instead so that it integrates with HTML5 better. That's on the list.
+- I have "remastered" the midi tracks under Exported/midi (first draft) with a better soundfont using MuseScore 3. I do plan on rendering the original sounds, but that's takes a little longer as I have to capture the MIDI output directly with Audacity. I do have a couple done, but I'll wait to release them all.
+
 # The MOTAS Reddit
 https://www.reddit.com/r/MOTAS/
