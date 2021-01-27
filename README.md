@@ -22,7 +22,8 @@ The wiki is where I will document my progress through porting MOTAS to HTML5. Th
 	- Navigate to http://localhost:8080/MOTASMain.html.
 	- Be warned that this is a little bit janky right now. There's a weird caching issue I haven't figure out yet. If you change something and it doesn't work, that's probably what's happening. You can get around this by either clearing cache from localhost, or disabling cache while your F12 console is open.
 	- There is also no sound yet as I decided to render the midis instead so that it integrates with HTML5 better. That's on the list.
-- I have "remastered" the midi tracks under Exported/midi (first draft) with a better soundfont using MuseScore 3. I do plan on rendering the original sounds, but that's takes a little longer as I have to capture the MIDI output directly with Audacity. I do have a couple done, but I'll wait to release them all.
+- I have rendered the original sounds as OGGs using the Windows soundfont under the midi folder.
+- I have also "remastered" the midi tracks under Exported/midi (first draft) with a better soundfont using MuseScore 3. I'll probably redo this later. Some articulations are missing upon import it seems.
 
 # The MOTAS Reddit
 https://www.reddit.com/r/MOTAS/
