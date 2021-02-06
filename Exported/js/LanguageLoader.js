@@ -158,7 +158,7 @@ var LanguageLoader =
 		let symbolTable = {};
 
 		// const url = 'http://localhost:8080';
-		const url = '';
+		const url = './';
 		const re = /(\w+)=([^&]+)/g;
 
 		$.ajax(
