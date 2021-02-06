@@ -8,12 +8,38 @@
 	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 	<script src="./js/LanguageLoader.js"></script>
 	<script src="./js/MOTAS_API.js"></script>
+	<script src="./midi/duplicates.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(evt) 
 		{
-			let testingLevel = 3;
-			$('#inventory-frame').attr('src', 'NewInventory.html');
-			$('#game-frame').attr('src', `mystery${testingLevel}.html`);
+			function changeLevel(toLevel)
+			{
+				if (toLevel !== '')
+				{
+					$('#inventory-frame').attr('src', 'NewInventory.html');
+					$('#game-frame').attr('src', `mystery${toLevel}.html`);
+					$('#music-player')
+						.empty()
+						.append(
+							$('<source>').attr(
+							{
+								src : './midi/OGG Renders/' + 
+									duplicateLookup[`mystery${toLevel}`] +
+									'.ogg',
+								type: 'audio/ogg'
+							})
+						);
+					$('#music-player')[0].load();
+					$('#music-player')[0].play();
+				}
+			}
+
+			changeLevel($('#level-select').val());
+
+			$('#level-select').change(function (evt)
+			{
+				changeLevel(evt.target.value);
+			});
 		});
 	</script>
 	<style type="text/css">
@@ -38,19 +64,31 @@
 		{
 			font-weight: bold;
 		}
+
+		#music-player
+		{
+			display: block
+		}
 	</style>
 </head>
 <body>
-	<!-- Need Iframes for the following:
-		Inventory/HUD
-		Game
-		Cursor
-	 -->
 	<iframe id="inventory-frame" width="680" height="150" ></iframe>
 	<iframe id="game-frame" width="700" height="500"></iframe>
 	<br />
 	Game text: <p id="game-text"></p>
 	<p id="cursor-text"></p>
 	<p id="cursor-state"></p>
+	<select id="level-select">
+		<option value="">Select a Level to Test</option>
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+	</select>
+	<div id="media-ctl">
+		Game music:
+		<audio id="music-player" autoplay="true" controls="true"></audio>
+	</div>
+	Note: I did not code for IE. If you are using IE, switch browsers to play.
 </body>
 </html>
