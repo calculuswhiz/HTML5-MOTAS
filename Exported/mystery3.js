@@ -4959,9 +4959,13 @@ if (reversed == null) { reversed = false; }
 
 	// timeline functions:
 	this.frame_0 = function() {
-		// Only hole 1 can have catch+ state, but this is handled in the button handler
-		// this.gotoAndStop(exportRoot.flags.holeState[this.name.slice(-1) | 0]);
-		this.stop();
+		if (exportRoot.flags.holeState[this.name] == null)
+		{
+			exportRoot.flags.holeState[this.name] = this.currentFrame;
+			this.stop();
+		}
+		else
+			this.gotoAndStop(exportRoot.flags.holeState[this.name]);
 		
 		MOTAS.setQuadState(
 			this.btn40,
@@ -4975,12 +4979,11 @@ if (reversed == null) { reversed = false; }
 					MOTAS.setText(myTranslation.mytxt15);
 					if (this.name === 'hole1')
 					{
-						// Hole 1 is special
-						this.gotoAndStop(
-							exportRoot.flags.ratPuzzle === 1
-								? "catch"
-								: "trap"
-						);
+						let nextState = exportRoot.flags.ratPuzzle === 1
+							? "catch"
+							: "trap";
+						
+						this.gotoAndStop(nextState);
 					}
 					else
 					{
@@ -4988,7 +4991,10 @@ if (reversed == null) { reversed = false; }
 						for (let i = 2; i <= 4; i++)
 						{
 							if (i !== this.name.slice(-1) | 0)
+							{
 								this.gotoAndStop('look');
+								return;
+							}
 						}
 						
 						this.gotoAndStop("trap");
@@ -5002,6 +5008,8 @@ if (reversed == null) { reversed = false; }
 		);
 	}
 	this.frame_2 = function() {
+		exportRoot.flags.holeState[this.name] = this.currentFrame;
+		
 		MOTAS.setQuadState(
 			this.btn46,
 			() => void moCur.setBoth(myTranslation.mytxt18, 'grab'),
@@ -5013,6 +5021,7 @@ if (reversed == null) { reversed = false; }
 				
 				moCur.setState("grab");
 				moInv.add(1, 'diskbox');
+				exportRoot.flags.holeState[this.name] = 0;
 				this.gotoAndStop(0);
 			},
 			() => {},
@@ -5020,6 +5029,7 @@ if (reversed == null) { reversed = false; }
 		);
 	}
 	this.frame_3 = function() {
+		exportRoot.flags.holeState[this.name] = this.currentFrame;
 		MOTAS.setQuadState(
 			this.btn48,
 			() => void moCur.setBoth(myTranslation.mytxt22, 'move'),
@@ -5029,6 +5039,7 @@ if (reversed == null) { reversed = false; }
 				
 				moCur.setState("grab");
 				moInv.add(1, "headcase");
+				exportRoot.flags.holeState[this.name] = 0;
 				this.gotoAndStop(0);
 			},
 			() => {},
@@ -5036,6 +5047,8 @@ if (reversed == null) { reversed = false; }
 		);
 	}
 	this.frame_4 = function() {
+		exportRoot.flags.holeState[this.name] = this.currentFrame;
+		
 		MOTAS.setQuadState(
 			this.btn49,
 			() => void moCur.setBoth(myTranslation.mytxt17, 'grab'),
@@ -5168,7 +5181,7 @@ if (reversed == null) { reversed = false; }
 
 	// Case Back
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f().s("#666666").ss(1.8,1,1).p("AAyDgICRmrIAGgQAAFjaIAGgLIhkAAIhvE7IAaB7IAjAVIAggBIAZgBICCgEIgugiIg3h2IBnkqAAFjaIARgLIgLAAAAxjjIABABIATAAIgUgBIgbgCAAyDgIgCAAIACAAgAhrDkIAZAAAiuDRIAkAUIAfgBAiLDmIABgBICPm/AhrDlIAAgBABFjiIB+AG");
+	this.shape.graphics.f().s("#666666").ss(1.8,1,1).p("AAyDgICRmrIAGgQAAFjaIAGgLIhkAAIhvE7IAaB7IAkAUICPm/IARgLIgLAAAAxjjIABABIATAAIgUgBIgbgCAAwDgIgugiIg3h2IBnkqAAyDgIgCAAIACAAgAhrDkIAZAAICCgEAhrDlIAZgBAhrDlIAAgBAiLDmIABgBIAfgBAiuDRIAjAVIAggBABFjiIB+AG");
 	this.shape.setTransform(-17.475,-10.425);
 
 	this.shape_1 = new cjs.Shape();
@@ -5176,11 +5189,11 @@ if (reversed == null) { reversed = false; }
 	this.shape_1.setTransform(-13.775,-10.725);
 
 	this.shape_2 = new cjs.Shape();
-	this.shape_2.graphics.f("#CCCCCC").s().p("AhPDRIgah7IBuk7IBlAAIgGALIiPG/IgkgUIAkAUIgBABgAgMDkIAYAAIgYABg");
+	this.shape_2.graphics.f("#CCCCCC").s().p("AhPDRIAkAUIgkgUIgah7IBuk7IBlAAIgGALIiPG/IgBABgAgMDkIAYAAIgYABg");
 	this.shape_2.setTransform(-26.975,-10.425);
 
 	this.shape_3 = new cjs.Shape();
-	this.shape_3.graphics.f("#666666").s().p("AimDlICQm/IARgLIAbACIABABIATAAIB+AGIAAAQIiRGsIgDAAIgtgiIg4h2IBokqIhoEqIA4B2IAtAiIiCADIgZABIgfABIAfgBIAAAAIgfACg");
+	this.shape_3.graphics.f("#666666").s().p("AimDlIAfgBIAAAAIgfACgAgWjaIARgLIAbACIABABIATAAIB+AGIAAAQIiRGsIgDAAIgtgiIg4h2IBokqIhoEqIA4B2IAtAiIiCADIgZABIgfABg");
 	this.shape_3.setTransform(-14.7,-10.4);
 
 	this.instance_4 = new lib.Symbol50("synched",0);
@@ -5563,7 +5576,8 @@ if (reversed == null) { reversed = false; }
 				chairNear : false,
 				tilesGotten : [false, false, false],
 				sliderState : [0, 0, 0],
-				holeState : '',
+				// Let the holes register themselves
+				holeState : {},
 				// 1 - floor solved, 2 - rat trap
 				ratPuzzle : 0
 			};

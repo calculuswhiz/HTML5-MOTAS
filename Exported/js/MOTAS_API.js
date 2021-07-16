@@ -62,36 +62,39 @@ var MOTAS = (function ()
 	};
 
 	let flavorTextTracker = new Set();
-	// gameText - can be a static string or a string returning function
+	// gameText - can be a static string or a function
 	this.setFlavorText = function (object, tooltip, gameText)
 	{
-		if (!flavorTextTracker.has(object))
-			flavorTextTracker.add(object);
-		else
+		if (flavorTextTracker.has(object))
 			return;
+		
+		flavorTextTracker.add(object);
 		object.on('rollover', () => { MOTAS.cursor.setText(tooltip) });
 		object.on('rollout', () => { MOTAS.cursor.setText() });
 
-		if (typeof(gameText) === 'string')
-			object.on('click', () => {MOTAS.setText(gameText)});
-		else
-			object.on('click', gameText);
+		object.on(
+			'click', 
+			typeof(gameText) === 'string' 
+				? () => {MOTAS.setText(gameText)}
+				: gameText
+		);
 	};
 
 	let quadStateTracker = new Set();
 	this.setQuadState = function (object, rollover, click, rollout, mousedown)
 	{
-		if (!quadStateTracker.has(object))
-			quadStateTracker.add(object);
-		else
+		if (quadStateTracker.has(object))
 			return;
+		quadStateTracker.add(object);
 		object.on('rollover', rollover || (()=>{}));
 		object.on('click', click || (()=>{}));
 		object.on('rollout', rollout || (()=>{}));
 		object.on('mousedown', mousedown || (()=>{}));
 	};
 
+	// null - holding nothing
 	let _activeObject = null;
+	// null - no slot active
 	let _activeSlot = null;
 	function generateInvHandler(itemNo)
 	{
@@ -137,15 +140,15 @@ var MOTAS = (function ()
 		},
 		clear()
 		{
-			for (let i = 1; i <= numSpaces; i++)
-				this.remove(i);
+			for (let slot = 1; slot <= numSpaces; slot++)
+				this.remove(slot);
 		},
 		dump()
 		{
-			for (let i = 1; i <= numSpaces; i++)
+			for (let slot = 1; slot <= numSpaces; slot++)
 			{
-				if (this[i] != null)
-					console.log(i, this[i]);
+				if (this[slot] != null)
+					console.log(slot, this[slot]);
 			}
 		},
 		select(slotNum)
@@ -165,20 +168,21 @@ var MOTAS = (function ()
 		},
 		includes(queryObj)
 		{
-			for (let i = 1; i <= numSpaces; i++)
+			for (let slot = 1; slot <= numSpaces; slot++)
 			{
-				if (this[i] === queryObj)
+				if (this[slot] === queryObj)
 					return true;
 			}
 
 			return false;
 		},
+		// Look for an object by name, and return the slot number. 0 if not found
 		querySlot(queryObj)
 		{
-			for (let i = 1; i <= numSpaces; i++)
+			for (let slot = 1; slot <= numSpaces; slot++)
 			{
-				if (this[i] === queryObj)
-					return i;
+				if (this[slot] === queryObj)
+					return slot;
 			}
 
 			return 0;
@@ -189,11 +193,6 @@ var MOTAS = (function ()
 		ready : false
 	};
 
-
-	// Allocate objects for levels:
-	this.lv1 = {};
-	this.lv2 = {};
-
 	return this;
 })();
 
@@ -202,7 +201,6 @@ var MOTAS = (function ()
 	// Attach APIs
 	let scriptSources = 
 	[
-		// 'http://www.midijs.net/lib/midi.js',
 		'https://code.jquery.com/jquery-3.5.1.min.js'
 	];
 

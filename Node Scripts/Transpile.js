@@ -1,16 +1,39 @@
 const reSubMap = 
 [
 	// AS2 translation:
-	/_root(?:\/:|\.)text = _root\.(myTranslation.mytxt\d+);/g, 
-		'MOTAS.setText($1);',
-	/gotoAndStop\((\d+)\)/g,
-		'gotoAndStop($1 - 1)',
+	// General props
+	/getProperty\("(\w+)", (\w+)\)/g,
+		'this.$1.$2',
+	/setProperty\("(\w+)", (\w+), (.*)\)/g,
+		'this.$1.$2 = $3',
+	// MC props
+	/gotoAnd(Stop|Play)\((\d+)\)/g,
+		'gotoAnd$1($2 - 1)',
 	/prevFrame\(\)/g, 
 		'this.gotoAndStop(this.currentFrame - 1)',
 	/nextFrame\(\)/g, 
 		'this.gotoAndStop(this.currentFrame + 1)',
-	/\t(play|stop)\(\)/g,
-		'\tthis.$1()',
+	/^(\s*)(gotoAnd(Stop|Play))/gm,
+		'$1this.$2',
+	/^(\s*)(play|stop)\(\)/gm,
+		'$1this.$2()',
+	/[:.]_visible/g,
+		'.visible',
+	/(visible = )"(\d)"/g,
+		'$1!!$2',
+	// Boolean ops
+	/\bne\b/g, '!==', 
+	/\beq\b/g, '===',
+
+	// Framework/API Conventions:
+	/_root\/:object === "0"/g,
+		'moInv.activeObject === null',
+	/_root\/:object\b/g,
+		'moInv.activeObject',
+	/(_root(?:\/:|\.))?text = _root\.(myTranslation.mytxt\d+);/g, 
+		'MOTAS.setText($2);',
+	/\.\.\/:(\w+) =/g,
+		'exportRoot.flags.$1 =',
 
 	// Style:
 	// Space after control keywords and parens
@@ -21,18 +44,42 @@ const reSubMap =
 		'$1$2',
 
 	// API stuff:
+	/_root\.mysound_fx.gotoAndStop/g,
+		'MOTAS.playSfx',
 	/_root\.object = "0";/g, 
 		'moInv.unselect();',
-	/tellTarget\("_root\/obj(\d)"\)\s+\{\s+gotoAndStop\((.+?)\);\s+\}/g, 
+	/tellTarget\("_root\/obj(\d)"\)\s+\{\s+this\.gotoAndStop\((.+?)\);\s+\}/g, 
 		'moInv.add($1, $2);',
-	/_root\.cursor\.look = _root\.(myTranslation\.mytxt\d+);/g, 
+	/_root[\/.]cursor[:.]look = _root\.(myTranslation\.mytxt\d+);/g, 
 		'moCur.setText($1);',
-	/tellTarget\("_root\/pointer"\)\s+\{\s+gotoAndStop\((.+?)\);\s+\}/g, 
-		'moCur.setState($1);'
+	/tellTarget\("_root\/pointer"\)\s+\{\s+this\.gotoAndStop\((.+?)\);\s+\}/g, 
+		'moCur.setState($1);',
+
+	// Clean-up:
+	// Clean up of single-digit math
+	/\b1 - 1\b/g, '0', /\b2 - 1\b/g, '1', /\b3 - 1\b/g, '2',
+	/\b4 - 1\b/g, '3', /\b5 - 1\b/g, '4', /\b6 - 1\b/g, '5',
+	/\b7 - 1\b/g, '6', /\b8 - 1\b/g, '7', /\b9 - 1\b/g, '8',
+	// Booleans
+	/!!1/g, 'true', /!!0/g, 'false',
 ];
 
 function processCode(code)
 {
+	// Globally uncomment:
+	if (code.startsWith('/* ') && code.endsWith('*/\n'))
+		code = code.slice(3, -3);
+
+	if (code.startsWith('on('))
+	{
+		let excessLinesEnd = code.endsWith('}\n') ? -2 : -3;
+		code = code
+			.split('\n')
+			.slice(1, excessLinesEnd)
+			.map(line => line.replace(/^(\t|    )/, ''))
+			.join('\n');
+	}
+
 	for (let i = 0; i < reSubMap.length; i += 2)
 	{
 		let re = reSubMap[i];
@@ -44,57 +91,9 @@ function processCode(code)
 }
 
 console.log(processCode(
-`this.xnew = exportRoot.player.x;
-this.ynew = exportRoot.player.y;
-let player = exportRoot.back.ratmove.player;
-let walkBox = player.walk;
+`on(release){
+	_root.text = _root.myTranslation.mytxt68;
+}
 
-if (this.xold == this.xnew)
-{
-	if (this.yold == this.ynew)
-		walkBox.text = "no";
-}
-if (this.xold > this.xnew)
-{
-	walkBox.text = "yes";
-	player.gotoAndStop("_270");
-}
-if (this.xold < this.xnew)
-{
-	walkBox.text = "yes";
-	player.gotoAndStop("_90");
-}
-if (this.yold > this.ynew)
-{
-	walkBox.text = "yes";
-	if (this.xold == this.xnew)
-	{
-		player.gotoAndStop("_0");
-	}
-	if (this.xold > this.xnew)
-	{
-		player.gotoAndStop("_315");
-	}
-	if (this.xold < this.xnew)
-	{
-		player.gotoAndStop("_45");
-	}
-}
-if (this.yold < this.ynew)
-{
-	walkBox.text = "yes";
-	if (this.xold == this.xnew)
-	{
-		player.gotoAndStop("_180");
-	}
-	if (this.xold > this.xnew)
-	{
-		player.gotoAndStop("_225");
-	}
-	if (this.xold < this.xnew)
-	{
-		player.gotoAndStop("_135");
-	}
-}
 `
 ));

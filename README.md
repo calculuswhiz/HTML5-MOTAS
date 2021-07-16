@@ -25,7 +25,7 @@ The wiki is where I will document my progress through porting MOTAS to HTML5. Th
 - I have rendered the original sounds as OGGs using the Windows soundfont under the midi folder.
 - I have also "remastered" the midi tracks under Exported/midi (first draft) with a better soundfont using MuseScore 3. I'll probably redo this later. Some articulations are missing upon import it seems.
 
-#Links
+# Links
 ## Testing Demo:
 https://calculuswhiz.github.io/HTML5-MOTAS/Exported/MOTASMain.html
 

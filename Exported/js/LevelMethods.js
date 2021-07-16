@@ -77,6 +77,8 @@ let generalText = LanguageLoader.loadFile(`general_${MOTAS.language}`);
 		let offset = offsets[key];
 		// The first entry tells us how many elements are in the text category.
 		// Lookup a random text string within the bound of the specified argument
+		// The roason the 'text' is a part of the prefix is so you can simply replace
+		// `_root` with `generalText`.
 		Object.defineProperty(generalText, 'text' + key, 
 		{
 			get : generateGetter(offset, key)
@@ -87,10 +89,12 @@ let generalText = LanguageLoader.loadFile(`general_${MOTAS.language}`);
 // Call runPreloadCheck(this) on init frame
 function runPreloadCheck(thisObj)
 {
+	console.info('Run Preload Check...');
 	let checkInv = thisObj.on('tick', () => 
 	{
 		if (moInv.ready && myTranslation.mytxt0 != null)
 		{
+			console.info('Preload Complete.');
 			thisObj.off('tick', checkInv);
 			thisObj.gotoAndStop(thisObj.currentFrame + 1);
 		}
@@ -99,7 +103,7 @@ function runPreloadCheck(thisObj)
 	thisObj.stop();
 }
 
-// Call me on first game frame
+// Call me on game frame 1
 function registerNothingHandler()
 {
 	exportRoot.on('click', (evt) => 
