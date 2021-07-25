@@ -157,15 +157,14 @@ var LanguageLoader =
 	{
 		let symbolTable = {};
 
-		// const url = 'http://localhost:8080';
 		const url = './';
 		const re = /(\w+)=([^&]+)/g;
 
 		$.ajax(
 		{
 			url: `${url}/locale/${file}.txt`,
-			async : false,
-			method : 'GET'
+			// TODO: this is not good. Use a callback instead
+			async : false
 		}).done(response =>
 		{
 			let match;

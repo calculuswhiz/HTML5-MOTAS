@@ -21,15 +21,16 @@ function transform(color, tMat)
 
 let matrix = 
 [
-	47, 63, 
-	47, 39, 
-	47, 0
+	50, 51, 
+	50, 0, 
+	50, 20
 ];
 let colors = 
 [
-	'999999',
-	'666666',
+	'000000',
 	'333333',
+	'666666',
+	'999999'
 ];
 
 console.log(colors.map(color => transform(color, matrix)));

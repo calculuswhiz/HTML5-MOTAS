@@ -21,6 +21,8 @@ const reSubMap =
 		'.visible',
 	/(visible = )"(\d)"/g,
 		'$1!!$2',
+	/_currentframe/g,
+		'this.currentFrame',
 	// Boolean ops
 	/\bne\b/g, '!==', 
 	/\beq\b/g, '===',
@@ -44,16 +46,20 @@ const reSubMap =
 		'$1$2',
 
 	// API stuff:
-	/_root\.mysound_fx.gotoAndStop/g,
+	/\b_root\.mysound_fx.gotoAndStop/g,
 		'MOTAS.playSfx',
-	/_root\.object = "0";/g, 
+	/\b_root\.object = "0";/g, 
 		'moInv.unselect();',
-	/tellTarget\("_root\/obj(\d)"\)\s+\{\s+this\.gotoAndStop\((.+?)\);\s+\}/g, 
+	/\btellTarget\("_root\/obj(\d)"\)\s+\{\s+this\.gotoAndStop\((.+?)\);\s+\}/g, 
 		'moInv.add($1, $2);',
-	/_root[\/.]cursor[:.]look = _root\.(myTranslation\.mytxt\d+);/g, 
+	/\b_root[\/.]cursor[:.]look = (.*);/g, 
 		'moCur.setText($1);',
-	/tellTarget\("_root\/pointer"\)\s+\{\s+this\.gotoAndStop\((.+?)\);\s+\}/g, 
+	/\b_root\.(?:my|obj)(Translation\.mytxt\d+)/g, 
+		'my$1',
+	/\btellTarget\("_root\/pointer"\)\s+\{\s+this\.gotoAndStop\((.+?)\);\s+\}/g, 
 		'moCur.setState($1);',
+	/\bcall\(_root\.(text\w+)\)/g,
+		'MOTAS.setText(generalText.$1)',
 
 	// Clean-up:
 	// Clean up of single-digit math
@@ -70,6 +76,7 @@ function processCode(code)
 	if (code.startsWith('/* ') && code.endsWith('*/\n'))
 		code = code.slice(3, -3);
 
+	// Get rid of button-attached evt listeners
 	if (code.startsWith('on('))
 	{
 		let excessLinesEnd = code.endsWith('}\n') ? -2 : -3;
@@ -92,7 +99,12 @@ function processCode(code)
 
 console.log(processCode(
 `on(release){
-	_root.text = _root.myTranslation.mytxt68;
+	tellTarget("_root/pointer")
+	{
+		gotoAndStop("grab");
+	}
+	call(_root.textunlocked);
+	nextFrame();
 }
 
 `

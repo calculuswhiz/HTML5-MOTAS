@@ -12,16 +12,18 @@
 	<script type="text/javascript">
 		$(document).ready(function(evt) 
 		{
+			const numLevels = 5;
+
 			function changeLevel(toLevel)
 			{
 				if (toLevel !== '')
 				{
-					$('#inventory-frame').attr('src', 'NewInventory.html');
-					$('#game-frame').attr('src', `mystery${toLevel}.html`);
+					$('#inventory-frame').prop('src', 'NewInventory.html');
+					$('#game-frame').prop('src', `mystery${toLevel}.html`);
 					$('#music-player')
 						.empty()
 						.append(
-							$('<source>').attr(
+							$('<source>').prop(
 							{
 								src : './midi/OGG Renders/' + 
 									duplicateLookup[`mystery${toLevel}`] +
@@ -40,6 +42,13 @@
 			{
 				changeLevel(evt.target.value);
 			});
+
+			for (let i = 1; i <= numLevels; i++)
+			{
+				$('#level-select').append(
+					$('<option>').prop('value', i).text(i)
+				);
+			}
 		});
 	</script>
 	<style type="text/css">
@@ -81,14 +90,10 @@
 	<p id="cursor-state"></p>
 	<select id="level-select">
 		<option value="">Select a Level to Test</option>
-		<option value="1">1</option>
-		<option value="2">2</option>
-		<option value="3">3</option>
-		<option value="4">4</option>
 	</select>
 	<div id="media-ctl">
 		Game music:
-		<audio id="music-player" autoplay="true" controls="true"></audio>
+		<audio id="music-player" autoplay controls loop></audio>
 	</div>
 	Note: I did not code for IE. If you are using IE, switch browsers to play.
 </body>

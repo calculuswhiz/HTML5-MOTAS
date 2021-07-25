@@ -15,21 +15,6 @@ var MOTAS = (function ()
 
 	this.winLevel = () => void alert('Dude, you friggin won the level!');
 
-	// TODO: Redo the midi system. midi.js is kinda bad.
-	// TODO: how do I loop?
-	this.sound = 
-	{
-		playing: false,
-		currentTrack: null,
-		mute: () => void MIDIjs.pause(),
-		unmute: () => void MIDIjs.resume(),
-		playTrack: (track) => 
-		{
-			MOTAS.sound.currentTrack = track;
-			MIDIjs.play(track);
-		}
-	};
-
 	this.playSfx = function (sndFile) 
 	{
 		console.warn('TODO: Play sfx');
@@ -41,12 +26,10 @@ var MOTAS = (function ()
 		{
 			text = text || '';
 			parent.$('#cursor-text').text('Cursor:' + text);
-			// console.log('Cursor: ' + text);
 		},
 		setState(state)
 		{
 			parent.$('#cursor-state').text('Cursor State:' + state);
-			// console.log('Cursor State: ' + state);
 		},
 		setBoth(text, state)
 		{
