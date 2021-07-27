@@ -42,6 +42,8 @@ var MOTAS = (function ()
 				type: 'audio/mp3'
 			})
 		);
+		$('#music-player')[0].load();
+		$('#music-player')[0].play();
 	};
 
 	this.cursor = 
