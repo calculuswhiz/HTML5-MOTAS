@@ -29,6 +29,13 @@
 									duplicateLookup[`mystery${toLevel}`] +
 									'.ogg',
 								type: 'audio/ogg'
+							}),
+							$('<source>').prop(
+							{
+								src : './midi/OGG Renders/' + 
+									duplicateLookup[`mystery${toLevel}`] +
+									'.mp3',
+								type: 'audio/mp3'
 							})
 						);
 					$('#music-player')[0].load();
