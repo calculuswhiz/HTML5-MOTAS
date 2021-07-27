@@ -33,6 +33,13 @@ var MOTAS = (function ()
 					duplicateLookup[`mystery${level}`] +
 					'.ogg',
 				type: 'audio/ogg'
+			}),
+			$('<source>').prop(
+			{
+				src : './midi/OGG Renders/' + 
+					duplicateLookup[`mystery${level}`] +
+					'.mp3',
+				type: 'audio/mp3'
 			})
 		);
 	};
