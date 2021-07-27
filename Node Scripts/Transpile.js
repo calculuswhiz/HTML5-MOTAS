@@ -62,10 +62,10 @@ const reSubMap =
 		'MOTAS.setText(generalText.$1)',
 
 	// Clean-up:
-	// Clean up of single-digit math
-	/\b1 - 1\b/g, '0', /\b2 - 1\b/g, '1', /\b3 - 1\b/g, '2',
-	/\b4 - 1\b/g, '3', /\b5 - 1\b/g, '4', /\b6 - 1\b/g, '5',
-	/\b7 - 1\b/g, '6', /\b8 - 1\b/g, '7', /\b9 - 1\b/g, '8',
+	// Clean up of single-digit math and non-borrow subtraction
+	/\b(\d*)1 - 1\b/g, '$10', /\b(\d*)2 - 1\b/g, '$11', /\b(\d*)3 - 1\b/g, '$12',
+	/\b(\d*)4 - 1\b/g, '$13', /\b(\d*)5 - 1\b/g, '$14', /\b(\d*)6 - 1\b/g, '$15',
+	/\b(\d*)7 - 1\b/g, '$16', /\b(\d*)8 - 1\b/g, '$17', /\b(\d*)9 - 1\b/g, '$18',
 	// Booleans
 	/!!1/g, 'true', /!!0/g, 'false',
 ];
@@ -99,12 +99,7 @@ function processCode(code)
 
 console.log(processCode(
 `on(release){
-	tellTarget("_root/pointer")
-	{
-		gotoAndStop("grab");
-	}
-	call(_root.textunlocked);
-	nextFrame();
+	call(_root.locked);
 }
 
 `

@@ -26,7 +26,10 @@ function addFreezeClips(/*...*/)
 	for (let clip of arguments)
 	{
 		if (clip == null)
+		{
 			console.warn('Null clip supplied.');
+			console.trace();
+		}
 		if (clip instanceof createjs.MovieClip)
 			freezeRegistry.add(clip);
 	}

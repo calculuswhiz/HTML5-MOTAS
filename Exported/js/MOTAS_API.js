@@ -3,21 +3,38 @@
 // Game state data goes here.
 var MOTAS = (function ()
 {
-	let _level = null;
-	
 	this.language = 'english';
 	this.loadText = LanguageLoader.loadFile;
-
-	Object.defineProperty(this, 'level', 
-	{
-		get: () => _level
-	});
 
 	this.winLevel = () => void alert('Dude, you friggin won the level!');
 
 	this.playSfx = function (sndFile) 
 	{
 		console.warn('TODO: Play sfx');
+	};
+
+	// Most of the time, this is handled automatically by the level selection,
+	// but level 6 throws a wrench into that.
+	this.unloadLevelMusic = function ()
+	{
+		let $player = parent.$('#music-player');
+		$player[0].pause();
+		$player.empty();
+		$player[0].load();
+	};
+
+	this.reloadLevelMusic = function (level)
+	{
+		let $player = parent.$('#music-player');
+		$player.append(
+			$('<source>').prop(
+			{
+				src : './midi/OGG Renders/' + 
+					duplicateLookup[`mystery${level}`] +
+					'.ogg',
+				type: 'audio/ogg'
+			})
+		);
 	};
 
 	this.cursor = 
