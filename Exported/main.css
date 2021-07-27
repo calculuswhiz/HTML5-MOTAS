@@ -1,0 +1,29 @@
+body
+{
+	background-color: black;
+	color: white;
+	font-family: sans-serif;
+}
+
+iframe 
+{
+	display: block;
+}
+
+#game-frame
+{
+	border: none;
+}
+
+#game-text
+{
+	font-weight: bold;
+	border: 1px dotted gray;
+	width: 700px;
+	height: 30pt
+}
+
+#music-player
+{
+	display: block
+}
