@@ -98,9 +98,14 @@ function processCode(code)
 }
 
 console.log(processCode(
-`on(release){
-	call(_root.locked);
+`/* if(../:wheelr1 eq "2")
+{
+	stop();
 }
-
+else
+{
+	nextFrame();
+}
+*/
 `
 ));

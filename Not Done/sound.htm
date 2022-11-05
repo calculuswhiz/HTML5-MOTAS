@@ -1,0 +1,23 @@
+<html><head><title>SOUND</title>
+<script language="JavaScript" src="http://www.albartus.com/motas/js/serverInfo.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="js/localInfo.js" type="text/JavaScript"></script>
+<SCRIPT language="JavaScript" src="js/forceFrames.js" type="text/JavaScript"></SCRIPT>
+</head>
+<body bgcolor="#000000" text="#000000" link="#000000" vlink="#000000" alink="#000000">
+<SCRIPT LANGUAGE="JavaScript" type="text/JavaScript">
+<!--
+var table_of_contents = "menu.mid";
+var midi = (location.search) ? location.search.substring(1, location.search.length) : table_of_contents;
+
+var MSIE=navigator.userAgent.indexOf("MSIE");
+var NETS=navigator.userAgent.indexOf("Netscape");
+var OPER=navigator.userAgent.indexOf("Opera");
+if((MSIE>-1) || (OPER>-1)) {
+	document.write('<BGSOUND SRC='+midi+' LOOP=INFINITE>');
+} else {
+	document.write('<EMBED SRC='+midi+' AUTOSTART=TRUE ');
+	document.write('HIDDEN=true VOLUME=100 LOOP=TRUE>');
+}
+//-->
+</script>
+</html>
